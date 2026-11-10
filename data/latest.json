@@ -1,0 +1,8076 @@
+[
+ {
+  "name": "hashbrown",
+  "slug": "hashbrown",
+  "summary": "A Rust port of Google's SwissTable hash map",
+  "version": "0.17.1",
+  "released": "2026-05-09",
+  "first_release": "2018-10-29",
+  "n_releases": 56,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85.0",
+  "deps": 3042299702,
+  "topics": [
+   "Data structures",
+   "No standard library"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [
+   "hash",
+   "hashmap",
+   "swisstable"
+  ],
+  "repo": "https://github.com/rust-lang/hashbrown",
+  "home": "",
+  "downloads": 882332034,
+  "rank": 1
+ },
+ {
+  "name": "syn",
+  "slug": "syn",
+  "summary": "Parser for Rust source code",
+  "version": "3.0.10",
+  "released": "2026-11-09",
+  "first_release": "2016-09-07",
+  "n_releases": 363,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 2988838684,
+  "topics": [
+   "Parser implementations",
+   "Procedural macro helpers"
+  ],
+  "tags": [
+   "Parser implementations",
+   "Procedural macro helpers"
+  ],
+  "keywords": [
+   "macros",
+   "syn"
+  ],
+  "repo": "https://github.com/dtolnay/syn",
+  "home": "",
+  "downloads": 865762432,
+  "rank": 2
+ },
+ {
+  "name": "getrandom",
+  "slug": "getrandom",
+  "summary": "A small cross-platform library for retrieving random data from system source",
+  "version": "0.4.3",
+  "released": "2026-06-17",
+  "first_release": "2019-01-19",
+  "n_releases": 48,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 2556306109,
+  "topics": [
+   "No standard library",
+   "Operating systems"
+  ],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/rust-random/getrandom",
+  "home": "",
+  "downloads": 789319322,
+  "rank": 3
+ },
+ {
+  "name": "rand",
+  "slug": "rand",
+  "summary": "Random number generators and other randomness functionality.",
+  "version": "0.10.3",
+  "released": "2026-09-20",
+  "first_release": "2015-02-03",
+  "n_releases": 94,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 2139892161,
+  "topics": [
+   "Algorithms",
+   "No standard library"
+  ],
+  "tags": [
+   "Algorithms"
+  ],
+  "keywords": [
+   "random",
+   "rng"
+  ],
+  "repo": "https://github.com/rust-random/rand",
+  "home": "https://rust-random.github.io/book",
+  "downloads": 618432384,
+  "rank": 4
+ },
+ {
+  "name": "rand_core",
+  "slug": "rand-core",
+  "summary": "Core random number generator traits and tools for implementation.",
+  "version": "0.10.1",
+  "released": "2026-09-02",
+  "first_release": "2017-09-14",
+  "n_releases": 42,
+  "license": "MIT/Apache-2.0",
+  "python": "Not specified",
+  "deps": 2159492593,
+  "topics": [
+   "Algorithms",
+   "No standard library"
+  ],
+  "tags": [
+   "Algorithms"
+  ],
+  "keywords": [
+   "random",
+   "rng"
+  ],
+  "repo": "https://github.com/rust-lang-nursery/rand",
+  "home": "https://crates.io/crates/rand_core",
+  "downloads": 615253415,
+  "rank": 5
+ },
+ {
+  "name": "bitflags",
+  "slug": "bitflags",
+  "summary": "A macro to generate structures which behave like bitflags.",
+  "version": "2.13.2",
+  "released": "2026-09-10",
+  "first_release": "2015-01-15",
+  "n_releases": 64,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.56.0",
+  "deps": 2236181964,
+  "topics": [
+   "No standard library"
+  ],
+  "tags": [],
+  "keywords": [
+   "bit",
+   "bitflags",
+   "bitmask",
+   "flags"
+  ],
+  "repo": "https://github.com/bitflags/bitflags",
+  "home": "https://github.com/bitflags/bitflags",
+  "downloads": 577744151,
+  "rank": 6
+ },
+ {
+  "name": "thiserror",
+  "slug": "thiserror",
+  "summary": "derive(Error)",
+  "version": "2.0.21",
+  "released": "2026-09-23",
+  "first_release": "2019-10-09",
+  "n_releases": 92,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.77",
+  "deps": 1819970844,
+  "topics": [
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [],
+  "keywords": [
+   "derive",
+   "error",
+   "error-handling"
+  ],
+  "repo": "https://github.com/dtolnay/thiserror",
+  "home": "",
+  "downloads": 514422308,
+  "rank": 7
+ },
+ {
+  "name": "thiserror-impl",
+  "slug": "thiserror-impl",
+  "summary": "Implementation detail of the `thiserror` crate",
+  "version": "2.0.21",
+  "released": "2026-09-23",
+  "first_release": "2019-10-09",
+  "n_releases": 91,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.77",
+  "deps": 1820134123,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/dtolnay/thiserror",
+  "home": "",
+  "downloads": 514353248,
+  "rank": 8
+ },
+ {
+  "name": "windows-sys",
+  "slug": "windows-sys",
+  "summary": "Rust for Windows",
+  "version": "0.61.2",
+  "released": "2025-10-06",
+  "first_release": "2021-10-18",
+  "n_releases": 23,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 1900330313,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 508561664,
+  "rank": 9
+ },
+ {
+  "name": "base64",
+  "slug": "base64",
+  "summary": "encodes and decodes base64 as bytes or utf8",
+  "version": "0.23.1",
+  "released": "2026-08-04",
+  "first_release": "2015-12-04",
+  "n_releases": 45,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71.0",
+  "deps": 1935423075,
+  "topics": [
+   "Encoding"
+  ],
+  "tags": [
+   "Encoding"
+  ],
+  "keywords": [
+   "base64",
+   "decode",
+   "encode",
+   "utf8"
+  ],
+  "repo": "https://github.com/marshallpierce/rust-base64",
+  "home": "",
+  "downloads": 507586786,
+  "rank": 10
+ },
+ {
+  "name": "quote",
+  "slug": "quote",
+  "summary": "Quasi-quoting macro quote!(...)",
+  "version": "1.0.47",
+  "released": "2026-07-19",
+  "first_release": "2016-09-03",
+  "n_releases": 95,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 1936014310,
+  "topics": [
+   "Procedural macro helpers"
+  ],
+  "tags": [
+   "Procedural macro helpers"
+  ],
+  "keywords": [
+   "macros",
+   "syn"
+  ],
+  "repo": "https://github.com/dtolnay/quote",
+  "home": "",
+  "downloads": 478080932,
+  "rank": 11
+ },
+ {
+  "name": "libc",
+  "slug": "libc",
+  "summary": "Raw FFI bindings to platform libraries like libc.",
+  "version": "0.2.191",
+  "released": "2026-10-16",
+  "first_release": "2015-01-15",
+  "n_releases": 209,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.65",
+  "deps": 1950292791,
+  "topics": [
+   "External FFI bindings",
+   "No standard library",
+   "Operating systems"
+  ],
+  "tags": [],
+  "keywords": [
+   "bindings",
+   "ffi",
+   "libc",
+   "operating",
+   "system"
+  ],
+  "repo": "https://github.com/rust-lang/libc",
+  "home": "",
+  "downloads": 475977296,
+  "rank": 12
+ },
+ {
+  "name": "indexmap",
+  "slug": "indexmap",
+  "summary": "A hash table with consistent order and fast iteration.",
+  "version": "2.14.2",
+  "released": "2026-09-05",
+  "first_release": "2018-01-30",
+  "n_releases": 57,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.85",
+  "deps": 1860448077,
+  "topics": [
+   "Data structures",
+   "No standard library"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [
+   "hashmap"
+  ],
+  "repo": "https://github.com/indexmap-rs/indexmap",
+  "home": "",
+  "downloads": 473880069,
+  "rank": 13
+ },
+ {
+  "name": "proc-macro2",
+  "slug": "proc-macro2",
+  "summary": "A substitute implementation of the compiler's `proc_macro` API to decouple token-based libraries from the procedural macro use case.",
+  "version": "1.0.107",
+  "released": "2026-07-19",
+  "first_release": "2017-07-06",
+  "n_releases": 163,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 1926525043,
+  "topics": [
+   "Procedural macro helpers"
+  ],
+  "tags": [
+   "Procedural macro helpers"
+  ],
+  "keywords": [
+   "macros",
+   "syn"
+  ],
+  "repo": "https://github.com/dtolnay/proc-macro2",
+  "home": "",
+  "downloads": 470412726,
+  "rank": 14
+ },
+ {
+  "name": "memchr",
+  "slug": "memchr",
+  "summary": "Provides extremely fast (uses SIMD on x86_64, aarch64 and wasm32) routines for\n1, 2 or 3 byte search and single substring search.",
+  "version": "2.8.3",
+  "released": "2026-07-08",
+  "first_release": "2015-06-11",
+  "n_releases": 47,
+  "license": "Unlicense OR MIT",
+  "python": "1.61",
+  "deps": 1716070748,
+  "topics": [
+   "find",
+   "memchr"
+  ],
+  "tags": [],
+  "keywords": [
+   "find",
+   "memchr",
+   "memmem",
+   "search",
+   "substring"
+  ],
+  "repo": "https://github.com/BurntSushi/memchr",
+  "home": "https://github.com/BurntSushi/memchr",
+  "downloads": 457198936,
+  "rank": 15
+ },
+ {
+  "name": "itertools",
+  "slug": "itertools",
+  "summary": "Extra iterator adaptors, iterator methods, free functions, and macros.",
+  "version": "0.15.0",
+  "released": "2026-06-16",
+  "first_release": "2014-11-21",
+  "n_releases": 131,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.63.0",
+  "deps": 1815006514,
+  "topics": [
+   "Algorithms",
+   "No dynamic allocation",
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [
+   "Algorithms"
+  ],
+  "keywords": [
+   "data-structure",
+   "iterator",
+   "product",
+   "zip"
+  ],
+  "repo": "https://github.com/rust-itertools/itertools",
+  "home": "",
+  "downloads": 451300983,
+  "rank": 16
+ },
+ {
+  "name": "unicode-ident",
+  "slug": "unicode-ident",
+  "summary": "Determine whether characters have the XID_Start or XID_Continue properties according to Unicode Standard Annex #31",
+  "version": "1.0.27",
+  "released": "2026-10-12",
+  "first_release": "2021-10-02",
+  "n_releases": 29,
+  "license": "(MIT OR Apache-2.0) AND Unicode-3.0",
+  "python": "1.71",
+  "deps": 1680364317,
+  "topics": [
+   "No dynamic allocation",
+   "No standard library",
+   "Procedural macro helpers"
+  ],
+  "tags": [
+   "Procedural macro helpers"
+  ],
+  "keywords": [
+   "unicode",
+   "xid"
+  ],
+  "repo": "https://github.com/dtolnay/unicode-ident",
+  "home": "",
+  "downloads": 449972192,
+  "rank": 17
+ },
+ {
+  "name": "cpufeatures",
+  "slug": "cpufeatures",
+  "summary": "Lightweight runtime CPU feature detection for aarch64, loongarch64, and x86/x86_64 targets,\nwith no_std support and support for mobile targets including Android and iOS",
+  "version": "0.3.1",
+  "released": "2026-08-26",
+  "first_release": "2021-04-26",
+  "n_releases": 27,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 1260261989,
+  "topics": [
+   "Hardware support",
+   "No standard library"
+  ],
+  "tags": [
+   "Hardware support"
+  ],
+  "keywords": [
+   "cpuid",
+   "target-feature"
+  ],
+  "repo": "https://github.com/RustCrypto/utils",
+  "home": "",
+  "downloads": 440085808,
+  "rank": 18
+ },
+ {
+  "name": "cfg-if",
+  "slug": "cfg-if",
+  "summary": "A macro to ergonomically define an item depending on a large number of #[cfg]\nparameters. Structured like an if-else chain, the first matching branch is the\nitem that gets emitted.",
+  "version": "1.0.5",
+  "released": "2026-09-16",
+  "first_release": "2015-07-08",
+  "n_releases": 17,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.32",
+  "deps": 1737511073,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/rust-lang/cfg-if",
+  "home": "",
+  "downloads": 438344055,
+  "rank": 19
+ },
+ {
+  "name": "serde_json",
+  "slug": "serde-json",
+  "summary": "A JSON serialization file format",
+  "version": "1.0.154",
+  "released": "2026-10-11",
+  "first_release": "2015-08-07",
+  "n_releases": 186,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 1588205993,
+  "topics": [
+   "Encoding",
+   "No standard library",
+   "Parser implementations"
+  ],
+  "tags": [
+   "Encoding",
+   "Parser implementations"
+  ],
+  "keywords": [
+   "json",
+   "serde",
+   "serialization"
+  ],
+  "repo": "https://github.com/serde-rs/json",
+  "home": "",
+  "downloads": 422375396,
+  "rank": 20
+ },
+ {
+  "name": "serde",
+  "slug": "serde",
+  "summary": "A generic serialization/deserialization framework",
+  "version": "1.0.229",
+  "released": "2026-07-18",
+  "first_release": "2014-12-05",
+  "n_releases": 316,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.56",
+  "deps": 1682089708,
+  "topics": [
+   "Encoding",
+   "No dynamic allocation",
+   "No standard library"
+  ],
+  "tags": [
+   "Encoding"
+  ],
+  "keywords": [
+   "serde",
+   "serialization"
+  ],
+  "repo": "https://github.com/serde-rs/serde",
+  "home": "https://serde.rs",
+  "downloads": 420700675,
+  "rank": 21
+ },
+ {
+  "name": "itoa",
+  "slug": "itoa",
+  "summary": "Fast integer primitive to string conversion",
+  "version": "1.0.19",
+  "released": "2026-11-09",
+  "first_release": "2016-06-25",
+  "n_releases": 38,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.68",
+  "deps": 1620899818,
+  "topics": [
+   "No dynamic allocation",
+   "No standard library",
+   "Value formatting"
+  ],
+  "tags": [
+   "Value formatting"
+  ],
+  "keywords": [
+   "integer"
+  ],
+  "repo": "https://github.com/dtolnay/itoa",
+  "home": "",
+  "downloads": 416351603,
+  "rank": 22
+ },
+ {
+  "name": "serde_derive",
+  "slug": "serde-derive",
+  "summary": "Macros 1.1 implementation of #[derive(Serialize, Deserialize)]",
+  "version": "1.0.229",
+  "released": "2026-07-18",
+  "first_release": "2016-08-29",
+  "n_releases": 271,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 1597508247,
+  "topics": [
+   "No dynamic allocation",
+   "No standard library"
+  ],
+  "tags": [],
+  "keywords": [
+   "derive",
+   "serde",
+   "serialization"
+  ],
+  "repo": "https://github.com/serde-rs/serde",
+  "home": "https://serde.rs",
+  "downloads": 408456083,
+  "rank": 23
+ },
+ {
+  "name": "digest",
+  "slug": "digest",
+  "summary": "Traits for cryptographic hash functions and message authentication codes",
+  "version": "0.11.3",
+  "released": "2026-05-03",
+  "first_release": "2016-10-06",
+  "n_releases": 69,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 1353657097,
+  "topics": [
+   "Cryptography",
+   "No standard library"
+  ],
+  "tags": [
+   "Cryptography"
+  ],
+  "keywords": [
+   "crypto",
+   "digest",
+   "hash"
+  ],
+  "repo": "https://github.com/RustCrypto/traits",
+  "home": "",
+  "downloads": 408050730,
+  "rank": 24
+ },
+ {
+  "name": "block-buffer",
+  "slug": "block-buffer",
+  "summary": "Buffer types for block processing of data",
+  "version": "0.12.1",
+  "released": "2026-06-11",
+  "first_release": "2017-06-12",
+  "n_releases": 41,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 1324865172,
+  "topics": [
+   "Cryptography",
+   "No standard library"
+  ],
+  "tags": [
+   "Cryptography"
+  ],
+  "keywords": [
+   "block",
+   "buffer"
+  ],
+  "repo": "https://github.com/RustCrypto/utils",
+  "home": "",
+  "downloads": 402445701,
+  "rank": 25
+ },
+ {
+  "name": "rand_chacha",
+  "slug": "rand-chacha",
+  "summary": "ChaCha random number generator",
+  "version": "0.10.0",
+  "released": "2026-02-02",
+  "first_release": "2018-10-17",
+  "n_releases": 16,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 1649821346,
+  "topics": [
+   "Algorithms",
+   "No standard library"
+  ],
+  "tags": [
+   "Algorithms"
+  ],
+  "keywords": [
+   "chacha",
+   "random",
+   "rng"
+  ],
+  "repo": "https://github.com/rust-random/rand",
+  "home": "https://rust-random.github.io/book",
+  "downloads": 397465908,
+  "rank": 26
+ },
+ {
+  "name": "crypto-common",
+  "slug": "crypto-common",
+  "summary": "Common traits used by cryptographic algorithms",
+  "version": "0.2.2",
+  "released": "2026-05-19",
+  "first_release": "2021-02-10",
+  "n_releases": 35,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 1146041313,
+  "topics": [
+   "Cryptography",
+   "No standard library"
+  ],
+  "tags": [
+   "Cryptography"
+  ],
+  "keywords": [
+   "crypto",
+   "traits"
+  ],
+  "repo": "https://github.com/RustCrypto/traits",
+  "home": "",
+  "downloads": 396108879,
+  "rank": 27
+ },
+ {
+  "name": "log",
+  "slug": "log",
+  "summary": "A lightweight logging facade for Rust",
+  "version": "0.4.35",
+  "released": "2026-10-30",
+  "first_release": "2014-12-13",
+  "n_releases": 65,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71.0",
+  "deps": 1509398547,
+  "topics": [
+   "Debugging"
+  ],
+  "tags": [
+   "Debugging"
+  ],
+  "keywords": [
+   "logging"
+  ],
+  "repo": "https://github.com/rust-lang/log",
+  "home": "",
+  "downloads": 382750834,
+  "rank": 28
+ },
+ {
+  "name": "serde_core",
+  "slug": "serde-core",
+  "summary": "Serde traits only, with no support for derive -- use the `serde` crate instead",
+  "version": "1.0.229",
+  "released": "2026-07-18",
+  "first_release": "2025-09-13",
+  "n_releases": 10,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.56",
+  "deps": 835234265,
+  "topics": [
+   "Encoding",
+   "No dynamic allocation",
+   "No standard library"
+  ],
+  "tags": [
+   "Encoding"
+  ],
+  "keywords": [
+   "serde",
+   "serialization"
+  ],
+  "repo": "https://github.com/serde-rs/serde",
+  "home": "https://serde.rs",
+  "downloads": 379516939,
+  "rank": 29
+ },
+ {
+  "name": "smallvec",
+  "slug": "smallvec",
+  "summary": "'Small vector' optimization: store up to a small number of items on the stack",
+  "version": "1.16.5",
+  "released": "2026-11-06",
+  "first_release": "2015-04-06",
+  "n_releases": 88,
+  "license": "MIT OR Apache-2.0",
+  "python": "Not specified",
+  "deps": 1438900460,
+  "topics": [
+   "Data structures"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [
+   "small",
+   "stack",
+   "vec",
+   "vector"
+  ],
+  "repo": "https://github.com/servo/rust-smallvec",
+  "home": "",
+  "downloads": 375731897,
+  "rank": 30
+ },
+ {
+  "name": "once_cell",
+  "slug": "once-cell",
+  "summary": "Single assignment cells and lazy values.",
+  "version": "1.21.4",
+  "released": "2026-03-12",
+  "first_release": "2018-08-02",
+  "n_releases": 67,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.65",
+  "deps": 1509063942,
+  "topics": [
+   "Memory management",
+   "Rust patterns"
+  ],
+  "tags": [
+   "Memory management"
+  ],
+  "keywords": [
+   "lazy",
+   "static"
+  ],
+  "repo": "https://github.com/matklad/once_cell",
+  "home": "",
+  "downloads": 374863976,
+  "rank": 31
+ },
+ {
+  "name": "socket2",
+  "slug": "socket2",
+  "summary": "Utilities for handling networking sockets with a maximal amount of configuration\npossible intended.",
+  "version": "0.6.5",
+  "released": "2026-07-13",
+  "first_release": "2017-06-07",
+  "n_releases": 59,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.70",
+  "deps": 1468152505,
+  "topics": [
+   "API bindings",
+   "Network programming"
+  ],
+  "tags": [
+   "Network programming"
+  ],
+  "keywords": [
+   "io",
+   "network",
+   "socket"
+  ],
+  "repo": "https://github.com/rust-lang/socket2",
+  "home": "https://github.com/rust-lang/socket2",
+  "downloads": 374540986,
+  "rank": 32
+ },
+ {
+  "name": "cc",
+  "slug": "cc",
+  "summary": "A build-time dependency for Cargo build scripts to assist in invoking the native\nC compiler to compile native C code into a static archive to be linked into Rust\ncode.",
+  "version": "1.11.1",
+  "released": "2026-11-06",
+  "first_release": "2014-12-16",
+  "n_releases": 232,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.65.0",
+  "deps": 1493942062,
+  "topics": [
+   "Build Utils"
+  ],
+  "tags": [
+   "Build Utils"
+  ],
+  "keywords": [
+   "build-dependencies"
+  ],
+  "repo": "https://github.com/rust-lang/cc-rs",
+  "home": "https://github.com/rust-lang/cc-rs",
+  "downloads": 374496273,
+  "rank": 33
+ },
+ {
+  "name": "sha2",
+  "slug": "sha2",
+  "summary": "Pure Rust implementation of the SHA-2 hash function family\nincluding SHA-224, SHA-256, SHA-384, and SHA-512.",
+  "version": "0.11.1",
+  "released": "2026-10-12",
+  "first_release": "2016-05-06",
+  "n_releases": 51,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.88",
+  "deps": 1204505909,
+  "topics": [
+   "Cryptography",
+   "No standard library"
+  ],
+  "tags": [
+   "Cryptography"
+  ],
+  "keywords": [
+   "digest",
+   "hash",
+   "sha2"
+  ],
+  "repo": "https://github.com/RustCrypto/hashes",
+  "home": "",
+  "downloads": 372182387,
+  "rank": 34
+ },
+ {
+  "name": "heck",
+  "slug": "heck",
+  "summary": "heck is a case conversion library.",
+  "version": "0.5.0",
+  "released": "2024-03-12",
+  "first_release": "2017-03-27",
+  "n_releases": 11,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.56",
+  "deps": 1541545314,
+  "topics": [
+   "No standard library"
+  ],
+  "tags": [],
+  "keywords": [
+   "camel",
+   "case",
+   "snake",
+   "string",
+   "unicode"
+  ],
+  "repo": "https://github.com/withoutboats/heck",
+  "home": "",
+  "downloads": 371891730,
+  "rank": 35
+ },
+ {
+  "name": "autocfg",
+  "slug": "autocfg",
+  "summary": "Automatic cfg for Rust compiler features",
+  "version": "1.5.1",
+  "released": "2026-05-22",
+  "first_release": "2018-05-30",
+  "n_releases": 18,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.0",
+  "deps": 1539293410,
+  "topics": [
+   "Build Utils"
+  ],
+  "tags": [
+   "Build Utils"
+  ],
+  "keywords": [
+   "autoconf",
+   "build",
+   "rustc"
+  ],
+  "repo": "https://github.com/cuviper/autocfg",
+  "home": "",
+  "downloads": 368778049,
+  "rank": 36
+ },
+ {
+  "name": "winnow",
+  "slug": "winnow",
+  "summary": "A byte-oriented, zero-copy, parser combinators library",
+  "version": "1.0.5",
+  "released": "2026-11-05",
+  "first_release": "2023-02-22",
+  "n_releases": 112,
+  "license": "MIT",
+  "python": "1.65.0",
+  "deps": 1152903493,
+  "topics": [
+   "Parsing tools"
+  ],
+  "tags": [
+   "Parsing tools"
+  ],
+  "keywords": [
+   "bit",
+   "parser",
+   "parser-combinators",
+   "parsing",
+   "streaming"
+  ],
+  "repo": "https://github.com/winnow-rs/winnow",
+  "home": "",
+  "downloads": 366736828,
+  "rank": 37
+ },
+ {
+  "name": "regex-syntax",
+  "slug": "regex-syntax",
+  "summary": "A regular expression parser.",
+  "version": "0.8.11",
+  "released": "2026-06-09",
+  "first_release": "2015-05-27",
+  "n_releases": 79,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.65",
+  "deps": 1684848517,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/rust-lang/regex",
+  "home": "https://github.com/rust-lang/regex/tree/master/regex-syntax",
+  "downloads": 362635594,
+  "rank": 38
+ },
+ {
+  "name": "rustix",
+  "slug": "rustix",
+  "summary": "Safe Rust bindings to POSIX/Unix/Linux/Winsock-like syscalls",
+  "version": "1.1.6",
+  "released": "2026-10-27",
+  "first_release": "2021-10-29",
+  "n_releases": 171,
+  "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+  "python": "1.65",
+  "deps": 1382414478,
+  "topics": [
+   "Date and time",
+   "Filesystem",
+   "Network programming",
+   "Unix APIs"
+  ],
+  "tags": [
+   "Date and time",
+   "Filesystem",
+   "Network programming",
+   "Unix APIs"
+  ],
+  "keywords": [
+   "api",
+   "file",
+   "network",
+   "safe",
+   "syscall"
+  ],
+  "repo": "https://github.com/bytecodealliance/rustix",
+  "home": "",
+  "downloads": 355413160,
+  "rank": 39
+ },
+ {
+  "name": "regex-automata",
+  "slug": "regex-automata",
+  "summary": "Automata construction and matching using regular expressions.",
+  "version": "0.4.18",
+  "released": "2026-08-04",
+  "first_release": "2019-01-02",
+  "n_releases": 42,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.65",
+  "deps": 1485921004,
+  "topics": [
+   "Text processing"
+  ],
+  "tags": [
+   "Text processing"
+  ],
+  "keywords": [
+   "automata",
+   "automaton",
+   "dfa",
+   "nfa",
+   "regex"
+  ],
+  "repo": "https://github.com/rust-lang/regex",
+  "home": "https://github.com/rust-lang/regex/tree/master/regex-automata",
+  "downloads": 352025898,
+  "rank": 40
+ },
+ {
+  "name": "shlex",
+  "slug": "shlex",
+  "summary": "Split a string into shell words, like Python's shlex.",
+  "version": "2.0.1",
+  "released": "2026-05-17",
+  "first_release": "2015-06-22",
+  "n_releases": 9,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.46.0",
+  "deps": 1070167203,
+  "topics": [
+   "Command-line interface",
+   "Parser implementations"
+  ],
+  "tags": [
+   "Command-line interface",
+   "Parser implementations"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/comex/rust-shlex",
+  "home": "",
+  "downloads": 348550536,
+  "rank": 41
+ },
+ {
+  "name": "zmij",
+  "slug": "zmij",
+  "summary": "A double-to-string conversion algorithm based on Schubfach and xjb",
+  "version": "1.0.23",
+  "released": "2026-07-13",
+  "first_release": "2025-12-18",
+  "n_releases": 37,
+  "license": "MIT",
+  "python": "1.71",
+  "deps": 666944790,
+  "topics": [
+   "No dynamic allocation",
+   "No standard library",
+   "Value formatting"
+  ],
+  "tags": [
+   "Value formatting"
+  ],
+  "keywords": [
+   "float"
+  ],
+  "repo": "https://github.com/dtolnay/zmij",
+  "home": "",
+  "downloads": 346702576,
+  "rank": 42
+ },
+ {
+  "name": "linux-raw-sys",
+  "slug": "linux-raw-sys",
+  "summary": "Generated bindings for Linux's userspace API",
+  "version": "0.12.1",
+  "released": "2025-12-23",
+  "first_release": "2021-06-12",
+  "n_releases": 107,
+  "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+  "python": "1.63",
+  "deps": 1303898970,
+  "topics": [
+   "External FFI bindings"
+  ],
+  "tags": [],
+  "keywords": [
+   "ffi",
+   "linux",
+   "uapi"
+  ],
+  "repo": "https://github.com/sunfishcode/linux-raw-sys",
+  "home": "",
+  "downloads": 336927054,
+  "rank": 43
+ },
+ {
+  "name": "toml_datetime",
+  "slug": "toml-datetime",
+  "summary": "A TOML-compatible datetime type",
+  "version": "1.1.3+spec-1.1.0",
+  "released": "2026-11-06",
+  "first_release": "2022-10-21",
+  "n_releases": 26,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 1020305987,
+  "topics": [
+   "Configuration",
+   "Encoding",
+   "Parser implementations",
+   "Parsing tools"
+  ],
+  "tags": [
+   "Configuration",
+   "Encoding",
+   "Parser implementations",
+   "Parsing tools"
+  ],
+  "keywords": [
+   "encoding",
+   "toml"
+  ],
+  "repo": "https://github.com/toml-rs/toml",
+  "home": "",
+  "downloads": 336065205,
+  "rank": 44
+ },
+ {
+  "name": "aho-corasick",
+  "slug": "aho-corasick",
+  "summary": "Fast multiple substring searching.",
+  "version": "1.1.5",
+  "released": "2026-08-03",
+  "first_release": "2015-06-12",
+  "n_releases": 63,
+  "license": "Unlicense OR MIT",
+  "python": "1.60.0",
+  "deps": 1366111257,
+  "topics": [
+   "Text processing"
+  ],
+  "tags": [
+   "Text processing"
+  ],
+  "keywords": [
+   "multi",
+   "pattern",
+   "search",
+   "string",
+   "text"
+  ],
+  "repo": "https://github.com/BurntSushi/aho-corasick",
+  "home": "https://github.com/BurntSushi/aho-corasick",
+  "downloads": 334914181,
+  "rank": 45
+ },
+ {
+  "name": "foldhash",
+  "slug": "foldhash",
+  "summary": "A fast, non-cryptographic, minimally DoS-resistant hashing algorithm.",
+  "version": "0.2.0",
+  "released": "2025-08-23",
+  "first_release": "2024-08-12",
+  "n_releases": 7,
+  "license": "Zlib",
+  "python": "1.60",
+  "deps": 805597232,
+  "topics": [
+   "Algorithms",
+   "No standard library"
+  ],
+  "tags": [
+   "Algorithms"
+  ],
+  "keywords": [
+   "hash",
+   "hasher"
+  ],
+  "repo": "https://github.com/orlp/foldhash",
+  "home": "",
+  "downloads": 329447146,
+  "rank": 46
+ },
+ {
+  "name": "zerocopy",
+  "slug": "zerocopy",
+  "summary": "Zerocopy makes zero-cost memory manipulation effortless. We write \"unsafe\" so you don't have to.",
+  "version": "0.8.63",
+  "released": "2026-10-13",
+  "first_release": "2018-08-15",
+  "n_releases": 174,
+  "license": "BSD-2-Clause OR Apache-2.0 OR MIT",
+  "python": "1.56.0",
+  "deps": 1128350742,
+  "topics": [
+   "Embedded development",
+   "Encoding",
+   "No dynamic allocation",
+   "Parsing tools",
+   "Rust patterns"
+  ],
+  "tags": [
+   "Encoding",
+   "Parsing tools"
+  ],
+  "keywords": [
+   "cast",
+   "convert",
+   "transmutation",
+   "transmute",
+   "type-punning"
+  ],
+  "repo": "https://github.com/google/zerocopy",
+  "home": "",
+  "downloads": 326564995,
+  "rank": 47
+ },
+ {
+  "name": "bytes",
+  "slug": "bytes",
+  "summary": "Types and traits for working with bytes",
+  "version": "1.12.1",
+  "released": "2026-07-08",
+  "first_release": "2015-01-30",
+  "n_releases": 59,
+  "license": "MIT",
+  "python": "1.57",
+  "deps": 1258350549,
+  "topics": [
+   "Data structures",
+   "Network programming"
+  ],
+  "tags": [
+   "Data structures",
+   "Network programming"
+  ],
+  "keywords": [
+   "buffers",
+   "io",
+   "zero-copy"
+  ],
+  "repo": "https://github.com/tokio-rs/bytes",
+  "home": "",
+  "downloads": 324710037,
+  "rank": 48
+ },
+ {
+  "name": "http",
+  "slug": "http",
+  "summary": "A set of types for representing HTTP requests and responses.",
+  "version": "1.5.0",
+  "released": "2026-07-29",
+  "first_release": "2014-11-20",
+  "n_releases": 45,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.57.0",
+  "deps": 1235438802,
+  "topics": [
+   "Web programming"
+  ],
+  "tags": [
+   "Web programming"
+  ],
+  "keywords": [
+   "http"
+  ],
+  "repo": "https://github.com/hyperium/http",
+  "home": "",
+  "downloads": 323027171,
+  "rank": 49
+ },
+ {
+  "name": "regex",
+  "slug": "regex",
+  "summary": "An implementation of regular expressions for Rust. This implementation uses\nfinite automata and guarantees linear time matching on all inputs.",
+  "version": "1.13.1",
+  "released": "2026-07-15",
+  "first_release": "2014-12-13",
+  "n_releases": 169,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.65",
+  "deps": 1373143373,
+  "topics": [
+   "Text processing"
+  ],
+  "tags": [
+   "Text processing"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/rust-lang/regex",
+  "home": "https://github.com/rust-lang/regex",
+  "downloads": 321765911,
+  "rank": 50
+ },
+ {
+  "name": "pin-project-lite",
+  "slug": "pin-project-lite",
+  "summary": "A lightweight version of pin-project written with declarative macros.",
+  "version": "0.2.17",
+  "released": "2026-02-27",
+  "first_release": "2019-10-22",
+  "n_releases": 31,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.37",
+  "deps": 1238940810,
+  "topics": [
+   "No dynamic allocation",
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [],
+  "keywords": [
+   "macros",
+   "pin"
+  ],
+  "repo": "https://github.com/taiki-e/pin-project-lite",
+  "home": "",
+  "downloads": 317854305,
+  "rank": 51
+ },
+ {
+  "name": "mio",
+  "slug": "mio",
+  "summary": "Lightweight non-blocking I/O.",
+  "version": "1.2.4",
+  "released": "2026-10-03",
+  "first_release": "2014-11-11",
+  "n_releases": 81,
+  "license": "MIT",
+  "python": "1.71",
+  "deps": 1245903312,
+  "topics": [
+   "Asynchronous"
+  ],
+  "tags": [
+   "Asynchronous"
+  ],
+  "keywords": [
+   "async",
+   "io",
+   "non-blocking"
+  ],
+  "repo": "https://github.com/tokio-rs/mio",
+  "home": "https://github.com/tokio-rs/mio",
+  "downloads": 316255310,
+  "rank": 52
+ },
+ {
+  "name": "equivalent",
+  "slug": "equivalent",
+  "summary": "Traits for key comparison in maps.",
+  "version": "1.0.3",
+  "released": "2026-10-13",
+  "first_release": "2023-02-05",
+  "n_releases": 5,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.6",
+  "deps": 1039677605,
+  "topics": [
+   "Data structures",
+   "No standard library"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [
+   "hashmap"
+  ],
+  "repo": "https://github.com/indexmap-rs/equivalent",
+  "home": "",
+  "downloads": 311445172,
+  "rank": 53
+ },
+ {
+  "name": "toml",
+  "slug": "toml",
+  "summary": "A native Rust encoder and decoder of TOML-formatted files and streams. Provides\nimplementations of the standard Serialize/Deserialize traits for TOML data to\nfacilitate deserializing and serializing Rust structures.",
+  "version": "1.2.1+spec-1.1.0",
+  "released": "2026-11-06",
+  "first_release": "2014-11-11",
+  "n_releases": 124,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 1121734547,
+  "topics": [
+   "Configuration",
+   "Encoding",
+   "Parser implementations",
+   "Parsing tools"
+  ],
+  "tags": [
+   "Configuration",
+   "Encoding",
+   "Parser implementations",
+   "Parsing tools"
+  ],
+  "keywords": [
+   "encoding",
+   "toml"
+  ],
+  "repo": "https://github.com/toml-rs/toml",
+  "home": "",
+  "downloads": 309038400,
+  "rank": 54
+ },
+ {
+  "name": "futures-core",
+  "slug": "futures-core",
+  "summary": "The core traits and types in for the `futures` library.",
+  "version": "0.3.34",
+  "released": "2026-08-11",
+  "first_release": "2018-03-05",
+  "n_releases": 39,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.36",
+  "deps": 1131567073,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/rust-lang/futures-rs",
+  "home": "https://rust-lang.github.io/futures-rs",
+  "downloads": 308275690,
+  "rank": 55
+ },
+ {
+  "name": "futures-util",
+  "slug": "futures-util",
+  "summary": "Common utilities and extension traits for the futures-rs library.",
+  "version": "0.3.34",
+  "released": "2026-08-11",
+  "first_release": "2018-03-05",
+  "n_releases": 39,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 1117325076,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/rust-lang/futures-rs",
+  "home": "https://rust-lang.github.io/futures-rs",
+  "downloads": 306210417,
+  "rank": 56
+ },
+ {
+  "name": "find-msvc-tools",
+  "slug": "find-msvc-tools",
+  "summary": "Find windows-specific tools, read MSVC versions from the registry and from COM interfaces",
+  "version": "0.1.15",
+  "released": "2026-10-19",
+  "first_release": "2025-08-29",
+  "n_releases": 16,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.65.0",
+  "deps": 671561327,
+  "topics": [
+   "Build Utils"
+  ],
+  "tags": [
+   "Build Utils"
+  ],
+  "keywords": [
+   "build-dependencies"
+  ],
+  "repo": "https://github.com/rust-lang/cc-rs",
+  "home": "",
+  "downloads": 305377470,
+  "rank": 57
+ },
+ {
+  "name": "futures-task",
+  "slug": "futures-task",
+  "summary": "Tools for working with tasks.",
+  "version": "0.3.34",
+  "released": "2026-08-11",
+  "first_release": "2019-07-29",
+  "n_releases": 36,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 1114754210,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/rust-lang/futures-rs",
+  "home": "https://rust-lang.github.io/futures-rs",
+  "downloads": 304621216,
+  "rank": 58
+ },
+ {
+  "name": "typenum",
+  "slug": "typenum",
+  "summary": "Typenum is a Rust library for type-level numbers evaluated at\n    compile time. It currently supports bits, unsigned integers, and signed\n    integers. It also provides a type-level array of type-level numbers, but its\n    implementation is incomplete.",
+  "version": "1.20.1",
+  "released": "2026-05-29",
+  "first_release": "2015-09-26",
+  "n_releases": 34,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.41.0",
+  "deps": 1101857488,
+  "topics": [
+   "No standard library"
+  ],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/paholg/typenum",
+  "home": "",
+  "downloads": 304279793,
+  "rank": 59
+ },
+ {
+  "name": "either",
+  "slug": "either",
+  "summary": "The enum `Either` with variants `Left` and `Right` is a general purpose sum type with two cases.",
+  "version": "1.19.0",
+  "released": "2026-10-06",
+  "first_release": "2015-09-14",
+  "n_releases": 36,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.63.0",
+  "deps": 1211834154,
+  "topics": [
+   "Data structures",
+   "No standard library"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [
+   "data-structure"
+  ],
+  "repo": "https://github.com/rayon-rs/either",
+  "home": "",
+  "downloads": 303107856,
+  "rank": 60
+ },
+ {
+  "name": "tokio",
+  "slug": "tokio",
+  "summary": "An event-driven, non-blocking I/O platform for writing asynchronous I/O\nbacked applications.",
+  "version": "1.54.1",
+  "released": "2026-10-21",
+  "first_release": "2016-07-01",
+  "n_releases": 201,
+  "license": "MIT",
+  "python": "1.85",
+  "deps": 1174111836,
+  "topics": [
+   "Asynchronous",
+   "Network programming"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Network programming"
+  ],
+  "keywords": [
+   "async",
+   "futures",
+   "io",
+   "non-blocking"
+  ],
+  "repo": "https://github.com/tokio-rs/tokio",
+  "home": "https://tokio.rs",
+  "downloads": 300935790,
+  "rank": 61
+ },
+ {
+  "name": "num-traits",
+  "slug": "num-traits",
+  "summary": "Numeric traits for generic mathematics",
+  "version": "0.2.19",
+  "released": "2024-05-03",
+  "first_release": "2016-04-14",
+  "n_releases": 32,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 1218650382,
+  "topics": [
+   "Algorithms",
+   "No standard library",
+   "Science"
+  ],
+  "tags": [
+   "Algorithms",
+   "Science"
+  ],
+  "keywords": [
+   "mathematics",
+   "numerics"
+  ],
+  "repo": "https://github.com/rust-num/num-traits",
+  "home": "https://github.com/rust-num/num-traits",
+  "downloads": 300383485,
+  "rank": 62
+ },
+ {
+  "name": "version_check",
+  "slug": "version-check",
+  "summary": "Tiny crate to check the version of the installed/running rustc.",
+  "version": "0.9.5",
+  "released": "2024-07-25",
+  "first_release": "2017-01-15",
+  "n_releases": 12,
+  "license": "MIT/Apache-2.0",
+  "python": "Not specified",
+  "deps": 1221466217,
+  "topics": [
+   "check",
+   "minimum"
+  ],
+  "tags": [],
+  "keywords": [
+   "check",
+   "minimum",
+   "rustc",
+   "version"
+  ],
+  "repo": "https://github.com/SergioBenitez/version_check",
+  "home": "",
+  "downloads": 298894360,
+  "rank": 63
+ },
+ {
+  "name": "rustc-hash",
+  "slug": "rustc-hash",
+  "summary": "A speedy, non-cryptographic hashing algorithm used by rustc",
+  "version": "2.1.3",
+  "released": "2026-07-02",
+  "first_release": "2018-05-24",
+  "n_releases": 9,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.77",
+  "deps": 1001234713,
+  "topics": [
+   "fxhash",
+   "hash"
+  ],
+  "tags": [],
+  "keywords": [
+   "fxhash",
+   "hash",
+   "hasher",
+   "rustc"
+  ],
+  "repo": "https://github.com/rust-lang/rustc-hash",
+  "home": "",
+  "downloads": 297558740,
+  "rank": 64
+ },
+ {
+  "name": "slab",
+  "slug": "slab",
+  "summary": "Pre-allocated storage for a uniform data type",
+  "version": "0.4.12",
+  "released": "2026-01-31",
+  "first_release": "2015-06-15",
+  "n_releases": 19,
+  "license": "MIT",
+  "python": "1.51",
+  "deps": 1119947880,
+  "topics": [
+   "Data structures",
+   "Memory management",
+   "No standard library"
+  ],
+  "tags": [
+   "Data structures",
+   "Memory management"
+  ],
+  "keywords": [
+   "allocator",
+   "slab"
+  ],
+  "repo": "https://github.com/tokio-rs/slab",
+  "home": "",
+  "downloads": 291859655,
+  "rank": 65
+ },
+ {
+  "name": "ryu",
+  "slug": "ryu",
+  "summary": "Fast floating point to string conversion",
+  "version": "1.0.23",
+  "released": "2026-02-08",
+  "first_release": "2018-07-28",
+  "n_releases": 35,
+  "license": "Apache-2.0 OR BSL-1.0",
+  "python": "1.71",
+  "deps": 1323382866,
+  "topics": [
+   "No dynamic allocation",
+   "No standard library",
+   "Value formatting"
+  ],
+  "tags": [
+   "Value formatting"
+  ],
+  "keywords": [
+   "float"
+  ],
+  "repo": "https://github.com/dtolnay/ryu",
+  "home": "",
+  "downloads": 291553478,
+  "rank": 66
+ },
+ {
+  "name": "windows_x86_64_msvc",
+  "slug": "windows-x86-64-msvc",
+  "summary": "Import lib for Windows",
+  "version": "0.53.1",
+  "released": "2025-10-06",
+  "first_release": "2021-10-27",
+  "n_releases": 38,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 1285061436,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 290239566,
+  "rank": 67
+ },
+ {
+  "name": "fastrand",
+  "slug": "fastrand",
+  "summary": "A simple and fast random number generator",
+  "version": "2.5.0",
+  "released": "2026-07-19",
+  "first_release": "2020-05-27",
+  "n_releases": 30,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.63",
+  "deps": 1105857064,
+  "topics": [
+   "Algorithms"
+  ],
+  "tags": [
+   "Algorithms"
+  ],
+  "keywords": [
+   "fast",
+   "rand",
+   "random",
+   "simple",
+   "wyrand"
+  ],
+  "repo": "https://github.com/smol-rs/fastrand",
+  "home": "",
+  "downloads": 289723339,
+  "rank": 68
+ },
+ {
+  "name": "errno",
+  "slug": "errno",
+  "summary": "Cross-platform interface to the `errno` variable.",
+  "version": "0.3.14",
+  "released": "2025-09-09",
+  "first_release": "2015-03-19",
+  "n_releases": 33,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.56",
+  "deps": 1036097553,
+  "topics": [
+   "No standard library",
+   "Operating systems"
+  ],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/lambda-fairy/rust-errno",
+  "home": "",
+  "downloads": 286804617,
+  "rank": 69
+ },
+ {
+  "name": "windows-targets",
+  "slug": "windows-targets",
+  "summary": "Import libs for Windows",
+  "version": "0.53.5",
+  "released": "2025-10-06",
+  "first_release": "2022-09-09",
+  "n_releases": 23,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 1228928573,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 284916740,
+  "rank": 70
+ },
+ {
+  "name": "clap",
+  "slug": "clap",
+  "summary": "A simple to use, efficient, and full-featured Command Line Argument Parser",
+  "version": "4.6.7",
+  "released": "2026-09-14",
+  "first_release": "2015-03-01",
+  "n_releases": 462,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 1323486245,
+  "topics": [
+   "Command-line interface"
+  ],
+  "tags": [
+   "Command-line interface"
+  ],
+  "keywords": [
+   "arg",
+   "argument",
+   "cli",
+   "parse",
+   "parser"
+  ],
+  "repo": "https://github.com/clap-rs/clap",
+  "home": "",
+  "downloads": 284307301,
+  "rank": 71
+ },
+ {
+  "name": "anyhow",
+  "slug": "anyhow",
+  "summary": "Flexible concrete Error type built on std::error::Error",
+  "version": "1.0.104",
+  "released": "2026-07-18",
+  "first_release": "2019-10-05",
+  "n_releases": 106,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.68",
+  "deps": 1152740260,
+  "topics": [
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [],
+  "keywords": [
+   "error",
+   "error-handling"
+  ],
+  "repo": "https://github.com/dtolnay/anyhow",
+  "home": "",
+  "downloads": 284241364,
+  "rank": 72
+ },
+ {
+  "name": "parking_lot_core",
+  "slug": "parking-lot-core",
+  "summary": "An advanced API for creating custom synchronization primitives.",
+  "version": "0.10.0",
+  "released": "2026-10-21",
+  "first_release": "2016-08-26",
+  "n_releases": 54,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.95",
+  "deps": 1292828469,
+  "topics": [
+   "Concurrency"
+  ],
+  "tags": [
+   "Concurrency"
+  ],
+  "keywords": [
+   "condvar",
+   "mutex",
+   "once",
+   "rwlock",
+   "thread"
+  ],
+  "repo": "https://github.com/Amanieu/parking_lot",
+  "home": "",
+  "downloads": 282102139,
+  "rank": 73
+ },
+ {
+  "name": "http-body",
+  "slug": "http-body",
+  "summary": "Trait representing an asynchronous, streaming, HTTP request or response body.",
+  "version": "1.1.0",
+  "released": "2026-07-13",
+  "first_release": "2019-04-04",
+  "n_releases": 20,
+  "license": "MIT",
+  "python": "1.61",
+  "deps": 1063492335,
+  "topics": [
+   "Web programming"
+  ],
+  "tags": [
+   "Web programming"
+  ],
+  "keywords": [
+   "http"
+  ],
+  "repo": "https://github.com/hyperium/http-body",
+  "home": "",
+  "downloads": 280407781,
+  "rank": 74
+ },
+ {
+  "name": "toml_edit",
+  "slug": "toml-edit",
+  "summary": "Yet another format-preserving TOML parser.",
+  "version": "0.25.19+spec-1.1.0",
+  "released": "2026-11-06",
+  "first_release": "2017-12-17",
+  "n_releases": 132,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 1010234437,
+  "topics": [
+   "Configuration",
+   "Encoding",
+   "Parser implementations",
+   "Parsing tools"
+  ],
+  "tags": [
+   "Configuration",
+   "Encoding",
+   "Parser implementations",
+   "Parsing tools"
+  ],
+  "keywords": [
+   "encoding",
+   "toml"
+  ],
+  "repo": "https://github.com/toml-rs/toml",
+  "home": "",
+  "downloads": 279604275,
+  "rank": 75
+ },
+ {
+  "name": "futures-channel",
+  "slug": "futures-channel",
+  "summary": "Channels for asynchronous communication using futures-rs.",
+  "version": "0.3.34",
+  "released": "2026-08-11",
+  "first_release": "2018-03-05",
+  "n_releases": 39,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 1059811747,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/rust-lang/futures-rs",
+  "home": "https://rust-lang.github.io/futures-rs",
+  "downloads": 279581323,
+  "rank": 76
+ },
+ {
+  "name": "generic-array",
+  "slug": "generic-array",
+  "summary": "Generic types implementing functionality of arrays",
+  "version": "1.4.5",
+  "released": "2026-08-13",
+  "first_release": "2015-09-27",
+  "n_releases": 72,
+  "license": "MIT",
+  "python": "1.65",
+  "deps": 1082535949,
+  "topics": [
+   "Data structures",
+   "No standard library"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [
+   "array",
+   "generic"
+  ],
+  "repo": "https://github.com/fizyk20/generic-array.git",
+  "home": "",
+  "downloads": 279265776,
+  "rank": 77
+ },
+ {
+  "name": "miniz_oxide",
+  "slug": "miniz-oxide",
+  "summary": "DEFLATE compression and decompression library rewritten in Rust based on miniz",
+  "version": "0.9.1",
+  "released": "2026-03-13",
+  "first_release": "2017-10-10",
+  "n_releases": 47,
+  "license": "MIT OR Zlib OR Apache-2.0",
+  "python": "Not specified",
+  "deps": 1098558471,
+  "topics": [
+   "Compression"
+  ],
+  "tags": [
+   "Compression"
+  ],
+  "keywords": [
+   "deflate",
+   "encoding",
+   "miniz",
+   "zlib"
+  ],
+  "repo": "https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide",
+  "home": "https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide",
+  "downloads": 279231077,
+  "rank": 78
+ },
+ {
+  "name": "semver",
+  "slug": "semver",
+  "summary": "Parser and evaluator for Cargo's flavor of Semantic Versioning",
+  "version": "1.0.28",
+  "released": "2026-04-04",
+  "first_release": "2014-11-11",
+  "n_releases": 66,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.68",
+  "deps": 1184868242,
+  "topics": [
+   "Data structures",
+   "No standard library"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [
+   "cargo"
+  ],
+  "repo": "https://github.com/dtolnay/semver",
+  "home": "",
+  "downloads": 279067339,
+  "rank": 79
+ },
+ {
+  "name": "windows_x86_64_gnu",
+  "slug": "windows-x86-64-gnu",
+  "summary": "Import lib for Windows",
+  "version": "0.53.1",
+  "released": "2025-10-06",
+  "first_release": "2021-10-28",
+  "n_releases": 37,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 1238359082,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 278873431,
+  "rank": 80
+ },
+ {
+  "name": "synstructure",
+  "slug": "synstructure",
+  "summary": "Helper methods and macros for custom derives",
+  "version": "0.14.0",
+  "released": "2026-07-30",
+  "first_release": "2016-10-09",
+  "n_releases": 30,
+  "license": "MIT",
+  "python": "1.71",
+  "deps": 890420582,
+  "topics": [
+   "derive",
+   "enum"
+  ],
+  "tags": [],
+  "keywords": [
+   "derive",
+   "enum",
+   "expand_substructure",
+   "macros",
+   "syn"
+  ],
+  "repo": "https://github.com/mystor/synstructure",
+  "home": "",
+  "downloads": 278524649,
+  "rank": 81
+ },
+ {
+  "name": "strsim",
+  "slug": "strsim",
+  "summary": "Implementations of string similarity metrics. Includes Hamming, Levenshtein,\nOSA, Damerau-Levenshtein, Jaro, Jaro-Winkler, and S\u00f8rensen-Dice.",
+  "version": "0.11.1",
+  "released": "2024-04-02",
+  "first_release": "2015-02-10",
+  "n_releases": 25,
+  "license": "MIT",
+  "python": "1.56",
+  "deps": 1260345782,
+  "topics": [
+   "Text processing"
+  ],
+  "tags": [
+   "Text processing"
+  ],
+  "keywords": [
+   "hamming",
+   "jaro",
+   "levenshtein",
+   "similarity",
+   "string"
+  ],
+  "repo": "https://github.com/rapidfuzz/strsim-rs",
+  "home": "https://github.com/rapidfuzz/strsim-rs",
+  "downloads": 277724258,
+  "rank": 82
+ },
+ {
+  "name": "parking_lot",
+  "slug": "parking-lot",
+  "summary": "More compact and efficient implementations of the standard synchronization primitives.",
+  "version": "0.13.0",
+  "released": "2026-10-21",
+  "first_release": "2016-05-13",
+  "n_releases": 59,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.95",
+  "deps": 1261289824,
+  "topics": [
+   "Concurrency"
+  ],
+  "tags": [
+   "Concurrency"
+  ],
+  "keywords": [
+   "condvar",
+   "mutex",
+   "once",
+   "rwlock",
+   "thread"
+  ],
+  "repo": "https://github.com/Amanieu/parking_lot",
+  "home": "",
+  "downloads": 277679080,
+  "rank": 83
+ },
+ {
+  "name": "hyper",
+  "slug": "hyper",
+  "summary": "A protective and efficient HTTP library for all.",
+  "version": "1.12.0",
+  "released": "2026-10-06",
+  "first_release": "2014-11-22",
+  "n_releases": 253,
+  "license": "MIT",
+  "python": "1.63",
+  "deps": 1110793356,
+  "topics": [
+   "HTTP client",
+   "HTTP server",
+   "Network programming"
+  ],
+  "tags": [
+   "HTTP client",
+   "HTTP server",
+   "Network programming"
+  ],
+  "keywords": [
+   "http",
+   "hyper",
+   "hyperium"
+  ],
+  "repo": "https://github.com/hyperium/hyper",
+  "home": "https://hyper.rs",
+  "downloads": 277428662,
+  "rank": 84
+ },
+ {
+  "name": "windows_aarch64_msvc",
+  "slug": "windows-aarch64-msvc",
+  "summary": "Import lib for Windows",
+  "version": "0.53.1",
+  "released": "2025-10-06",
+  "first_release": "2021-11-05",
+  "n_releases": 35,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 1230327559,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 277197956,
+  "rank": 85
+ },
+ {
+  "name": "rustls",
+  "slug": "rustls",
+  "summary": "Rustls is a modern TLS library written in Rust.",
+  "version": "0.23.46",
+  "released": "2026-10-14",
+  "first_release": "2016-08-27",
+  "n_releases": 118,
+  "license": "Apache-2.0 OR ISC OR MIT",
+  "python": "1.71",
+  "deps": 1105120494,
+  "topics": [
+   "Cryptography",
+   "Network programming"
+  ],
+  "tags": [
+   "Cryptography",
+   "Network programming"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/rustls/rustls",
+  "home": "https://github.com/rustls/rustls",
+  "downloads": 276807042,
+  "rank": 86
+ },
+ {
+  "name": "futures-sink",
+  "slug": "futures-sink",
+  "summary": "The asynchronous `Sink` trait for the futures-rs library.",
+  "version": "0.3.34",
+  "released": "2026-08-11",
+  "first_release": "2018-03-05",
+  "n_releases": 39,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.36",
+  "deps": 1060228694,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/rust-lang/futures-rs",
+  "home": "https://rust-lang.github.io/futures-rs",
+  "downloads": 276546771,
+  "rank": 87
+ },
+ {
+  "name": "crossbeam-utils",
+  "slug": "crossbeam-utils",
+  "summary": "Utilities for concurrent programming",
+  "version": "0.8.23",
+  "released": "2026-09-05",
+  "first_release": "2017-08-28",
+  "n_releases": 44,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 1097388957,
+  "topics": [
+   "Algorithms",
+   "Concurrency",
+   "Data structures",
+   "No standard library"
+  ],
+  "tags": [
+   "Algorithms",
+   "Concurrency",
+   "Data structures"
+  ],
+  "keywords": [
+   "atomic",
+   "cache",
+   "scoped",
+   "thread"
+  ],
+  "repo": "https://github.com/crossbeam-rs/crossbeam",
+  "home": "https://github.com/crossbeam-rs/crossbeam/tree/master/crossbeam-utils",
+  "downloads": 275831713,
+  "rank": 88
+ },
+ {
+  "name": "windows_i686_msvc",
+  "slug": "windows-i686-msvc",
+  "summary": "Import lib for Windows",
+  "version": "0.53.1",
+  "released": "2025-10-06",
+  "first_release": "2021-10-27",
+  "n_releases": 38,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 1228014988,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 275828558,
+  "rank": 89
+ },
+ {
+  "name": "windows_i686_gnu",
+  "slug": "windows-i686-gnu",
+  "summary": "Import lib for Windows",
+  "version": "0.53.1",
+  "released": "2025-10-06",
+  "first_release": "2021-10-28",
+  "n_releases": 37,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 1225914195,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 275661151,
+  "rank": 90
+ },
+ {
+  "name": "percent-encoding",
+  "slug": "percent-encoding",
+  "summary": "Percent encoding and decoding",
+  "version": "2.3.2",
+  "released": "2025-08-21",
+  "first_release": "2017-06-13",
+  "n_releases": 8,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.51",
+  "deps": 1086585228,
+  "topics": [
+   "No standard library"
+  ],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/servo/rust-url/",
+  "home": "",
+  "downloads": 274043017,
+  "rank": 91
+ },
+ {
+  "name": "rustversion",
+  "slug": "rustversion",
+  "summary": "Conditional compilation according to rustc compiler version",
+  "version": "1.0.23",
+  "released": "2026-07-07",
+  "first_release": "2019-07-08",
+  "n_releases": 26,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.31",
+  "deps": 947972664,
+  "topics": [
+   "Build Utils",
+   "No dynamic allocation",
+   "No standard library"
+  ],
+  "tags": [
+   "Build Utils"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/dtolnay/rustversion",
+  "home": "",
+  "downloads": 273502160,
+  "rank": 92
+ },
+ {
+  "name": "lock_api",
+  "slug": "lock-api",
+  "summary": "Wrappers to create fully-featured Mutex and RwLock types. Compatible with no_std.",
+  "version": "0.5.0",
+  "released": "2026-10-21",
+  "first_release": "2018-06-08",
+  "n_releases": 28,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.95",
+  "deps": 1172334791,
+  "topics": [
+   "Concurrency",
+   "No standard library"
+  ],
+  "tags": [
+   "Concurrency"
+  ],
+  "keywords": [
+   "lock",
+   "mutex",
+   "rwlock"
+  ],
+  "repo": "https://github.com/Amanieu/parking_lot",
+  "home": "",
+  "downloads": 273448399,
+  "rank": 93
+ },
+ {
+  "name": "windows_aarch64_gnullvm",
+  "slug": "windows-aarch64-gnullvm",
+  "summary": "Import lib for Windows",
+  "version": "0.53.1",
+  "released": "2025-10-06",
+  "first_release": "2022-09-01",
+  "n_releases": 20,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 1175423432,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 270964509,
+  "rank": 94
+ },
+ {
+  "name": "windows_x86_64_gnullvm",
+  "slug": "windows-x86-64-gnullvm",
+  "summary": "Import lib for Windows",
+  "version": "0.53.1",
+  "released": "2025-10-06",
+  "first_release": "2022-09-01",
+  "n_releases": 20,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 1175297911,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 270834550,
+  "rank": 95
+ },
+ {
+  "name": "scopeguard",
+  "slug": "scopeguard",
+  "summary": "A RAII scope guard that will run a given closure when it goes out of scope,\neven if the code between panics (assuming unwinding panic).\n\nDefines the macros `defer!`, `defer_on_unwind!`, `defer_on_success!` as\nshorthands for guards with one of the implemented strategies.",
+  "version": "1.2.0",
+  "released": "2023-07-17",
+  "first_release": "2015-04-30",
+  "n_releases": 11,
+  "license": "MIT OR Apache-2.0",
+  "python": "Not specified",
+  "deps": 1126095470,
+  "topics": [
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [],
+  "keywords": [
+   "defer",
+   "panic",
+   "scope-guard",
+   "unwind"
+  ],
+  "repo": "https://github.com/bluss/scopeguard",
+  "home": "",
+  "downloads": 266673042,
+  "rank": 96
+ },
+ {
+  "name": "tinystr",
+  "slug": "tinystr",
+  "summary": "A small ASCII-only bounded length string representation.",
+  "version": "0.8.5",
+  "released": "2026-10-22",
+  "first_release": "2019-08-10",
+  "n_releases": 37,
+  "license": "Unicode-3.0",
+  "python": "1.82",
+  "deps": 764554482,
+  "topics": [
+   "Data structures"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [
+   "ascii",
+   "small-string",
+   "str",
+   "string"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "",
+  "downloads": 265861351,
+  "rank": 97
+ },
+ {
+  "name": "yoke",
+  "slug": "yoke",
+  "summary": "Abstraction allowing borrowed data to be carried along with the backing data it borrows from",
+  "version": "0.8.4",
+  "released": "2026-10-22",
+  "first_release": "2021-05-01",
+  "n_releases": 25,
+  "license": "Unicode-3.0",
+  "python": "1.82",
+  "deps": 764617028,
+  "topics": [
+   "Caching",
+   "Data structures",
+   "Memory management",
+   "No standard library"
+  ],
+  "tags": [
+   "Caching",
+   "Data structures",
+   "Memory management"
+  ],
+  "keywords": [
+   "memory-efficiency",
+   "self-referential",
+   "serialization",
+   "zero-copy"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "",
+  "downloads": 265672979,
+  "rank": 98
+ },
+ {
+  "name": "tracing",
+  "slug": "tracing",
+  "summary": "Application-level tracing for Rust.",
+  "version": "0.1.44",
+  "released": "2025-12-18",
+  "first_release": "2017-11-27",
+  "n_releases": 46,
+  "license": "MIT",
+  "python": "1.65.0",
+  "deps": 1032169335,
+  "topics": [
+   "Asynchronous",
+   "Debugging",
+   "No standard library",
+   "Profiling"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Debugging",
+   "Profiling"
+  ],
+  "keywords": [
+   "async",
+   "logging",
+   "metrics",
+   "tracing"
+  ],
+  "repo": "https://github.com/tokio-rs/tracing",
+  "home": "https://tokio.rs",
+  "downloads": 265514895,
+  "rank": 99
+ },
+ {
+  "name": "rustls-webpki",
+  "slug": "rustls-webpki",
+  "summary": "Web PKI X.509 Certificate Verification.",
+  "version": "0.103.16",
+  "released": "2026-10-20",
+  "first_release": "2023-01-09",
+  "n_releases": 58,
+  "license": "ISC",
+  "python": "1.83",
+  "deps": 962238774,
+  "topics": [
+   "Cryptography",
+   "No standard library"
+  ],
+  "tags": [
+   "Cryptography"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/rustls/webpki",
+  "home": "",
+  "downloads": 265240886,
+  "rank": 100
+ },
+ {
+  "name": "tracing-core",
+  "slug": "tracing-core",
+  "summary": "Core primitives for application-level tracing.",
+  "version": "0.1.36",
+  "released": "2025-12-18",
+  "first_release": "2019-06-20",
+  "n_releases": 38,
+  "license": "MIT",
+  "python": "1.65.0",
+  "deps": 1042494650,
+  "topics": [
+   "Asynchronous",
+   "Debugging",
+   "Profiling"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Debugging",
+   "Profiling"
+  ],
+  "keywords": [
+   "logging",
+   "profiling",
+   "tracing"
+  ],
+  "repo": "https://github.com/tokio-rs/tracing",
+  "home": "https://tokio.rs",
+  "downloads": 265157671,
+  "rank": 101
+ },
+ {
+  "name": "icu_provider",
+  "slug": "icu-provider",
+  "summary": "Trait and struct definitions for the ICU data provider",
+  "version": "2.4.0",
+  "released": "2026-10-22",
+  "first_release": "2020-10-15",
+  "n_releases": 25,
+  "license": "Unicode-3.0",
+  "python": "1.88",
+  "deps": 749503915,
+  "topics": [
+   "Embedded development",
+   "Internationalization (i18n)",
+   "Localization (L10n)",
+   "No standard library"
+  ],
+  "tags": [
+   "Internationalization (i18n)",
+   "Localization (L10n)"
+  ],
+  "keywords": [
+   "data",
+   "data-loading"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "https://icu4x.unicode.org",
+  "downloads": 264791996,
+  "rank": 102
+ },
+ {
+  "name": "zerovec",
+  "slug": "zerovec",
+  "summary": "Zero-copy vector backed by a byte array",
+  "version": "0.11.9",
+  "released": "2026-10-22",
+  "first_release": "2021-04-19",
+  "n_releases": 35,
+  "license": "Unicode-3.0",
+  "python": "1.83",
+  "deps": 752664937,
+  "topics": [
+   "Caching",
+   "Data structures",
+   "Memory management",
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [
+   "Caching",
+   "Data structures",
+   "Memory management"
+  ],
+  "keywords": [
+   "memory-efficiency",
+   "serde",
+   "serialization",
+   "zero-copy"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "",
+  "downloads": 264735043,
+  "rank": 103
+ },
+ {
+  "name": "icu_collections",
+  "slug": "icu-collections",
+  "summary": "Collection of API for use in ICU libraries.",
+  "version": "2.4.0",
+  "released": "2026-10-22",
+  "first_release": "2022-08-05",
+  "n_releases": 16,
+  "license": "Unicode-3.0",
+  "python": "1.88",
+  "deps": 746048665,
+  "topics": [
+   "Embedded development",
+   "Internationalization (i18n)",
+   "Localization (L10n)",
+   "No standard library"
+  ],
+  "tags": [
+   "Internationalization (i18n)",
+   "Localization (L10n)"
+  ],
+  "keywords": [
+   "data-structures",
+   "unicode"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "https://icu4x.unicode.org",
+  "downloads": 263760839,
+  "rank": 104
+ },
+ {
+  "name": "idna",
+  "slug": "idna",
+  "summary": "IDNA (Internationalizing Domain Names in Applications) and Punycode.",
+  "version": "1.1.0",
+  "released": "2025-08-21",
+  "first_release": "2016-03-27",
+  "n_releases": 18,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.57",
+  "deps": 1137552701,
+  "topics": [
+   "http",
+   "no-std"
+  ],
+  "tags": [],
+  "keywords": [
+   "http",
+   "web"
+  ],
+  "repo": "https://github.com/servo/rust-url/",
+  "home": "",
+  "downloads": 263688547,
+  "rank": 105
+ },
+ {
+  "name": "zerovec-derive",
+  "slug": "zerovec-derive",
+  "summary": "Custom derive for the zerovec crate",
+  "version": "0.11.7",
+  "released": "2026-10-22",
+  "first_release": "2021-12-11",
+  "n_releases": 23,
+  "license": "Unicode-3.0",
+  "python": "1.83",
+  "deps": 746451359,
+  "topics": [
+   "Caching",
+   "Data structures",
+   "Memory management",
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [
+   "Caching",
+   "Data structures",
+   "Memory management"
+  ],
+  "keywords": [
+   "derive",
+   "macros",
+   "serialization",
+   "zero-copy"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "",
+  "downloads": 263621002,
+  "rank": 106
+ },
+ {
+  "name": "yoke-derive",
+  "slug": "yoke-derive",
+  "summary": "Custom derive for the yoke crate",
+  "version": "0.8.4",
+  "released": "2026-09-30",
+  "first_release": "2021-07-02",
+  "n_releases": 21,
+  "license": "Unicode-3.0",
+  "python": "1.82",
+  "deps": 754845249,
+  "topics": [
+   "Caching",
+   "Data structures",
+   "Memory management",
+   "No standard library"
+  ],
+  "tags": [
+   "Caching",
+   "Data structures",
+   "Memory management"
+  ],
+  "keywords": [
+   "derive",
+   "macros",
+   "self-referential",
+   "serialization",
+   "zero-copy"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "",
+  "downloads": 262688598,
+  "rank": 107
+ },
+ {
+  "name": "writeable",
+  "slug": "writeable",
+  "summary": "A more efficient alternative to fmt::Display",
+  "version": "0.6.4",
+  "released": "2026-08-13",
+  "first_release": "2020-11-12",
+  "n_releases": 17,
+  "license": "Unicode-3.0",
+  "python": "1.82",
+  "deps": 745309971,
+  "topics": [
+   "formatting",
+   "no-std"
+  ],
+  "tags": [],
+  "keywords": [
+   "formatting",
+   "string",
+   "write"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "",
+  "downloads": 262481525,
+  "rank": 108
+ },
+ {
+  "name": "litemap",
+  "slug": "litemap",
+  "summary": "A key-value Map implementation based on a flat, sorted Vec.",
+  "version": "0.8.3",
+  "released": "2026-08-13",
+  "first_release": "2021-02-23",
+  "n_releases": 20,
+  "license": "Unicode-3.0",
+  "python": "1.82",
+  "deps": 755274753,
+  "topics": [
+   "data-structures",
+   "map"
+  ],
+  "tags": [],
+  "keywords": [
+   "data-structures",
+   "map",
+   "memory-efficiency",
+   "sorted",
+   "vec"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "",
+  "downloads": 262235583,
+  "rank": 109
+ },
+ {
+  "name": "icu_properties_data",
+  "slug": "icu-properties-data",
+  "summary": "Data for the icu_properties crate",
+  "version": "2.4.0",
+  "released": "2026-10-22",
+  "first_release": "2023-09-23",
+  "n_releases": 18,
+  "license": "Unicode-3.0",
+  "python": "1.88",
+  "deps": 751325961,
+  "topics": [
+   "Embedded development",
+   "Internationalization (i18n)",
+   "Localization (L10n)",
+   "No standard library"
+  ],
+  "tags": [
+   "Internationalization (i18n)",
+   "Localization (L10n)"
+  ],
+  "keywords": [
+   "data",
+   "unicode"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "https://icu4x.unicode.org",
+  "downloads": 261545431,
+  "rank": 110
+ },
+ {
+  "name": "displaydoc",
+  "slug": "displaydoc",
+  "summary": "A derive macro for implementing the display Trait via a doc comment and string interpolation",
+  "version": "0.2.7",
+  "released": "2026-07-28",
+  "first_release": "2019-10-10",
+  "n_releases": 16,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71.0",
+  "deps": 765740516,
+  "topics": [
+   "derive",
+   "display"
+  ],
+  "tags": [],
+  "keywords": [
+   "derive",
+   "display"
+  ],
+  "repo": "https://github.com/yaahc/displaydoc",
+  "home": "https://github.com/yaahc/displaydoc",
+  "downloads": 261450845,
+  "rank": 111
+ },
+ {
+  "name": "icu_properties",
+  "slug": "icu-properties",
+  "summary": "Definitions for Unicode properties",
+  "version": "2.4.0",
+  "released": "2026-10-22",
+  "first_release": "2021-11-02",
+  "n_releases": 26,
+  "license": "Unicode-3.0",
+  "python": "1.88",
+  "deps": 747745262,
+  "topics": [
+   "Embedded development",
+   "Internationalization (i18n)",
+   "Localization (L10n)",
+   "No standard library"
+  ],
+  "tags": [
+   "Internationalization (i18n)",
+   "Localization (L10n)"
+  ],
+  "keywords": [
+   "character-properties",
+   "unicode"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "https://icu4x.unicode.org",
+  "downloads": 261094686,
+  "rank": 112
+ },
+ {
+  "name": "futures-io",
+  "slug": "futures-io",
+  "summary": "The `AsyncRead`, `AsyncWrite`, `AsyncSeek`, and `AsyncBufRead` traits for the futures-rs library.",
+  "version": "0.3.34",
+  "released": "2026-08-11",
+  "first_release": "2016-07-31",
+  "n_releases": 40,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.36",
+  "deps": 1008257765,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/rust-lang/futures-rs",
+  "home": "https://rust-lang.github.io/futures-rs",
+  "downloads": 260869319,
+  "rank": 113
+ },
+ {
+  "name": "darling_core",
+  "slug": "darling-core",
+  "summary": "Helper crate for proc-macro library for reading attributes into structs when\nimplementing custom derives. Use https://crates.io/crates/darling in your code.",
+  "version": "0.24.1",
+  "released": "2026-08-20",
+  "first_release": "2017-05-15",
+  "n_releases": 69,
+  "license": "MIT",
+  "python": "1.88.0",
+  "deps": 904703954,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/TedDriggs/darling",
+  "home": "",
+  "downloads": 260024276,
+  "rank": 114
+ },
+ {
+  "name": "darling",
+  "slug": "darling",
+  "summary": "A proc-macro library for reading attributes into structs when\nimplementing custom derives.",
+  "version": "0.24.1",
+  "released": "2026-08-20",
+  "first_release": "2017-05-15",
+  "n_releases": 69,
+  "license": "MIT",
+  "python": "1.88.0",
+  "deps": 904493388,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/TedDriggs/darling",
+  "home": "",
+  "downloads": 259930243,
+  "rank": 115
+ },
+ {
+  "name": "darling_macro",
+  "slug": "darling-macro",
+  "summary": "Internal support for a proc-macro library for reading attributes into structs when\nimplementing custom derives. Use https://crates.io/crates/darling in your code.",
+  "version": "0.24.1",
+  "released": "2026-08-20",
+  "first_release": "2017-05-15",
+  "n_releases": 69,
+  "license": "MIT",
+  "python": "1.88.0",
+  "deps": 904504024,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/TedDriggs/darling",
+  "home": "",
+  "downloads": 259752476,
+  "rank": 116
+ },
+ {
+  "name": "icu_normalizer",
+  "slug": "icu-normalizer",
+  "summary": "API for normalizing text into Unicode Normalization Forms",
+  "version": "2.4.0",
+  "released": "2026-10-22",
+  "first_release": "2021-04-29",
+  "n_releases": 21,
+  "license": "Unicode-3.0",
+  "python": "1.88",
+  "deps": 735668735,
+  "topics": [
+   "Embedded development",
+   "Internationalization (i18n)",
+   "Localization (L10n)",
+   "No standard library"
+  ],
+  "tags": [
+   "Internationalization (i18n)",
+   "Localization (L10n)"
+  ],
+  "keywords": [
+   "normalization",
+   "text-processing",
+   "unicode"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "https://icu4x.unicode.org",
+  "downloads": 258519819,
+  "rank": 117
+ },
+ {
+  "name": "icu_normalizer_data",
+  "slug": "icu-normalizer-data",
+  "summary": "Data for the icu_normalizer crate",
+  "version": "2.4.0",
+  "released": "2026-10-22",
+  "first_release": "2023-09-23",
+  "n_releases": 14,
+  "license": "Unicode-3.0",
+  "python": "1.88",
+  "deps": 739244543,
+  "topics": [
+   "Embedded development",
+   "Internationalization (i18n)",
+   "Localization (L10n)",
+   "No standard library"
+  ],
+  "tags": [
+   "Internationalization (i18n)",
+   "Localization (L10n)"
+  ],
+  "keywords": [
+   "data",
+   "unicode"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "https://icu4x.unicode.org",
+  "downloads": 258431007,
+  "rank": 118
+ },
+ {
+  "name": "reqwest",
+  "slug": "reqwest",
+  "summary": "higher level HTTP client library",
+  "version": "0.13.5",
+  "released": "2026-09-08",
+  "first_release": "2016-10-16",
+  "n_releases": 126,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85.0",
+  "deps": 896646537,
+  "topics": [
+   "HTTP client",
+   "WebAssembly"
+  ],
+  "tags": [
+   "HTTP client",
+   "WebAssembly"
+  ],
+  "keywords": [
+   "client",
+   "http",
+   "request"
+  ],
+  "repo": "https://github.com/seanmonstar/reqwest",
+  "home": "",
+  "downloads": 258429554,
+  "rank": 119
+ },
+ {
+  "name": "untrusted",
+  "slug": "untrusted",
+  "summary": "Safe, fast, zero-panic, zero-crashing, zero-allocation parsing of untrusted inputs in Rust.",
+  "version": "0.9.0",
+  "released": "2021-07-13",
+  "first_release": "2016-06-05",
+  "n_releases": 15,
+  "license": "ISC",
+  "python": "Not specified",
+  "deps": 947663179,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/briansmith/untrusted",
+  "home": "",
+  "downloads": 257080933,
+  "rank": 120
+ },
+ {
+  "name": "url",
+  "slug": "url",
+  "summary": "URL library for Rust, based on the WHATWG URL Standard",
+  "version": "2.5.8",
+  "released": "2026-01-05",
+  "first_release": "2014-11-14",
+  "n_releases": 89,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.63",
+  "deps": 1050414959,
+  "topics": [
+   "Encoding",
+   "No standard library",
+   "Parser implementations",
+   "Web programming"
+  ],
+  "tags": [
+   "Encoding",
+   "Parser implementations",
+   "Web programming"
+  ],
+  "keywords": [
+   "parser",
+   "url"
+  ],
+  "repo": "https://github.com/servo/rust-url",
+  "home": "",
+  "downloads": 255386993,
+  "rank": 121
+ },
+ {
+  "name": "lazy_static",
+  "slug": "lazy-static",
+  "summary": "A macro for declaring lazily evaluated statics in Rust.",
+  "version": "1.5.1",
+  "released": "2026-10-01",
+  "first_release": "2014-11-23",
+  "n_releases": 39,
+  "license": "MIT OR Apache-2.0",
+  "python": "Not specified",
+  "deps": 1158603732,
+  "topics": [
+   "Memory management",
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [
+   "Memory management"
+  ],
+  "keywords": [
+   "lazy",
+   "macro",
+   "static"
+  ],
+  "repo": "https://github.com/rust-lang-nursery/lazy-static.rs",
+  "home": "",
+  "downloads": 254317980,
+  "rank": 122
+ },
+ {
+  "name": "stable_deref_trait",
+  "slug": "stable-deref-trait",
+  "summary": "An unsafe marker trait for types like Box and Rc that dereference to a stable address even when moved, and hence can be used with libraries such as owning_ref and rental.",
+  "version": "1.2.1",
+  "released": "2025-10-09",
+  "first_release": "2017-03-09",
+  "n_releases": 5,
+  "license": "MIT OR Apache-2.0",
+  "python": "Not specified",
+  "deps": 829954877,
+  "topics": [
+   "Memory management",
+   "No standard library"
+  ],
+  "tags": [
+   "Memory management"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/storyyeller/stable_deref_trait",
+  "home": "",
+  "downloads": 254015013,
+  "rank": 123
+ },
+ {
+  "name": "tokio-macros",
+  "slug": "tokio-macros",
+  "summary": "Tokio's proc macros.",
+  "version": "2.7.2",
+  "released": "2026-07-29",
+  "first_release": "2019-04-24",
+  "n_releases": 41,
+  "license": "MIT",
+  "python": "1.71",
+  "deps": 963547612,
+  "topics": [
+   "Asynchronous"
+  ],
+  "tags": [
+   "Asynchronous"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/tokio-rs/tokio",
+  "home": "https://tokio.rs",
+  "downloads": 253433042,
+  "rank": 124
+ },
+ {
+  "name": "zerofrom-derive",
+  "slug": "zerofrom-derive",
+  "summary": "Custom derive for the zerofrom crate",
+  "version": "0.1.8",
+  "released": "2026-09-15",
+  "first_release": "2022-04-06",
+  "n_releases": 9,
+  "license": "Unicode-3.0",
+  "python": "1.71.1",
+  "deps": 727456735,
+  "topics": [
+   "Caching",
+   "Data structures",
+   "Memory management",
+   "No standard library"
+  ],
+  "tags": [
+   "Caching",
+   "Data structures",
+   "Memory management"
+  ],
+  "keywords": [
+   "derive",
+   "macros",
+   "serialization",
+   "zero-copy"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "",
+  "downloads": 253043838,
+  "rank": 125
+ },
+ {
+  "name": "uuid",
+  "slug": "uuid",
+  "summary": "A library to generate and parse UUIDs.",
+  "version": "1.29.2",
+  "released": "2026-11-09",
+  "first_release": "2014-11-11",
+  "n_releases": 103,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.89.0",
+  "deps": 975188471,
+  "topics": [
+   "Data structures",
+   "No standard library",
+   "Parser implementations",
+   "WebAssembly"
+  ],
+  "tags": [
+   "Data structures",
+   "Parser implementations",
+   "WebAssembly"
+  ],
+  "keywords": [
+   "guid",
+   "unique",
+   "uuid"
+  ],
+  "repo": "https://github.com/uuid-rs/uuid",
+  "home": "",
+  "downloads": 252372908,
+  "rank": 126
+ },
+ {
+  "name": "zerofrom",
+  "slug": "zerofrom",
+  "summary": "ZeroFrom trait for constructing",
+  "version": "0.1.8",
+  "released": "2026-05-12",
+  "first_release": "2022-04-06",
+  "n_releases": 9,
+  "license": "Unicode-3.0",
+  "python": "1.71.1",
+  "deps": 734102205,
+  "topics": [
+   "Caching",
+   "Data structures",
+   "No standard library"
+  ],
+  "tags": [
+   "Caching",
+   "Data structures"
+  ],
+  "keywords": [
+   "memory-efficiency",
+   "serialization",
+   "zero-copy"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "",
+  "downloads": 252227810,
+  "rank": 127
+ },
+ {
+  "name": "webpki-roots",
+  "slug": "webpki-roots",
+  "summary": "Mozilla's CA root certificates for use with webpki",
+  "version": "1.0.12",
+  "released": "2026-11-10",
+  "first_release": "2016-08-28",
+  "n_releases": 65,
+  "license": "CDLA-Permissive-2.0",
+  "python": "1.71",
+  "deps": 913148829,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/rustls/webpki-roots",
+  "home": "https://github.com/rustls/webpki-roots",
+  "downloads": 251501897,
+  "rank": 128
+ },
+ {
+  "name": "zeroize",
+  "slug": "zeroize",
+  "summary": "Securely clear secrets from memory with a simple trait built on\nstable Rust primitives which guarantee memory is zeroed using an\noperation will not be 'optimized away' by the compiler.\nUses a portable pure Rust implementation that works everywhere,\neven WASM!",
+  "version": "1.9.1",
+  "released": "2026-10-06",
+  "first_release": "2018-10-03",
+  "n_releases": 47,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.85",
+  "deps": 866613154,
+  "topics": [
+   "Cryptography",
+   "Memory management",
+   "No standard library",
+   "Operating systems"
+  ],
+  "tags": [
+   "Cryptography",
+   "Memory management"
+  ],
+  "keywords": [
+   "memory",
+   "memset",
+   "secure",
+   "volatile",
+   "zero"
+  ],
+  "repo": "https://github.com/RustCrypto/utils",
+  "home": "",
+  "downloads": 251204525,
+  "rank": 129
+ },
+ {
+  "name": "clap_lex",
+  "slug": "clap-lex",
+  "summary": "Minimal, flexible command line parser",
+  "version": "1.1.1",
+  "released": "2026-09-14",
+  "first_release": "2022-04-15",
+  "n_releases": 28,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 1043312665,
+  "topics": [
+   "Command-line interface"
+  ],
+  "tags": [
+   "Command-line interface"
+  ],
+  "keywords": [
+   "arg",
+   "argument",
+   "cli",
+   "parse",
+   "parser"
+  ],
+  "repo": "https://github.com/clap-rs/clap",
+  "home": "",
+  "downloads": 250776095,
+  "rank": 130
+ },
+ {
+  "name": "pkg-config",
+  "slug": "pkg-config",
+  "summary": "A library to run the pkg-config system tool at build time in order to be used in\nCargo build scripts.",
+  "version": "0.3.34",
+  "released": "2026-08-14",
+  "first_release": "2014-11-11",
+  "n_releases": 47,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.63",
+  "deps": 927768272,
+  "topics": [
+   "build-dependencies"
+  ],
+  "tags": [],
+  "keywords": [
+   "build-dependencies"
+  ],
+  "repo": "https://github.com/rust-lang/pkg-config-rs",
+  "home": "",
+  "downloads": 250424041,
+  "rank": 131
+ },
+ {
+  "name": "form_urlencoded",
+  "slug": "form-urlencoded",
+  "summary": "Parser and serializer for the application/x-www-form-urlencoded syntax, as used by HTML forms.",
+  "version": "1.2.2",
+  "released": "2025-08-21",
+  "first_release": "2020-06-19",
+  "n_releases": 6,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.51",
+  "deps": 969947074,
+  "topics": [
+   "No standard library"
+  ],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/servo/rust-url",
+  "home": "",
+  "downloads": 250330944,
+  "rank": 132
+ },
+ {
+  "name": "clap_builder",
+  "slug": "clap-builder",
+  "summary": "A simple to use, efficient, and full-featured Command Line Argument Parser",
+  "version": "4.6.7",
+  "released": "2026-09-14",
+  "first_release": "2023-03-28",
+  "n_releases": 109,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 918337000,
+  "topics": [
+   "Command-line interface"
+  ],
+  "tags": [
+   "Command-line interface"
+  ],
+  "keywords": [
+   "arg",
+   "argument",
+   "cli",
+   "parse",
+   "parser"
+  ],
+  "repo": "https://github.com/clap-rs/clap",
+  "home": "",
+  "downloads": 249714292,
+  "rank": 133
+ },
+ {
+  "name": "tempfile",
+  "slug": "tempfile",
+  "summary": "A library for managing temporary files and directories.",
+  "version": "3.27.0",
+  "released": "2026-03-11",
+  "first_release": "2015-04-14",
+  "n_releases": 66,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.63",
+  "deps": 981111679,
+  "topics": [
+   "filesystem",
+   "tempfile"
+  ],
+  "tags": [],
+  "keywords": [
+   "filesystem",
+   "tempfile",
+   "tmpfile"
+  ],
+  "repo": "https://github.com/Stebalien/tempfile",
+  "home": "https://stebalien.com/projects/tempfile-rs/",
+  "downloads": 248010376,
+  "rank": 134
+ },
+ {
+  "name": "futures-macro",
+  "slug": "futures-macro",
+  "summary": "The futures-rs procedural macro implementations.",
+  "version": "0.3.34",
+  "released": "2026-08-11",
+  "first_release": "2019-11-06",
+  "n_releases": 35,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 948968625,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/rust-lang/futures-rs",
+  "home": "https://rust-lang.github.io/futures-rs",
+  "downloads": 245823915,
+  "rank": 135
+ },
+ {
+  "name": "idna_adapter",
+  "slug": "idna-adapter",
+  "summary": "Back end adapter for idna",
+  "version": "1.2.2",
+  "released": "2026-04-27",
+  "first_release": "2024-07-03",
+  "n_releases": 7,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.86",
+  "deps": 706316043,
+  "topics": [
+   "Internationalization (i18n)",
+   "No standard library"
+  ],
+  "tags": [
+   "Internationalization (i18n)"
+  ],
+  "keywords": [
+   "dns",
+   "idna",
+   "unicode"
+  ],
+  "repo": "https://github.com/hsivonen/idna_adapter",
+  "home": "https://docs.rs/crate/idna_adapter/latest",
+  "downloads": 245090639,
+  "rank": 136
+ },
+ {
+  "name": "ppv-lite86",
+  "slug": "ppv-lite86",
+  "summary": "Cross-platform cryptography-oriented low-level SIMD library.",
+  "version": "0.2.21",
+  "released": "2025-03-09",
+  "first_release": "2019-02-01",
+  "n_releases": 24,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.61",
+  "deps": 1058660887,
+  "topics": [
+   "Cryptography",
+   "No standard library"
+  ],
+  "tags": [
+   "Cryptography"
+  ],
+  "keywords": [
+   "crypto",
+   "simd",
+   "x86"
+  ],
+  "repo": "https://github.com/cryptocorrosion/cryptocorrosion",
+  "home": "",
+  "downloads": 244550689,
+  "rank": 137
+ },
+ {
+  "name": "schemars",
+  "slug": "schemars",
+  "summary": "Generate JSON Schemas from Rust code",
+  "version": "1.2.3",
+  "released": "2026-10-12",
+  "first_release": "2019-08-08",
+  "n_releases": 98,
+  "license": "MIT",
+  "python": "1.74",
+  "deps": 635438458,
+  "topics": [
+   "Encoding",
+   "No standard library"
+  ],
+  "tags": [
+   "Encoding"
+  ],
+  "keywords": [
+   "json-schema",
+   "serde"
+  ],
+  "repo": "https://github.com/GREsau/schemars",
+  "home": "https://graham.cool/schemars/",
+  "downloads": 243861295,
+  "rank": 138
+ },
+ {
+  "name": "anstyle",
+  "slug": "anstyle",
+  "summary": "ANSI text styling",
+  "version": "1.0.14",
+  "released": "2026-03-13",
+  "first_release": "2022-05-18",
+  "n_releases": 31,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.66.0",
+  "deps": 900618112,
+  "topics": [
+   "Command-line interface"
+  ],
+  "tags": [
+   "Command-line interface"
+  ],
+  "keywords": [
+   "ansi",
+   "color",
+   "terminal"
+  ],
+  "repo": "https://github.com/rust-cli/anstyle.git",
+  "home": "",
+  "downloads": 243607904,
+  "rank": 139
+ },
+ {
+  "name": "nix",
+  "slug": "nix",
+  "summary": "Rust friendly bindings to *nix APIs",
+  "version": "0.31.3",
+  "released": "2026-05-11",
+  "first_release": "2014-11-11",
+  "n_releases": 79,
+  "license": "MIT",
+  "python": "1.69",
+  "deps": 964291218,
+  "topics": [
+   "Unix APIs"
+  ],
+  "tags": [
+   "Unix APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/nix-rust/nix",
+  "home": "",
+  "downloads": 243207583,
+  "rank": 140
+ },
+ {
+  "name": "serde_spanned",
+  "slug": "serde-spanned",
+  "summary": "Serde-compatible spanned Value",
+  "version": "1.1.3",
+  "released": "2026-11-06",
+  "first_release": "2023-01-20",
+  "n_releases": 19,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 739965947,
+  "topics": [
+   "Configuration",
+   "Encoding",
+   "Parser implementations",
+   "Parsing tools"
+  ],
+  "tags": [
+   "Configuration",
+   "Encoding",
+   "Parser implementations",
+   "Parsing tools"
+  ],
+  "keywords": [
+   "serde",
+   "span"
+  ],
+  "repo": "https://github.com/toml-rs/toml",
+  "home": "",
+  "downloads": 241142583,
+  "rank": 141
+ },
+ {
+  "name": "time",
+  "slug": "time",
+  "summary": "Date and time library. Fully interoperable with the standard library. Mostly compatible with #![no_std].",
+  "version": "0.3.55",
+  "released": "2026-08-01",
+  "first_release": "2014-11-13",
+  "n_releases": 135,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.88.0",
+  "deps": 1062820806,
+  "topics": [
+   "Date and time",
+   "No standard library",
+   "Parser implementations",
+   "Value formatting"
+  ],
+  "tags": [
+   "Date and time",
+   "Parser implementations",
+   "Value formatting"
+  ],
+  "keywords": [
+   "calendar",
+   "date",
+   "duration",
+   "time"
+  ],
+  "repo": "https://github.com/time-rs/time",
+  "home": "https://time-rs.github.io",
+  "downloads": 240358153,
+  "rank": 142
+ },
+ {
+  "name": "icu_locale_core",
+  "slug": "icu-locale-core",
+  "summary": "API for managing Unicode Language and Locale Identifiers",
+  "version": "2.4.0",
+  "released": "2026-10-22",
+  "first_release": "2024-11-23",
+  "n_releases": 9,
+  "license": "Unicode-3.0",
+  "python": "1.88",
+  "deps": 561894849,
+  "topics": [
+   "Embedded development",
+   "Internationalization (i18n)",
+   "Localization (L10n)",
+   "No standard library"
+  ],
+  "tags": [
+   "Internationalization (i18n)",
+   "Localization (L10n)"
+  ],
+  "keywords": [
+   "bcp47",
+   "language-tags",
+   "unicode"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "https://icu4x.unicode.org",
+  "downloads": 240224738,
+  "rank": 143
+ },
+ {
+  "name": "zerotrie",
+  "slug": "zerotrie",
+  "summary": "A data structure that efficiently maps strings to integers",
+  "version": "0.2.5",
+  "released": "2026-08-13",
+  "first_release": "2023-09-23",
+  "n_releases": 10,
+  "license": "Unicode-3.0",
+  "python": "1.82",
+  "deps": 565486989,
+  "topics": [
+   "Embedded development",
+   "Internationalization (i18n)",
+   "Localization (L10n)",
+   "No standard library"
+  ],
+  "tags": [
+   "Internationalization (i18n)",
+   "Localization (L10n)"
+  ],
+  "keywords": [
+   "memory-efficiency",
+   "serialization",
+   "trie",
+   "zero-copy"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "https://icu4x.unicode.org",
+  "downloads": 239212887,
+  "rank": 144
+ },
+ {
+  "name": "tinyvec",
+  "slug": "tinyvec",
+  "summary": "`tinyvec` provides 100% safe vec-like data structures.",
+  "version": "1.13.3",
+  "released": "2026-09-13",
+  "first_release": "2020-01-07",
+  "n_releases": 43,
+  "license": "Zlib OR Apache-2.0 OR MIT",
+  "python": "Not specified",
+  "deps": 887313962,
+  "topics": [
+   "Data structures",
+   "No standard library"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [
+   "vec"
+  ],
+  "repo": "https://github.com/Lokathor/tinyvec",
+  "home": "",
+  "downloads": 239176173,
+  "rank": 145
+ },
+ {
+  "name": "potential_utf",
+  "slug": "potential-utf",
+  "summary": "Unvalidated string and character types",
+  "version": "0.1.6",
+  "released": "2026-08-13",
+  "first_release": "2024-11-23",
+  "n_releases": 6,
+  "license": "Unicode-3.0",
+  "python": "1.82",
+  "deps": 561510644,
+  "topics": [
+   "Embedded development",
+   "Internationalization (i18n)",
+   "Localization (L10n)",
+   "No standard library"
+  ],
+  "tags": [
+   "Internationalization (i18n)",
+   "Localization (L10n)"
+  ],
+  "keywords": [
+   "encoding",
+   "text-processing"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "https://icu4x.unicode.org",
+  "downloads": 238007394,
+  "rank": 146
+ },
+ {
+  "name": "phf_shared",
+  "slug": "phf-shared",
+  "summary": "Support code shared by PHF libraries",
+  "version": "0.14.0",
+  "released": "2026-06-21",
+  "first_release": "2014-11-22",
+  "n_releases": 72,
+  "license": "MIT",
+  "python": "1.85",
+  "deps": 754766918,
+  "topics": [
+   "Data structures"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/rust-phf/rust-phf",
+  "home": "",
+  "downloads": 236396868,
+  "rank": 147
+ },
+ {
+  "name": "crc32fast",
+  "slug": "crc32fast",
+  "summary": "Fast, SIMD-accelerated CRC32 (IEEE) checksum computation",
+  "version": "1.5.5",
+  "released": "2026-11-10",
+  "first_release": "2018-11-13",
+  "n_releases": 23,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.63",
+  "deps": 853429367,
+  "topics": [
+   "Algorithms",
+   "No standard library"
+  ],
+  "tags": [
+   "Algorithms"
+  ],
+  "keywords": [
+   "crc",
+   "crc32",
+   "fast",
+   "hash",
+   "simd"
+  ],
+  "repo": "https://github.com/srijs/rust-crc32fast",
+  "home": "",
+  "downloads": 235630589,
+  "rank": 148
+ },
+ {
+  "name": "tokio-rustls",
+  "slug": "tokio-rustls",
+  "summary": "Asynchronous TLS/SSL streams for Tokio using Rustls.",
+  "version": "0.26.6",
+  "released": "2026-09-28",
+  "first_release": "2017-02-22",
+  "n_releases": 80,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 929596866,
+  "topics": [
+   "Asynchronous",
+   "Cryptography",
+   "Network programming"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Cryptography",
+   "Network programming"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/rustls/tokio-rustls",
+  "home": "https://github.com/rustls/tokio-rustls",
+  "downloads": 235624840,
+  "rank": 149
+ },
+ {
+  "name": "tower",
+  "slug": "tower",
+  "summary": "Tower is a library of modular and reusable components for building robust\nclients and servers.",
+  "version": "0.5.3",
+  "released": "2026-01-12",
+  "first_release": "2016-12-23",
+  "n_releases": 26,
+  "license": "MIT",
+  "python": "1.64.0",
+  "deps": 825163182,
+  "topics": [
+   "Asynchronous",
+   "Network programming"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Network programming"
+  ],
+  "keywords": [
+   "async",
+   "futures",
+   "io",
+   "non-blocking",
+   "service"
+  ],
+  "repo": "https://github.com/tower-rs/tower",
+  "home": "https://github.com/tower-rs/tower",
+  "downloads": 235425745,
+  "rank": 150
+ },
+ {
+  "name": "chrono",
+  "slug": "chrono",
+  "summary": "Date and time library for Rust",
+  "version": "0.4.45",
+  "released": "2026-06-04",
+  "first_release": "2014-11-20",
+  "n_releases": 95,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.62.0",
+  "deps": 966475493,
+  "topics": [
+   "Date and time"
+  ],
+  "tags": [
+   "Date and time"
+  ],
+  "keywords": [
+   "calendar",
+   "date",
+   "time"
+  ],
+  "repo": "https://github.com/chronotope/chrono",
+  "home": "https://github.com/chronotope/chrono",
+  "downloads": 234726799,
+  "rank": 151
+ },
+ {
+  "name": "tracing-attributes",
+  "slug": "tracing-attributes",
+  "summary": "Procedural macro attributes for automatically instrumenting functions.",
+  "version": "0.1.31",
+  "released": "2025-11-26",
+  "first_release": "2019-08-08",
+  "n_releases": 32,
+  "license": "MIT",
+  "python": "1.65.0",
+  "deps": 903872964,
+  "topics": [
+   "Asynchronous",
+   "Debugging",
+   "Profiling"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Debugging",
+   "Profiling"
+  ],
+  "keywords": [
+   "instrument",
+   "log",
+   "logging",
+   "macro",
+   "tracing"
+  ],
+  "repo": "https://github.com/tokio-rs/tracing",
+  "home": "https://tokio.rs",
+  "downloads": 232181314,
+  "rank": 152
+ },
+ {
+  "name": "tokio-util",
+  "slug": "tokio-util",
+  "summary": "Additional utilities for working with Tokio.",
+  "version": "0.7.20",
+  "released": "2026-10-09",
+  "first_release": "2018-02-01",
+  "n_releases": 39,
+  "license": "MIT",
+  "python": "1.85",
+  "deps": 939219520,
+  "topics": [
+   "Asynchronous"
+  ],
+  "tags": [
+   "Asynchronous"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/tokio-rs/tokio",
+  "home": "https://tokio.rs",
+  "downloads": 231903225,
+  "rank": 153
+ },
+ {
+  "name": "cfg_aliases",
+  "slug": "cfg-aliases",
+  "summary": "A tiny utility to help save you a lot of effort with long winded `#[cfg()]` checks.",
+  "version": "0.2.2",
+  "released": "2026-07-16",
+  "first_release": "2020-04-05",
+  "n_releases": 7,
+  "license": "MIT",
+  "python": "Not specified",
+  "deps": 662455615,
+  "topics": [
+   "Build Utils",
+   "Development tools"
+  ],
+  "tags": [
+   "Build Utils"
+  ],
+  "keywords": [
+   "alias",
+   "build",
+   "cfg",
+   "compilation",
+   "conditional"
+  ],
+  "repo": "https://github.com/katharostech/cfg_aliases",
+  "home": "https://github.com/katharostech/cfg_aliases",
+  "downloads": 230913598,
+  "rank": 154
+ },
+ {
+  "name": "const-oid",
+  "slug": "const-oid",
+  "summary": "Const-friendly implementation of the ISO/IEC Object Identifier (OID) standard\nas defined in ITU X.660, with support for BER/DER encoding/decoding as well as\nno_std + no_alloc (i.e. embedded) support",
+  "version": "0.10.3",
+  "released": "2026-11-10",
+  "first_release": "2020-08-04",
+  "n_releases": 41,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.85",
+  "deps": 623370981,
+  "topics": [
+   "Cryptography",
+   "Data structures",
+   "Encoding",
+   "No standard library",
+   "Parser implementations"
+  ],
+  "tags": [
+   "Cryptography",
+   "Data structures",
+   "Encoding",
+   "Parser implementations"
+  ],
+  "keywords": [
+   "iec",
+   "iso",
+   "itu",
+   "oid"
+  ],
+  "repo": "https://github.com/RustCrypto/formats",
+  "home": "https://github.com/RustCrypto/formats/tree/master/const-oid",
+  "downloads": 230413826,
+  "rank": 155
+ },
+ {
+  "name": "httparse",
+  "slug": "httparse",
+  "summary": "A tiny, safe, speedy, zero-copy HTTP/1.x parser.",
+  "version": "1.10.1",
+  "released": "2025-03-03",
+  "first_release": "2015-02-20",
+  "n_releases": 46,
+  "license": "MIT OR Apache-2.0",
+  "python": "Not specified",
+  "deps": 879329061,
+  "topics": [
+   "Network programming",
+   "No standard library",
+   "Parser implementations",
+   "Web programming"
+  ],
+  "tags": [
+   "Network programming",
+   "Parser implementations",
+   "Web programming"
+  ],
+  "keywords": [
+   "http",
+   "parser"
+  ],
+  "repo": "https://github.com/seanmonstar/httparse",
+  "home": "",
+  "downloads": 230056669,
+  "rank": 156
+ },
+ {
+  "name": "signal-hook-registry",
+  "slug": "signal-hook-registry",
+  "summary": "Backend crate for signal-hook",
+  "version": "1.4.8",
+  "released": "2025-12-25",
+  "first_release": "2019-04-28",
+  "n_releases": 17,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.26",
+  "deps": 889518562,
+  "topics": [
+   "daemon",
+   "signal"
+  ],
+  "tags": [],
+  "keywords": [
+   "daemon",
+   "signal",
+   "unix"
+  ],
+  "repo": "https://github.com/vorner/signal-hook",
+  "home": "",
+  "downloads": 229879091,
+  "rank": 157
+ },
+ {
+  "name": "utf8_iter",
+  "slug": "utf8-iter",
+  "summary": "Iterator by char over potentially-invalid UTF-8 in &[u8]",
+  "version": "1.1.0",
+  "released": "2026-10-29",
+  "first_release": "2022-04-19",
+  "n_releases": 6,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.83",
+  "deps": 665897875,
+  "topics": [
+   "Encoding",
+   "Internationalization (i18n)",
+   "Text processing"
+  ],
+  "tags": [
+   "Encoding",
+   "Internationalization (i18n)",
+   "Text processing"
+  ],
+  "keywords": [
+   "encoding",
+   "iterator",
+   "unicode",
+   "utf-8"
+  ],
+  "repo": "https://github.com/hsivonen/utf8_iter",
+  "home": "https://docs.rs/utf8_iter/",
+  "downloads": 229246569,
+  "rank": 158
+ },
+ {
+  "name": "phf",
+  "slug": "phf",
+  "summary": "Runtime support for perfect hash function data structures",
+  "version": "0.14.0",
+  "released": "2026-06-21",
+  "first_release": "2014-11-22",
+  "n_releases": 72,
+  "license": "MIT",
+  "python": "1.85",
+  "deps": 703371827,
+  "topics": [
+   "Data structures",
+   "No standard library"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/rust-phf/rust-phf",
+  "home": "",
+  "downloads": 228526415,
+  "rank": 159
+ },
+ {
+  "name": "subtle",
+  "slug": "subtle",
+  "summary": "Pure-Rust traits and utilities for constant-time cryptographic implementations.",
+  "version": "2.6.1",
+  "released": "2024-06-24",
+  "first_release": "2017-05-31",
+  "n_releases": 29,
+  "license": "BSD-3-Clause",
+  "python": "Not specified",
+  "deps": 858886906,
+  "topics": [
+   "Cryptography",
+   "No standard library"
+  ],
+  "tags": [
+   "Cryptography"
+  ],
+  "keywords": [
+   "constant-time",
+   "crypto",
+   "cryptography",
+   "utilities"
+  ],
+  "repo": "https://github.com/dalek-cryptography/subtle",
+  "home": "https://dalek.rs/",
+  "downloads": 228306135,
+  "rank": 160
+ },
+ {
+  "name": "futures-executor",
+  "slug": "futures-executor",
+  "summary": "Executors for asynchronous tasks based on the futures-rs library.",
+  "version": "0.3.34",
+  "released": "2026-08-11",
+  "first_release": "2018-03-05",
+  "n_releases": 39,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 894328088,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/rust-lang/futures-rs",
+  "home": "https://rust-lang.github.io/futures-rs",
+  "downloads": 226159990,
+  "rank": 161
+ },
+ {
+  "name": "nom",
+  "slug": "nom",
+  "summary": "A byte-oriented, zero-copy, parser combinators library",
+  "version": "8.0.0",
+  "released": "2025-01-26",
+  "first_release": "2015-01-17",
+  "n_releases": 98,
+  "license": "MIT",
+  "python": "1.65.0",
+  "deps": 879580372,
+  "topics": [
+   "Parsing tools"
+  ],
+  "tags": [
+   "Parsing tools"
+  ],
+  "keywords": [
+   "bit",
+   "parser",
+   "parser-combinators",
+   "parsing",
+   "streaming"
+  ],
+  "repo": "https://github.com/rust-bakery/nom",
+  "home": "",
+  "downloads": 225896955,
+  "rank": 162
+ },
+ {
+  "name": "zerocopy-derive",
+  "slug": "zerocopy-derive",
+  "summary": "Custom derive for traits from the zerocopy crate",
+  "version": "0.8.63",
+  "released": "2026-10-13",
+  "first_release": "2019-02-28",
+  "n_releases": 161,
+  "license": "BSD-2-Clause OR Apache-2.0 OR MIT",
+  "python": "Not specified",
+  "deps": 755662680,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/google/zerocopy",
+  "home": "",
+  "downloads": 225329271,
+  "rank": 163
+ },
+ {
+  "name": "hmac",
+  "slug": "hmac",
+  "summary": "Generic implementation of Hash-based Message Authentication Code (HMAC)",
+  "version": "0.13.0",
+  "released": "2026-03-29",
+  "first_release": "2016-10-06",
+  "n_releases": 38,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 740766892,
+  "topics": [
+   "Cryptography",
+   "No standard library"
+  ],
+  "tags": [
+   "Cryptography"
+  ],
+  "keywords": [
+   "crypto",
+   "digest",
+   "hmac",
+   "mac"
+  ],
+  "repo": "https://github.com/RustCrypto/MACs",
+  "home": "",
+  "downloads": 225284913,
+  "rank": 164
+ },
+ {
+  "name": "clap_derive",
+  "slug": "clap-derive",
+  "summary": "Parse command line argument by defining a struct, derive crate.",
+  "version": "4.6.7",
+  "released": "2026-09-14",
+  "first_release": "2020-05-03",
+  "n_releases": 93,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 909706498,
+  "topics": [
+   "Command-line interface",
+   "Procedural macro helpers"
+  ],
+  "tags": [
+   "Command-line interface",
+   "Procedural macro helpers"
+  ],
+  "keywords": [
+   "clap",
+   "cli",
+   "derive",
+   "parse",
+   "proc_macro"
+  ],
+  "repo": "https://github.com/clap-rs/clap",
+  "home": "",
+  "downloads": 225096564,
+  "rank": 165
+ },
+ {
+  "name": "flate2",
+  "slug": "flate2",
+  "summary": "DEFLATE compression and decompression exposed as Read/BufRead/Write streams.\nSupports miniz_oxide and multiple zlib implementations. Supports zlib, gzip,\nand raw deflate streams.",
+  "version": "1.1.11",
+  "released": "2026-11-06",
+  "first_release": "2014-11-11",
+  "n_releases": 79,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.67.0",
+  "deps": 837483637,
+  "topics": [
+   "API bindings",
+   "Compression"
+  ],
+  "tags": [
+   "Compression"
+  ],
+  "keywords": [
+   "deflate",
+   "encoding",
+   "gzip",
+   "zlib",
+   "zlib-ng"
+  ],
+  "repo": "https://github.com/rust-lang/flate2-rs",
+  "home": "https://github.com/rust-lang/flate2-rs",
+  "downloads": 224916043,
+  "rank": 166
+ },
+ {
+  "name": "rustls-pki-types",
+  "slug": "rustls-pki-types",
+  "summary": "Shared types for the rustls PKI ecosystem",
+  "version": "1.16.0",
+  "released": "2026-11-10",
+  "first_release": "2023-08-31",
+  "n_releases": 33,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 666894945,
+  "topics": [
+   "Cryptography",
+   "Data structures",
+   "Network programming"
+  ],
+  "tags": [
+   "Cryptography",
+   "Data structures",
+   "Network programming"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/rustls/pki-types",
+  "home": "https://github.com/rustls/pki-types",
+  "downloads": 224901676,
+  "rank": 167
+ },
+ {
+  "name": "fnv",
+  "slug": "fnv",
+  "summary": "Fowler\u2013Noll\u2013Vo hash function",
+  "version": "1.0.7",
+  "released": "2020-05-14",
+  "first_release": "2015-04-06",
+  "n_releases": 8,
+  "license": "Apache-2.0 / MIT",
+  "python": "Not specified",
+  "deps": 950336968,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/servo/rust-fnv",
+  "home": "",
+  "downloads": 223669859,
+  "rank": 168
+ },
+ {
+  "name": "unicode-width",
+  "slug": "unicode-width",
+  "summary": "Determine displayed width of `char` and `str` types\naccording to Unicode Standard Annex #11 rules.",
+  "version": "0.2.3",
+  "released": "2026-10-28",
+  "first_release": "2015-04-14",
+  "n_releases": 20,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.66",
+  "deps": 955465773,
+  "topics": [
+   "Command-line interface",
+   "Internationalization (i18n)",
+   "No dynamic allocation",
+   "Text processing"
+  ],
+  "tags": [
+   "Command-line interface",
+   "Internationalization (i18n)",
+   "Text processing"
+  ],
+  "keywords": [
+   "text",
+   "unicode",
+   "width"
+  ],
+  "repo": "https://github.com/unicode-rs/unicode-width",
+  "home": "https://github.com/unicode-rs/unicode-width",
+  "downloads": 222723443,
+  "rank": 169
+ },
+ {
+  "name": "h2",
+  "slug": "h2",
+  "summary": "An HTTP/2 client and server",
+  "version": "0.4.20",
+  "released": "2026-10-06",
+  "first_release": "2017-03-09",
+  "n_releases": 88,
+  "license": "MIT",
+  "python": "1.63",
+  "deps": 964044770,
+  "topics": [
+   "Asynchronous",
+   "Network programming",
+   "Web programming"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Network programming",
+   "Web programming"
+  ],
+  "keywords": [
+   "async",
+   "http",
+   "non-blocking"
+  ],
+  "repo": "https://github.com/hyperium/h2",
+  "home": "",
+  "downloads": 222648698,
+  "rank": 170
+ },
+ {
+  "name": "anstream",
+  "slug": "anstream",
+  "summary": "IO stream adapters for writing colored text that will gracefully degrade according to your terminal's capabilities.",
+  "version": "1.0.0",
+  "released": "2026-02-11",
+  "first_release": "2023-03-16",
+  "n_releases": 32,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.66.0",
+  "deps": 830585516,
+  "topics": [
+   "Command-line interface"
+  ],
+  "tags": [
+   "Command-line interface"
+  ],
+  "keywords": [
+   "ansi",
+   "color",
+   "strip",
+   "terminal",
+   "wincon"
+  ],
+  "repo": "https://github.com/rust-cli/anstyle.git",
+  "home": "",
+  "downloads": 222239179,
+  "rank": 171
+ },
+ {
+  "name": "ring",
+  "slug": "ring",
+  "summary": "An experiment.",
+  "version": "0.17.14",
+  "released": "2025-03-11",
+  "first_release": "2016-08-15",
+  "n_releases": 133,
+  "license": "Apache-2.0 AND ISC",
+  "python": "1.66.0",
+  "deps": 890286741,
+  "topics": [
+   "Cryptography",
+   "No standard library"
+  ],
+  "tags": [
+   "Cryptography"
+  ],
+  "keywords": [
+   "crypto",
+   "cryptography",
+   "ecc",
+   "rand",
+   "rsa"
+  ],
+  "repo": "https://github.com/briansmith/ring",
+  "home": "",
+  "downloads": 220888762,
+  "rank": 172
+ },
+ {
+  "name": "hyper-rustls",
+  "slug": "hyper-rustls",
+  "summary": "Rustls+hyper integration for pure rust HTTPS",
+  "version": "0.27.10",
+  "released": "2026-09-20",
+  "first_release": "2016-10-08",
+  "n_releases": 54,
+  "license": "Apache-2.0 OR ISC OR MIT",
+  "python": "1.85",
+  "deps": 791895962,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/rustls/hyper-rustls",
+  "home": "https://github.com/rustls/hyper-rustls",
+  "downloads": 220610196,
+  "rank": 173
+ },
+ {
+  "name": "anstyle-parse",
+  "slug": "anstyle-parse",
+  "summary": "Parse ANSI Style Escapes",
+  "version": "1.0.0",
+  "released": "2026-02-11",
+  "first_release": "2023-03-08",
+  "n_releases": 12,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.66.0",
+  "deps": 815589505,
+  "topics": [
+   "Command-line interface"
+  ],
+  "tags": [
+   "Command-line interface"
+  ],
+  "keywords": [
+   "ansi",
+   "color",
+   "terminal",
+   "vte"
+  ],
+  "repo": "https://github.com/rust-cli/anstyle.git",
+  "home": "",
+  "downloads": 220603986,
+  "rank": 174
+ },
+ {
+  "name": "rustc_version",
+  "slug": "rustc-version",
+  "summary": "A library for querying the version of a installed rustc compiler",
+  "version": "0.4.1",
+  "released": "2024-08-28",
+  "first_release": "2015-08-24",
+  "n_releases": 18,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.32",
+  "deps": 893718383,
+  "topics": [
+   "rustc",
+   "version"
+  ],
+  "tags": [],
+  "keywords": [
+   "rustc",
+   "version"
+  ],
+  "repo": "https://github.com/djc/rustc-version-rs",
+  "home": "",
+  "downloads": 219234183,
+  "rank": 175
+ },
+ {
+  "name": "time-core",
+  "slug": "time-core",
+  "summary": "This crate is an implementation detail and should not be relied upon directly.",
+  "version": "0.1.9",
+  "released": "2026-06-12",
+  "first_release": "2020-12-17",
+  "n_releases": 11,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.88.0",
+  "deps": 799208351,
+  "topics": [
+   "Date and time"
+  ],
+  "tags": [
+   "Date and time"
+  ],
+  "keywords": [
+   "calendar",
+   "date",
+   "duration",
+   "time"
+  ],
+  "repo": "https://github.com/time-rs/time",
+  "home": "",
+  "downloads": 218655111,
+  "rank": 176
+ },
+ {
+  "name": "r-efi",
+  "slug": "r-efi",
+  "summary": "UEFI Reference Specification Protocol Constants and Definitions",
+  "version": "7.1.0",
+  "released": "2026-08-10",
+  "first_release": "2018-12-10",
+  "n_releases": 22,
+  "license": "MIT OR Apache-2.0 OR LGPL-2.1-or-later",
+  "python": "1.68",
+  "deps": 494482551,
+  "topics": [
+   "Embedded development",
+   "Hardware support",
+   "No standard library",
+   "Operating systems"
+  ],
+  "tags": [
+   "Hardware support"
+  ],
+  "keywords": [
+   "boot",
+   "efi",
+   "firmware",
+   "specification",
+   "uefi"
+  ],
+  "repo": "https://github.com/r-efi/r-efi",
+  "home": "https://github.com/r-efi/r-efi/wiki",
+  "downloads": 217728290,
+  "rank": 177
+ },
+ {
+  "name": "sync_wrapper",
+  "slug": "sync-wrapper",
+  "summary": "A tool for enlisting the compiler's help in proving the absence of concurrency",
+  "version": "1.0.2",
+  "released": "2024-11-20",
+  "first_release": "2020-05-16",
+  "n_releases": 6,
+  "license": "Apache-2.0",
+  "python": "Not specified",
+  "deps": 790815501,
+  "topics": [
+   "Concurrency"
+  ],
+  "tags": [
+   "Concurrency"
+  ],
+  "keywords": [
+   "concurrency"
+  ],
+  "repo": "https://github.com/Actyx/sync_wrapper",
+  "home": "https://docs.rs/sync_wrapper",
+  "downloads": 217194217,
+  "rank": 178
+ },
+ {
+  "name": "sha1",
+  "slug": "sha1",
+  "summary": "SHA-1 hash function",
+  "version": "0.11.0",
+  "released": "2026-07-10",
+  "first_release": "2014-11-21",
+  "n_releases": 35,
+  "license": "MIT OR Apache-2.0",
+  "python": "Not specified",
+  "deps": 669160571,
+  "topics": [
+   "Cryptography",
+   "No standard library"
+  ],
+  "tags": [
+   "Cryptography"
+  ],
+  "keywords": [
+   "crypto",
+   "digest",
+   "hash",
+   "sha1"
+  ],
+  "repo": "https://github.com/RustCrypto/hashes",
+  "home": "",
+  "downloads": 216389699,
+  "rank": 179
+ },
+ {
+  "name": "futures",
+  "slug": "futures",
+  "summary": "An implementation of futures and streams featuring zero allocations,\ncomposability, and iterator-like interfaces.",
+  "version": "0.3.34",
+  "released": "2026-08-11",
+  "first_release": "2016-07-31",
+  "n_releases": 75,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 928624055,
+  "topics": [
+   "Asynchronous"
+  ],
+  "tags": [
+   "Asynchronous"
+  ],
+  "keywords": [
+   "async",
+   "future",
+   "futures"
+  ],
+  "repo": "https://github.com/rust-lang/futures-rs",
+  "home": "https://rust-lang.github.io/futures-rs",
+  "downloads": 216264868,
+  "rank": 180
+ },
+ {
+  "name": "colorchoice",
+  "slug": "colorchoice",
+  "summary": "Global override of color control",
+  "version": "1.0.5",
+  "released": "2026-03-13",
+  "first_release": "2023-04-13",
+  "n_releases": 6,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.66.0",
+  "deps": 795578555,
+  "topics": [
+   "Command-line interface"
+  ],
+  "tags": [
+   "Command-line interface"
+  ],
+  "keywords": [
+   "ansi",
+   "cli",
+   "color",
+   "terminal"
+  ],
+  "repo": "https://github.com/rust-cli/anstyle.git",
+  "home": "",
+  "downloads": 214818195,
+  "rank": 181
+ },
+ {
+  "name": "tower-http",
+  "slug": "tower-http",
+  "summary": "Tower middleware and utilities for HTTP clients and servers",
+  "version": "0.7.1",
+  "released": "2026-08-31",
+  "first_release": "2017-03-10",
+  "n_releases": 39,
+  "license": "MIT",
+  "python": "1.65",
+  "deps": 606119647,
+  "topics": [
+   "Asynchronous",
+   "Network programming",
+   "Web programming"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Network programming",
+   "Web programming"
+  ],
+  "keywords": [
+   "async",
+   "futures",
+   "http",
+   "io",
+   "service"
+  ],
+  "repo": "https://github.com/tower-rs/tower-http",
+  "home": "https://github.com/tower-rs/tower-http",
+  "downloads": 214597495,
+  "rank": 182
+ },
+ {
+  "name": "time-macros",
+  "slug": "time-macros",
+  "summary": "Procedural macros for the time crate.\n    This crate is an implementation detail and should not be relied upon directly.",
+  "version": "0.2.32",
+  "released": "2026-07-20",
+  "first_release": "2019-12-02",
+  "n_releases": 38,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.88.0",
+  "deps": 832840472,
+  "topics": [
+   "Date and time"
+  ],
+  "tags": [
+   "Date and time"
+  ],
+  "keywords": [
+   "calendar",
+   "date",
+   "duration",
+   "time"
+  ],
+  "repo": "https://github.com/time-rs/time",
+  "home": "",
+  "downloads": 213543627,
+  "rank": 183
+ },
+ {
+  "name": "num-conv",
+  "slug": "num-conv",
+  "summary": "`num_conv` is a crate to convert between integer types without using `as` casts. This provides\nbetter certainty when refactoring, makes the exact behavior of code more explicit, and allows using\nturbofish syntax.",
+  "version": "0.2.2",
+  "released": "2026-05-18",
+  "first_release": "2023-12-23",
+  "n_releases": 4,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.57.0",
+  "deps": 698893804,
+  "topics": [
+   "No dynamic allocation",
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [],
+  "keywords": [
+   "cast",
+   "convert",
+   "extend",
+   "integer",
+   "truncate"
+  ],
+  "repo": "https://github.com/jhpratt/num-conv",
+  "home": "",
+  "downloads": 213304237,
+  "rank": 184
+ },
+ {
+  "name": "anstyle-query",
+  "slug": "anstyle-query",
+  "summary": "Look up colored console capabilities",
+  "version": "1.1.5",
+  "released": "2025-11-13",
+  "first_release": "2023-04-13",
+  "n_releases": 10,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.66.0",
+  "deps": 793793558,
+  "topics": [
+   "Command-line interface"
+  ],
+  "tags": [
+   "Command-line interface"
+  ],
+  "keywords": [
+   "ansi",
+   "cli",
+   "color",
+   "terminal"
+  ],
+  "repo": "https://github.com/rust-cli/anstyle.git",
+  "home": "",
+  "downloads": 211692386,
+  "rank": 185
+ },
+ {
+  "name": "num-integer",
+  "slug": "num-integer",
+  "summary": "Integer traits and functions",
+  "version": "0.1.47",
+  "released": "2026-08-12",
+  "first_release": "2016-04-14",
+  "n_releases": 16,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.31",
+  "deps": 832115016,
+  "topics": [
+   "Algorithms",
+   "No standard library",
+   "Science"
+  ],
+  "tags": [
+   "Algorithms",
+   "Science"
+  ],
+  "keywords": [
+   "mathematics",
+   "numerics"
+  ],
+  "repo": "https://github.com/rust-num/num-integer",
+  "home": "https://github.com/rust-num/num-integer",
+  "downloads": 211596990,
+  "rank": 186
+ },
+ {
+  "name": "deranged",
+  "slug": "deranged",
+  "summary": "Ranged integers",
+  "version": "0.5.9",
+  "released": "2026-10-13",
+  "first_release": "2020-12-10",
+  "n_releases": 34,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85.0",
+  "deps": 746539143,
+  "topics": [
+   "int",
+   "integer"
+  ],
+  "tags": [],
+  "keywords": [
+   "int",
+   "integer",
+   "range"
+  ],
+  "repo": "https://github.com/jhpratt/deranged",
+  "home": "",
+  "downloads": 210915595,
+  "rank": 187
+ },
+ {
+  "name": "adler2",
+  "slug": "adler2",
+  "summary": "A simple clean-room implementation of the Adler-32 checksum",
+  "version": "2.0.1",
+  "released": "2025-06-09",
+  "first_release": "2024-08-04",
+  "n_releases": 2,
+  "license": "0BSD OR MIT OR Apache-2.0",
+  "python": "Not specified",
+  "deps": 664629393,
+  "topics": [
+   "Algorithms"
+  ],
+  "tags": [
+   "Algorithms"
+  ],
+  "keywords": [
+   "adler32",
+   "checksum",
+   "hash",
+   "integrity",
+   "zlib"
+  ],
+  "repo": "https://github.com/oyvindln/adler2",
+  "home": "",
+  "downloads": 210067428,
+  "rank": 188
+ },
+ {
+  "name": "crossbeam-epoch",
+  "slug": "crossbeam-epoch",
+  "summary": "Epoch-based garbage collection",
+  "version": "0.9.21",
+  "released": "2026-09-05",
+  "first_release": "2017-11-26",
+  "n_releases": 41,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.61",
+  "deps": 803791349,
+  "topics": [
+   "Concurrency",
+   "Memory management",
+   "No standard library"
+  ],
+  "tags": [
+   "Concurrency",
+   "Memory management"
+  ],
+  "keywords": [
+   "atomic",
+   "garbage",
+   "lock-free",
+   "rcu"
+  ],
+  "repo": "https://github.com/crossbeam-rs/crossbeam",
+  "home": "https://github.com/crossbeam-rs/crossbeam/tree/master/crossbeam-epoch",
+  "downloads": 209155936,
+  "rank": 189
+ },
+ {
+  "name": "hyper-util",
+  "slug": "hyper-util",
+  "summary": "hyper utilities",
+  "version": "0.1.21",
+  "released": "2026-09-24",
+  "first_release": "2022-01-15",
+  "n_releases": 23,
+  "license": "MIT",
+  "python": "1.85",
+  "deps": 622200962,
+  "topics": [
+   "HTTP client",
+   "HTTP server",
+   "Network programming"
+  ],
+  "tags": [
+   "HTTP client",
+   "HTTP server",
+   "Network programming"
+  ],
+  "keywords": [
+   "http",
+   "hyper",
+   "hyperium"
+  ],
+  "repo": "https://github.com/hyperium/hyper-util",
+  "home": "https://hyper.rs",
+  "downloads": 208464199,
+  "rank": 190
+ },
+ {
+  "name": "http-body-util",
+  "slug": "http-body-util",
+  "summary": "Combinators and adapters for HTTP request or response bodies.",
+  "version": "0.1.5",
+  "released": "2026-08-12",
+  "first_release": "2022-10-25",
+  "n_releases": 9,
+  "license": "MIT",
+  "python": "1.61",
+  "deps": 606151440,
+  "topics": [
+   "Web programming"
+  ],
+  "tags": [
+   "Web programming"
+  ],
+  "keywords": [
+   "http"
+  ],
+  "repo": "https://github.com/hyperium/http-body",
+  "home": "",
+  "downloads": 208419134,
+  "rank": 191
+ },
+ {
+  "name": "num-bigint",
+  "slug": "num-bigint",
+  "summary": "Big integer implementation for Rust",
+  "version": "0.5.1",
+  "released": "2026-07-05",
+  "first_release": "2016-04-14",
+  "n_releases": 35,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 734837938,
+  "topics": [
+   "Algorithms",
+   "Data structures",
+   "Science"
+  ],
+  "tags": [
+   "Algorithms",
+   "Data structures",
+   "Science"
+  ],
+  "keywords": [
+   "bignum",
+   "mathematics",
+   "numerics"
+  ],
+  "repo": "https://github.com/rust-num/num-bigint",
+  "home": "https://github.com/rust-num/num-bigint",
+  "downloads": 207972025,
+  "rank": 192
+ },
+ {
+  "name": "tower-service",
+  "slug": "tower-service",
+  "summary": "Trait representing an asynchronous, request / response based, client or server.",
+  "version": "0.3.3",
+  "released": "2024-08-13",
+  "first_release": "2018-02-19",
+  "n_releases": 9,
+  "license": "MIT",
+  "python": "Not specified",
+  "deps": 780728637,
+  "topics": [
+   "Asynchronous",
+   "Network programming"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Network programming"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/tower-rs/tower",
+  "home": "https://github.com/tower-rs/tower",
+  "downloads": 207197605,
+  "rank": 193
+ },
+ {
+  "name": "atomic-waker",
+  "slug": "atomic-waker",
+  "summary": "A synchronization primitive for task wakeup",
+  "version": "1.1.2",
+  "released": "2023-09-25",
+  "first_release": "2020-05-29",
+  "n_releases": 5,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.36",
+  "deps": 616211753,
+  "topics": [
+   "Asynchronous",
+   "Concurrency"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Concurrency"
+  ],
+  "keywords": [
+   "async",
+   "futures",
+   "notify",
+   "wake",
+   "waker"
+  ],
+  "repo": "https://github.com/smol-rs/atomic-waker",
+  "home": "",
+  "downloads": 206225853,
+  "rank": 194
+ },
+ {
+  "name": "byteorder",
+  "slug": "byteorder",
+  "summary": "Library for reading/writing numbers in big-endian and little-endian.",
+  "version": "1.5.0",
+  "released": "2023-10-06",
+  "first_release": "2015-02-03",
+  "n_releases": 58,
+  "license": "Unlicense OR MIT",
+  "python": "1.60",
+  "deps": 943534347,
+  "topics": [
+   "Encoding",
+   "No standard library",
+   "Parsing tools"
+  ],
+  "tags": [
+   "Encoding",
+   "Parsing tools"
+  ],
+  "keywords": [
+   "big-endian",
+   "binary",
+   "byte",
+   "endian",
+   "little-endian"
+  ],
+  "repo": "https://github.com/BurntSushi/byteorder",
+  "home": "https://github.com/BurntSushi/byteorder",
+  "downloads": 205362897,
+  "rank": 195
+ },
+ {
+  "name": "iana-time-zone",
+  "slug": "iana-time-zone",
+  "summary": "get the IANA time zone for the current system",
+  "version": "0.1.65",
+  "released": "2026-01-28",
+  "first_release": "2020-06-27",
+  "n_releases": 66,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.62.0",
+  "deps": 807860164,
+  "topics": [
+   "Date and time",
+   "Internationalization (i18n)",
+   "Operating systems"
+  ],
+  "tags": [
+   "Date and time",
+   "Internationalization (i18n)"
+  ],
+  "keywords": [
+   "iana",
+   "time"
+  ],
+  "repo": "https://github.com/strawlab/iana-time-zone",
+  "home": "",
+  "downloads": 204338879,
+  "rank": 196
+ },
+ {
+  "name": "ipnet",
+  "slug": "ipnet",
+  "summary": "Provides types and useful methods for working with IPv4 and IPv6 network addresses, commonly called IP prefixes. The new `IpNet`, `Ipv4Net`, and `Ipv6Net` types build on the existing `IpAddr`, `Ipv4Addr`, and `Ipv6Addr` types already provided in Rust's standard library and align to their design to stay consistent. The module also provides useful traits that extend `Ipv4Addr` and `Ipv6Addr` with methods for `Add`, `Sub`, `BitAnd`, and `BitOr` operations. The module only uses stable feature so it is guaranteed to compile using the stable toolchain.",
+  "version": "2.12.2",
+  "released": "2026-09-06",
+  "first_release": "2017-08-14",
+  "n_releases": 72,
+  "license": "MIT OR Apache-2.0",
+  "python": "Not specified",
+  "deps": 723137342,
+  "topics": [
+   "Network programming"
+  ],
+  "tags": [
+   "Network programming"
+  ],
+  "keywords": [
+   "cidr",
+   "ip",
+   "network",
+   "prefix",
+   "subnet"
+  ],
+  "repo": "https://github.com/krisprice/ipnet",
+  "home": "",
+  "downloads": 204201737,
+  "rank": 197
+ },
+ {
+  "name": "async-trait",
+  "slug": "async-trait",
+  "summary": "Type erasure for async trait methods",
+  "version": "0.1.92",
+  "released": "2026-08-08",
+  "first_release": "2019-07-23",
+  "n_releases": 93,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 801746670,
+  "topics": [
+   "Asynchronous",
+   "No standard library"
+  ],
+  "tags": [
+   "Asynchronous"
+  ],
+  "keywords": [
+   "async"
+  ],
+  "repo": "https://github.com/dtolnay/async-trait",
+  "home": "",
+  "downloads": 203959690,
+  "rank": 198
+ },
+ {
+  "name": "hex",
+  "slug": "hex",
+  "summary": "Encoding and decoding data into/from hexadecimal representation.",
+  "version": "0.4.3",
+  "released": "2021-03-03",
+  "first_release": "2015-10-23",
+  "n_releases": 9,
+  "license": "MIT OR Apache-2.0",
+  "python": "Not specified",
+  "deps": 790650752,
+  "topics": [
+   "Encoding",
+   "No standard library"
+  ],
+  "tags": [
+   "Encoding"
+  ],
+  "keywords": [
+   "hex"
+  ],
+  "repo": "https://github.com/KokaKiwi/rust-hex",
+  "home": "",
+  "downloads": 203485453,
+  "rank": 199
+ },
+ {
+  "name": "utf8parse",
+  "slug": "utf8parse",
+  "summary": "Table-driven UTF-8 parser",
+  "version": "0.2.2",
+  "released": "2024-06-08",
+  "first_release": "2016-09-18",
+  "n_releases": 5,
+  "license": "Apache-2.0 OR MIT",
+  "python": "Not specified",
+  "deps": 757126000,
+  "topics": [
+   "No standard library",
+   "Parsing tools"
+  ],
+  "tags": [
+   "Parsing tools"
+  ],
+  "keywords": [
+   "parse",
+   "table",
+   "utf8"
+  ],
+  "repo": "https://github.com/alacritty/vte",
+  "home": "",
+  "downloads": 202269594,
+  "rank": 200
+ },
+ {
+  "name": "simd-adler32",
+  "slug": "simd-adler32",
+  "summary": "A SIMD-accelerated Adler-32 hash algorithm implementation.",
+  "version": "0.3.10",
+  "released": "2026-07-14",
+  "first_release": "2021-04-09",
+  "n_releases": 12,
+  "license": "MIT",
+  "python": "Not specified",
+  "deps": 526405261,
+  "topics": [
+   "Algorithms",
+   "No standard library"
+  ],
+  "tags": [
+   "Algorithms"
+  ],
+  "keywords": [
+   "adler",
+   "adler32",
+   "avx2",
+   "simd",
+   "ssse3"
+  ],
+  "repo": "https://github.com/mcountryman/simd-adler32",
+  "home": "",
+  "downloads": 201659402,
+  "rank": 201
+ },
+ {
+  "name": "powerfmt",
+  "slug": "powerfmt",
+  "summary": "`powerfmt` is a library that provides utilities for formatting values. This crate makes it\n    significantly easier to support filling to a minimum width with alignment, avoid heap\n    allocation, and avoid repetitive calculations.",
+  "version": "0.2.1",
+  "released": "2026-10-05",
+  "first_release": "2023-10-08",
+  "n_releases": 5,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.79.0",
+  "deps": 682118096,
+  "topics": [
+   "No dynamic allocation",
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [],
+  "keywords": [
+   "display",
+   "extension",
+   "fmt",
+   "format",
+   "formatter"
+  ],
+  "repo": "https://github.com/jhpratt/powerfmt",
+  "home": "",
+  "downloads": 201569089,
+  "rank": 202
+ },
+ {
+  "name": "want",
+  "slug": "want",
+  "summary": "Detect when another Future wants a result.",
+  "version": "0.3.2",
+  "released": "2026-10-05",
+  "first_release": "2018-03-15",
+  "n_releases": 12,
+  "license": "MIT",
+  "python": "Not specified",
+  "deps": 771511660,
+  "topics": [
+   "async",
+   "channel"
+  ],
+  "tags": [],
+  "keywords": [
+   "async",
+   "channel",
+   "futures"
+  ],
+  "repo": "https://github.com/seanmonstar/want",
+  "home": "",
+  "downloads": 201076245,
+  "rank": 203
+ },
+ {
+  "name": "walkdir",
+  "slug": "walkdir",
+  "summary": "Recursively walk a directory.",
+  "version": "2.5.0",
+  "released": "2024-03-01",
+  "first_release": "2015-09-27",
+  "n_releases": 40,
+  "license": "Unlicense/MIT",
+  "python": "Not specified",
+  "deps": 761441370,
+  "topics": [
+   "Filesystem"
+  ],
+  "tags": [
+   "Filesystem"
+  ],
+  "keywords": [
+   "directory",
+   "iterator",
+   "recursive",
+   "walk"
+  ],
+  "repo": "https://github.com/BurntSushi/walkdir",
+  "home": "https://github.com/BurntSushi/walkdir",
+  "downloads": 200858457,
+  "rank": 204
+ },
+ {
+  "name": "siphasher",
+  "slug": "siphasher",
+  "summary": "SipHash-2-4 and SipHash-1-3 keyed hash functions in pure Rust, with 64-bit and 128-bit output and no_std support",
+  "version": "1.0.4",
+  "released": "2026-09-25",
+  "first_release": "2016-10-04",
+  "n_releases": 25,
+  "license": "MIT OR Apache-2.0",
+  "python": "Not specified",
+  "deps": 685610713,
+  "topics": [
+   "Algorithms",
+   "Cryptography"
+  ],
+  "tags": [
+   "Algorithms",
+   "Cryptography"
+  ],
+  "keywords": [
+   "hash",
+   "hasher",
+   "keyed-hash",
+   "siphash"
+  ],
+  "repo": "https://github.com/jedisct1/rust-siphash",
+  "home": "https://docs.rs/siphasher",
+  "downloads": 200747934,
+  "rank": 205
+ },
+ {
+  "name": "thread_local",
+  "slug": "thread-local",
+  "summary": "Per-object thread-local storage",
+  "version": "1.1.10",
+  "released": "2026-07-10",
+  "first_release": "2016-04-08",
+  "n_releases": 29,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.63",
+  "deps": 827633262,
+  "topics": [
+   "concurrent",
+   "thread"
+  ],
+  "tags": [],
+  "keywords": [
+   "concurrent",
+   "thread",
+   "thread_local"
+  ],
+  "repo": "https://github.com/Amanieu/thread_local-rs",
+  "home": "",
+  "downloads": 200272772,
+  "rank": 206
+ },
+ {
+  "name": "windows-link",
+  "slug": "windows-link",
+  "summary": "Linking for Windows",
+  "version": "0.100.0",
+  "released": "2026-09-03",
+  "first_release": "2024-07-17",
+  "n_releases": 8,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 555511957,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 199299589,
+  "rank": 207
+ },
+ {
+  "name": "same-file",
+  "slug": "same-file",
+  "summary": "A simple crate for determining whether two file paths point to the same file.",
+  "version": "1.0.6",
+  "released": "2020-01-11",
+  "first_release": "2017-01-08",
+  "n_releases": 11,
+  "license": "Unlicense/MIT",
+  "python": "Not specified",
+  "deps": 740227330,
+  "topics": [
+   "equal",
+   "same"
+  ],
+  "tags": [],
+  "keywords": [
+   "equal",
+   "file",
+   "inode",
+   "same"
+  ],
+  "repo": "https://github.com/BurntSushi/same-file",
+  "home": "https://github.com/BurntSushi/same-file",
+  "downloads": 199178874,
+  "rank": 208
+ },
+ {
+  "name": "is_terminal_polyfill",
+  "slug": "is-terminal-polyfill",
+  "summary": "Polyfill for `is_terminal` stdlib feature for use with older MSRVs",
+  "version": "1.70.2",
+  "released": "2025-10-21",
+  "first_release": "2024-05-02",
+  "n_releases": 6,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.48.0",
+  "deps": 663967803,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/polyfill-rs/is_terminal_polyfill",
+  "home": "",
+  "downloads": 199050653,
+  "rank": 209
+ },
+ {
+  "name": "bumpalo",
+  "slug": "bumpalo",
+  "summary": "A fast bump allocation arena for Rust.",
+  "version": "3.20.3",
+  "released": "2026-05-22",
+  "first_release": "2018-11-24",
+  "n_releases": 56,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71.1",
+  "deps": 715890975,
+  "topics": [
+   "Memory management",
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [
+   "Memory management"
+  ],
+  "keywords": [
+   "allocator",
+   "arena",
+   "bump"
+  ],
+  "repo": "https://github.com/fitzgen/bumpalo",
+  "home": "",
+  "downloads": 198257047,
+  "rank": 210
+ },
+ {
+  "name": "chacha20",
+  "slug": "chacha20",
+  "summary": "The ChaCha20 stream cipher (RFC 8439) implemented in pure Rust using traits\nfrom the RustCrypto `cipher` crate, with optional architecture-specific\nhardware acceleration (AVX2, SSE2). Additionally provides the ChaCha8, ChaCha12,\nXChaCha20, XChaCha12 and XChaCha8 stream ciphers, and also optional\nrand_core-compatible RNGs based on those ciphers.",
+  "version": "0.10.2",
+  "released": "2026-08-27",
+  "first_release": "2016-10-06",
+  "n_releases": 45,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 361661719,
+  "topics": [
+   "Cryptography",
+   "No standard library"
+  ],
+  "tags": [
+   "Cryptography"
+  ],
+  "keywords": [
+   "chacha12",
+   "chacha8",
+   "crypto",
+   "stream-cipher",
+   "xchacha20"
+  ],
+  "repo": "https://github.com/RustCrypto/stream-ciphers",
+  "home": "",
+  "downloads": 198141222,
+  "rank": 211
+ },
+ {
+  "name": "try-lock",
+  "slug": "try-lock",
+  "summary": "A lightweight atomic lock.",
+  "version": "0.2.5",
+  "released": "2023-12-07",
+  "first_release": "2018-03-15",
+  "n_releases": 7,
+  "license": "MIT",
+  "python": "Not specified",
+  "deps": 767483131,
+  "topics": [
+   "Concurrency",
+   "No standard library"
+  ],
+  "tags": [
+   "Concurrency"
+  ],
+  "keywords": [
+   "atomic",
+   "lock"
+  ],
+  "repo": "https://github.com/seanmonstar/try-lock",
+  "home": "https://github.com/seanmonstar/try-lock",
+  "downloads": 197774012,
+  "rank": 212
+ },
+ {
+  "name": "tower-layer",
+  "slug": "tower-layer",
+  "summary": "Decorates a `Service` to allow easy composition between `Service`s.",
+  "version": "0.3.3",
+  "released": "2024-08-13",
+  "first_release": "2019-04-27",
+  "n_releases": 7,
+  "license": "MIT",
+  "python": "Not specified",
+  "deps": 649832177,
+  "topics": [
+   "Asynchronous",
+   "Network programming"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Network programming"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/tower-rs/tower",
+  "home": "https://github.com/tower-rs/tower",
+  "downloads": 197318102,
+  "rank": 213
+ },
+ {
+  "name": "wasi",
+  "slug": "wasi",
+  "summary": "WASI API bindings for Rust",
+  "version": "0.14.7+wasi-0.2.4",
+  "released": "2025-09-15",
+  "first_release": "2019-03-27",
+  "n_releases": 27,
+  "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+  "python": "1.82.0",
+  "deps": 885808115,
+  "topics": [
+   "No standard library",
+   "WebAssembly"
+  ],
+  "tags": [
+   "WebAssembly"
+  ],
+  "keywords": [
+   "wasm",
+   "webassembly"
+  ],
+  "repo": "https://github.com/bytecodealliance/wasi-rs",
+  "home": "",
+  "downloads": 193112834,
+  "rank": 214
+ },
+ {
+  "name": "redox_syscall",
+  "slug": "redox-syscall",
+  "summary": "A Rust library to access raw Redox system calls",
+  "version": "0.9.5",
+  "released": "2026-10-17",
+  "first_release": "2016-11-03",
+  "n_releases": 116,
+  "license": "MIT",
+  "python": "Not specified",
+  "deps": 854320540,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://gitlab.redox-os.org/redox-os/kernel",
+  "home": "",
+  "downloads": 192938378,
+  "rank": 215
+ },
+ {
+  "name": "crossbeam-deque",
+  "slug": "crossbeam-deque",
+  "summary": "Concurrent work-stealing deque",
+  "version": "0.8.8",
+  "released": "2026-09-05",
+  "first_release": "2017-11-26",
+  "n_releases": 28,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.61",
+  "deps": 759759105,
+  "topics": [
+   "Algorithms",
+   "Concurrency",
+   "Data structures"
+  ],
+  "tags": [
+   "Algorithms",
+   "Concurrency",
+   "Data structures"
+  ],
+  "keywords": [
+   "chase-lev",
+   "lock-free",
+   "scheduler",
+   "scheduling"
+  ],
+  "repo": "https://github.com/crossbeam-rs/crossbeam",
+  "home": "https://github.com/crossbeam-rs/crossbeam/tree/master/crossbeam-deque",
+  "downloads": 192557373,
+  "rank": 216
+ },
+ {
+  "name": "openssl-probe",
+  "slug": "openssl-probe",
+  "summary": "A library for helping to find system-wide trust anchor (\"root\") certificate\nlocations based on paths typically used by `openssl`.",
+  "version": "0.2.2",
+  "released": "2026-10-26",
+  "first_release": "2016-11-06",
+  "n_releases": 10,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60.0",
+  "deps": 733233461,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/rustls/openssl-probe",
+  "home": "https://github.com/rustls/openssl-probe",
+  "downloads": 191996475,
+  "rank": 217
+ },
+ {
+  "name": "mime",
+  "slug": "mime",
+  "summary": "Strongly Typed Mimes",
+  "version": "0.3.18",
+  "released": "2026-11-05",
+  "first_release": "2014-11-20",
+  "n_releases": 42,
+  "license": "MIT OR Apache-2.0",
+  "python": "Not specified",
+  "deps": 745551927,
+  "topics": [
+   "media-extensions",
+   "media-types"
+  ],
+  "tags": [],
+  "keywords": [
+   "media-extensions",
+   "media-types",
+   "mime"
+  ],
+  "repo": "https://github.com/hyperium/mime",
+  "home": "",
+  "downloads": 191916343,
+  "rank": 218
+ },
+ {
+  "name": "ahash",
+  "slug": "ahash",
+  "summary": "A non-cryptographic hash function using AES-NI for high performance",
+  "version": "0.8.12",
+  "released": "2025-05-08",
+  "first_release": "2019-02-28",
+  "n_releases": 95,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60.0",
+  "deps": 899836440,
+  "topics": [
+   "Algorithms",
+   "Data structures",
+   "No standard library"
+  ],
+  "tags": [
+   "Algorithms",
+   "Data structures"
+  ],
+  "keywords": [
+   "aes",
+   "hash",
+   "hasher",
+   "hashmap"
+  ],
+  "repo": "https://github.com/tkaitchuck/ahash",
+  "home": "",
+  "downloads": 191882942,
+  "rank": 219
+ },
+ {
+  "name": "bit-vec",
+  "slug": "bit-vec",
+  "summary": "A vector of bits",
+  "version": "0.10.2",
+  "released": "2026-11-10",
+  "first_release": "2015-06-03",
+  "n_releases": 25,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.85.0",
+  "deps": 564215306,
+  "topics": [
+   "bit",
+   "bitmap"
+  ],
+  "tags": [],
+  "keywords": [
+   "bit",
+   "bitmap",
+   "bitmask",
+   "bitvec",
+   "data-structures"
+  ],
+  "repo": "https://github.com/contain-rs/bit-vec",
+  "home": "",
+  "downloads": 191645648,
+  "rank": 220
+ },
+ {
+  "name": "strum_macros",
+  "slug": "strum-macros",
+  "summary": "Helpful macros for working with enums and strings",
+  "version": "0.28.0",
+  "released": "2026-02-22",
+  "first_release": "2017-02-12",
+  "n_releases": 49,
+  "license": "MIT",
+  "python": "1.71",
+  "deps": 770309843,
+  "topics": [
+   "Parsing tools",
+   "Procedural macro helpers"
+  ],
+  "tags": [
+   "Parsing tools",
+   "Procedural macro helpers"
+  ],
+  "keywords": [
+   "enum",
+   "macros",
+   "proc-macros",
+   "string"
+  ],
+  "repo": "https://github.com/Peternator7/strum",
+  "home": "https://github.com/Peternator7/strum",
+  "downloads": 191277938,
+  "rank": 221
+ },
+ {
+  "name": "spin",
+  "slug": "spin",
+  "summary": "Spin-based synchronization primitives",
+  "version": "0.12.3",
+  "released": "2026-08-17",
+  "first_release": "2015-01-27",
+  "n_releases": 49,
+  "license": "MIT",
+  "python": "1.71",
+  "deps": 791394933,
+  "topics": [
+   "mutex",
+   "rwlock"
+  ],
+  "tags": [],
+  "keywords": [
+   "mutex",
+   "rwlock",
+   "spinlock"
+  ],
+  "repo": "https://codeberg.org/zesterer/spin",
+  "home": "",
+  "downloads": 190041407,
+  "rank": 222
+ },
+ {
+  "name": "strum",
+  "slug": "strum",
+  "summary": "Helpful macros for working with enums and strings",
+  "version": "0.28.0",
+  "released": "2026-02-22",
+  "first_release": "2017-02-12",
+  "n_releases": 40,
+  "license": "MIT",
+  "python": "1.71",
+  "deps": 761719003,
+  "topics": [
+   "Parsing tools",
+   "Procedural macro helpers"
+  ],
+  "tags": [
+   "Parsing tools",
+   "Procedural macro helpers"
+  ],
+  "keywords": [
+   "enum",
+   "macros",
+   "proc-macros",
+   "string"
+  ],
+  "repo": "https://github.com/Peternator7/strum",
+  "home": "https://github.com/Peternator7/strum",
+  "downloads": 189965044,
+  "rank": 223
+ },
+ {
+  "name": "tracing-subscriber",
+  "slug": "tracing-subscriber",
+  "summary": "Utilities for implementing and composing `tracing` subscribers.",
+  "version": "0.3.23",
+  "released": "2026-03-13",
+  "first_release": "2019-06-27",
+  "n_releases": 67,
+  "license": "MIT",
+  "python": "1.65.0",
+  "deps": 736215738,
+  "topics": [
+   "Asynchronous",
+   "Debugging",
+   "Profiling"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Debugging",
+   "Profiling"
+  ],
+  "keywords": [
+   "logging",
+   "metrics",
+   "subscriber",
+   "tracing"
+  ],
+  "repo": "https://github.com/tokio-rs/tracing",
+  "home": "https://tokio.rs",
+  "downloads": 189935380,
+  "rank": 224
+ },
+ {
+  "name": "jobserver",
+  "slug": "jobserver",
+  "summary": "An implementation of the GNU Make jobserver for Rust.",
+  "version": "0.1.35",
+  "released": "2026-07-06",
+  "first_release": "2017-05-28",
+  "n_releases": 36,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 679146659,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/rust-lang/jobserver-rs",
+  "home": "https://github.com/rust-lang/jobserver-rs",
+  "downloads": 189660462,
+  "rank": 225
+ },
+ {
+  "name": "windows_i686_gnullvm",
+  "slug": "windows-i686-gnullvm",
+  "summary": "Import lib for Windows",
+  "version": "0.53.1",
+  "released": "2025-10-06",
+  "first_release": "2024-04-02",
+  "n_releases": 5,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 686804736,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 189015669,
+  "rank": 226
+ },
+ {
+  "name": "toml_parser",
+  "slug": "toml-parser",
+  "summary": "Yet another format-preserving TOML parser.",
+  "version": "1.1.5+spec-1.1.0",
+  "released": "2026-10-09",
+  "first_release": "2025-07-08",
+  "n_releases": 17,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 420188668,
+  "topics": [
+   "Configuration",
+   "Encoding",
+   "Parser implementations",
+   "Parsing tools"
+  ],
+  "tags": [
+   "Configuration",
+   "Encoding",
+   "Parser implementations",
+   "Parsing tools"
+  ],
+  "keywords": [
+   "encoding",
+   "toml"
+  ],
+  "repo": "https://github.com/toml-rs/toml",
+  "home": "",
+  "downloads": 186828528,
+  "rank": 227
+ },
+ {
+  "name": "portable-atomic",
+  "slug": "portable-atomic",
+  "summary": "Portable atomic types including support for 128-bit atomics, atomic float, etc.",
+  "version": "1.15.0",
+  "released": "2026-08-09",
+  "first_release": "2022-02-24",
+  "n_releases": 54,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.34",
+  "deps": 578851331,
+  "topics": [
+   "Concurrency",
+   "Embedded development",
+   "Hardware support",
+   "No dynamic allocation",
+   "No standard library"
+  ],
+  "tags": [
+   "Concurrency",
+   "Hardware support"
+  ],
+  "keywords": [
+   "atomic"
+  ],
+  "repo": "https://github.com/taiki-e/portable-atomic",
+  "home": "",
+  "downloads": 185471634,
+  "rank": 228
+ },
+ {
+  "name": "rustls-native-certs",
+  "slug": "rustls-native-certs",
+  "summary": "rustls-native-certs allows rustls to use the platform native certificate store",
+  "version": "0.8.5",
+  "released": "2026-10-13",
+  "first_release": "2019-11-04",
+  "n_releases": 24,
+  "license": "Apache-2.0 OR ISC OR MIT",
+  "python": "1.71",
+  "deps": 674153628,
+  "topics": [
+   "Cryptography",
+   "Network programming"
+  ],
+  "tags": [
+   "Cryptography",
+   "Network programming"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/rustls/rustls-native-certs",
+  "home": "https://github.com/rustls/rustls-native-certs",
+  "downloads": 181758625,
+  "rank": 229
+ },
+ {
+  "name": "httpdate",
+  "slug": "httpdate",
+  "summary": "HTTP date parsing and formatting",
+  "version": "1.0.3",
+  "released": "2023-08-13",
+  "first_release": "2016-10-15",
+  "n_releases": 11,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.56",
+  "deps": 717598005,
+  "topics": [
+   "date",
+   "http"
+  ],
+  "tags": [],
+  "keywords": [
+   "date",
+   "http",
+   "simple",
+   "time",
+   "timestamp"
+  ],
+  "repo": "https://github.com/pyfisch/httpdate",
+  "home": "",
+  "downloads": 180926974,
+  "rank": 230
+ },
+ {
+  "name": "serde_urlencoded",
+  "slug": "serde-urlencoded",
+  "summary": "`x-www-form-urlencoded` meets Serde",
+  "version": "0.7.1",
+  "released": "2022-01-17",
+  "first_release": "2016-09-11",
+  "n_releases": 19,
+  "license": "MIT/Apache-2.0",
+  "python": "Not specified",
+  "deps": 686059053,
+  "topics": [
+   "Encoding",
+   "Web programming"
+  ],
+  "tags": [
+   "Encoding",
+   "Web programming"
+  ],
+  "keywords": [
+   "serde",
+   "serialization",
+   "urlencoded"
+  ],
+  "repo": "https://github.com/nox/serde_urlencoded",
+  "home": "",
+  "downloads": 179532810,
+  "rank": 231
+ },
+ {
+  "name": "arrayvec",
+  "slug": "arrayvec",
+  "summary": "A vector with fixed capacity, backed by an array (it can be stored on the stack too). Implements fixed capacity ArrayVec and ArrayString.",
+  "version": "0.7.8",
+  "released": "2026-07-02",
+  "first_release": "2015-05-19",
+  "n_releases": 57,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.51",
+  "deps": 684614084,
+  "topics": [
+   "Data structures",
+   "No standard library"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [
+   "array",
+   "data-structure",
+   "stack",
+   "vector"
+  ],
+  "repo": "https://github.com/bluss/arrayvec",
+  "home": "",
+  "downloads": 176711011,
+  "rank": 232
+ },
+ {
+  "name": "allocator-api2",
+  "slug": "allocator-api2",
+  "summary": "Mirror of Rust's allocator API",
+  "version": "0.4.0",
+  "released": "2025-12-11",
+  "first_release": "2023-02-27",
+  "n_releases": 31,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.64.0",
+  "deps": 599489018,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/zakarumych/allocator-api2",
+  "home": "https://github.com/zakarumych/allocator-api2",
+  "downloads": 176663333,
+  "rank": 233
+ },
+ {
+  "name": "unicode-segmentation",
+  "slug": "unicode-segmentation",
+  "summary": "This crate provides Grapheme Cluster, Word and Sentence boundaries\naccording to Unicode Standard Annex #29 rules.",
+  "version": "1.13.3",
+  "released": "2026-06-01",
+  "first_release": "2015-04-14",
+  "n_releases": 27,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85.0",
+  "deps": 673416718,
+  "topics": [
+   "boundary",
+   "grapheme"
+  ],
+  "tags": [],
+  "keywords": [
+   "boundary",
+   "grapheme",
+   "text",
+   "unicode",
+   "word"
+  ],
+  "repo": "https://github.com/unicode-rs/unicode-segmentation",
+  "home": "https://github.com/unicode-rs/unicode-segmentation",
+  "downloads": 176517497,
+  "rank": 234
+ },
+ {
+  "name": "sharded-slab",
+  "slug": "sharded-slab",
+  "summary": "A lock-free concurrent slab.",
+  "version": "0.1.7",
+  "released": "2023-10-04",
+  "first_release": "2019-10-02",
+  "n_releases": 17,
+  "license": "MIT",
+  "python": "1.42.0",
+  "deps": 663589853,
+  "topics": [
+   "Concurrency",
+   "Data structures",
+   "Memory management"
+  ],
+  "tags": [
+   "Concurrency",
+   "Data structures",
+   "Memory management"
+  ],
+  "keywords": [
+   "allocator",
+   "atomic",
+   "lock-free",
+   "slab"
+  ],
+  "repo": "https://github.com/hawkw/sharded-slab",
+  "home": "https://github.com/hawkw/sharded-slab",
+  "downloads": 174153105,
+  "rank": 235
+ },
+ {
+  "name": "wasm-bindgen",
+  "slug": "wasm-bindgen",
+  "summary": "Easy support for interacting between JS and Rust.",
+  "version": "0.2.130",
+  "released": "2026-10-30",
+  "first_release": "2018-03-06",
+  "n_releases": 130,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.81",
+  "deps": 648432785,
+  "topics": [
+   "WebAssembly"
+  ],
+  "tags": [
+   "WebAssembly"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/wasm-bindgen/wasm-bindgen",
+  "home": "https://wasm-bindgen.github.io/wasm-bindgen",
+  "downloads": 173710173,
+  "rank": 236
+ },
+ {
+  "name": "wasm-bindgen-macro-support",
+  "slug": "wasm-bindgen-macro-support",
+  "summary": "Implementation APIs for the `#[wasm_bindgen]` attribute",
+  "version": "0.2.130",
+  "released": "2026-10-30",
+  "first_release": "2018-08-13",
+  "n_releases": 113,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.81",
+  "deps": 647649815,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/wasm-bindgen/wasm-bindgen/tree/main/crates/macro-support",
+  "home": "https://wasm-bindgen.github.io/wasm-bindgen/",
+  "downloads": 173566517,
+  "rank": 237
+ },
+ {
+  "name": "wasm-bindgen-shared",
+  "slug": "wasm-bindgen-shared",
+  "summary": "Shared support between wasm-bindgen and wasm-bindgen cli, an internal\ndependency.",
+  "version": "0.2.130",
+  "released": "2026-10-30",
+  "first_release": "2018-03-06",
+  "n_releases": 132,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.81",
+  "deps": 647031093,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/shared",
+  "home": "https://wasm-bindgen.github.io/wasm-bindgen/",
+  "downloads": 173186148,
+  "rank": 238
+ },
+ {
+  "name": "wasm-bindgen-macro",
+  "slug": "wasm-bindgen-macro",
+  "summary": "Definition of the `#[wasm_bindgen]` attribute, an internal dependency",
+  "version": "0.2.130",
+  "released": "2026-10-30",
+  "first_release": "2018-03-06",
+  "n_releases": 131,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.81",
+  "deps": 647590625,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/macro",
+  "home": "https://wasm-bindgen.github.io/wasm-bindgen/",
+  "downloads": 173152671,
+  "rank": 239
+ },
+ {
+  "name": "nu-ansi-term",
+  "slug": "nu-ansi-term",
+  "summary": "Library for ANSI terminal colors and styles (bold, underline)",
+  "version": "0.50.3",
+  "released": "2025-10-10",
+  "first_release": "2021-03-09",
+  "n_releases": 26,
+  "license": "MIT",
+  "python": "1.62.1",
+  "deps": 642206438,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/nushell/nu-ansi-term",
+  "home": "",
+  "downloads": 171981713,
+  "rank": 240
+ },
+ {
+  "name": "prost",
+  "slug": "prost",
+  "summary": "A Protocol Buffers implementation for the Rust Language.",
+  "version": "0.14.4",
+  "released": "2026-06-07",
+  "first_release": "2017-06-25",
+  "n_releases": 46,
+  "license": "Apache-2.0",
+  "python": "1.85",
+  "deps": 701280860,
+  "topics": [
+   "Encoding"
+  ],
+  "tags": [
+   "Encoding"
+  ],
+  "keywords": [
+   "protobuf",
+   "serialization"
+  ],
+  "repo": "https://github.com/tokio-rs/prost",
+  "home": "",
+  "downloads": 171444027,
+  "rank": 241
+ },
+ {
+  "name": "quick-xml",
+  "slug": "quick-xml",
+  "summary": "High performance xml reader and writer",
+  "version": "0.42.0",
+  "released": "2026-08-22",
+  "first_release": "2016-02-01",
+  "n_releases": 104,
+  "license": "MIT",
+  "python": "1.86",
+  "deps": 537221251,
+  "topics": [
+   "Asynchronous",
+   "Encoding",
+   "Parser implementations",
+   "Parsing tools"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Encoding",
+   "Parser implementations",
+   "Parsing tools"
+  ],
+  "keywords": [
+   "html",
+   "parser",
+   "serde",
+   "writer",
+   "xml"
+  ],
+  "repo": "https://github.com/tafia/quick-xml",
+  "home": "",
+  "downloads": 170612245,
+  "rank": 242
+ },
+ {
+  "name": "proc-macro-crate",
+  "slug": "proc-macro-crate",
+  "summary": "Replacement for crate (macro_rules keyword) in proc-macros",
+  "version": "3.5.0",
+  "released": "2026-03-04",
+  "first_release": "2019-02-11",
+  "n_releases": 24,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.82.0",
+  "deps": 650081777,
+  "topics": [
+   "Procedural macro helpers"
+  ],
+  "tags": [
+   "Procedural macro helpers"
+  ],
+  "keywords": [
+   "crate",
+   "macro",
+   "macro-rules",
+   "proc-macro"
+  ],
+  "repo": "https://github.com/bkchr/proc-macro-crate",
+  "home": "",
+  "downloads": 170413514,
+  "rank": 243
+ },
+ {
+  "name": "glob",
+  "slug": "glob",
+  "summary": "Support for matching file paths against Unix shell style patterns.",
+  "version": "0.3.4",
+  "released": "2026-07-21",
+  "first_release": "2014-11-11",
+  "n_releases": 30,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.63.0",
+  "deps": 719616535,
+  "topics": [
+   "Filesystem"
+  ],
+  "tags": [
+   "Filesystem"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/rust-lang/glob",
+  "home": "https://github.com/rust-lang/glob",
+  "downloads": 168150839,
+  "rank": 244
+ },
+ {
+  "name": "prost-derive",
+  "slug": "prost-derive",
+  "summary": "Generate encoding and decoding implementations for Prost annotated types.",
+  "version": "0.14.4",
+  "released": "2026-06-07",
+  "first_release": "2017-06-25",
+  "n_releases": 42,
+  "license": "Apache-2.0",
+  "python": "1.85",
+  "deps": 688242503,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/tokio-rs/prost",
+  "home": "",
+  "downloads": 167990240,
+  "rank": 245
+ },
+ {
+  "name": "tinyvec_macros",
+  "slug": "tinyvec-macros",
+  "summary": "Some macros for tiny containers",
+  "version": "0.1.1",
+  "released": "2023-02-02",
+  "first_release": "2020-08-09",
+  "n_releases": 2,
+  "license": "MIT OR Apache-2.0 OR Zlib",
+  "python": "Not specified",
+  "deps": 756935919,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/Soveu/tinyvec_macros",
+  "home": "",
+  "downloads": 166768182,
+  "rank": 246
+ },
+ {
+  "name": "libm",
+  "slug": "libm",
+  "summary": "libm in pure Rust",
+  "version": "0.2.16",
+  "released": "2026-01-24",
+  "first_release": "2018-07-14",
+  "n_releases": 22,
+  "license": "MIT",
+  "python": "1.63",
+  "deps": 582123504,
+  "topics": [
+   "No standard library"
+  ],
+  "tags": [],
+  "keywords": [
+   "libm",
+   "math"
+  ],
+  "repo": "https://github.com/rust-lang/compiler-builtins",
+  "home": "",
+  "downloads": 166617128,
+  "rank": 247
+ },
+ {
+  "name": "convert_case",
+  "slug": "convert-case",
+  "summary": "Convert strings into any case",
+  "version": "0.12.0",
+  "released": "2026-08-27",
+  "first_release": "2020-04-17",
+  "n_releases": 15,
+  "license": "MIT",
+  "python": "Not specified",
+  "deps": 639196867,
+  "topics": [
+   "Text processing"
+  ],
+  "tags": [
+   "Text processing"
+  ],
+  "keywords": [
+   "case",
+   "casing",
+   "string"
+  ],
+  "repo": "https://github.com/rutrum/convert-case",
+  "home": "",
+  "downloads": 166096886,
+  "rank": 248
+ },
+ {
+  "name": "rayon",
+  "slug": "rayon",
+  "summary": "Simple work-stealing parallelism for Rust",
+  "version": "1.12.0",
+  "released": "2026-04-14",
+  "first_release": "2015-12-10",
+  "n_releases": 40,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.80",
+  "deps": 658062481,
+  "topics": [
+   "Concurrency"
+  ],
+  "tags": [
+   "Concurrency"
+  ],
+  "keywords": [
+   "concurrency",
+   "join",
+   "parallel",
+   "performance",
+   "thread"
+  ],
+  "repo": "https://github.com/rayon-rs/rayon",
+  "home": "",
+  "downloads": 165212616,
+  "rank": 249
+ },
+ {
+  "name": "bit-set",
+  "slug": "bit-set",
+  "summary": "A set of bits",
+  "version": "0.11.1",
+  "released": "2026-07-10",
+  "first_release": "2015-06-03",
+  "n_releases": 17,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.85.0",
+  "deps": 511048138,
+  "topics": [
+   "bitset",
+   "data-structures"
+  ],
+  "tags": [],
+  "keywords": [
+   "bitset",
+   "data-structures"
+  ],
+  "repo": "https://github.com/contain-rs/bit-vec",
+  "home": "https://github.com/contain-rs/bit-vec",
+  "downloads": 164710240,
+  "rank": 250
+ },
+ {
+  "name": "phf_generator",
+  "slug": "phf-generator",
+  "summary": "PHF generation logic",
+  "version": "0.14.0",
+  "released": "2026-06-21",
+  "first_release": "2015-02-22",
+  "n_releases": 48,
+  "license": "MIT",
+  "python": "1.85",
+  "deps": 559135601,
+  "topics": [
+   "Data structures"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/rust-phf/rust-phf",
+  "home": "",
+  "downloads": 164585824,
+  "rank": 251
+ },
+ {
+  "name": "tracing-log",
+  "slug": "tracing-log",
+  "summary": "Provides compatibility between `tracing` and the `log` crate.",
+  "version": "0.2.0",
+  "released": "2023-10-25",
+  "first_release": "2019-06-27",
+  "n_releases": 9,
+  "license": "MIT",
+  "python": "1.56.0",
+  "deps": 658927698,
+  "topics": [
+   "Asynchronous",
+   "Debugging"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Debugging"
+  ],
+  "keywords": [
+   "log",
+   "logging",
+   "tracing"
+  ],
+  "repo": "https://github.com/tokio-rs/tracing",
+  "home": "https://tokio.rs",
+  "downloads": 162557737,
+  "rank": 252
+ },
+ {
+  "name": "js-sys",
+  "slug": "js-sys",
+  "summary": "Bindings for all JS global objects and functions in all JS environments like\nNode.js and browsers, built on `#[wasm_bindgen]` using the `wasm-bindgen` crate.",
+  "version": "0.3.107",
+  "released": "2026-10-30",
+  "first_release": "2018-07-19",
+  "n_releases": 115,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.81",
+  "deps": 603452017,
+  "topics": [
+   "WebAssembly"
+  ],
+  "tags": [
+   "WebAssembly"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/js-sys",
+  "home": "https://wasm-bindgen.github.io/wasm-bindgen/",
+  "downloads": 161690670,
+  "rank": 253
+ },
+ {
+  "name": "rayon-core",
+  "slug": "rayon-core",
+  "summary": "Core APIs for Rayon",
+  "version": "1.13.0",
+  "released": "2025-08-12",
+  "first_release": "2017-03-11",
+  "n_releases": 28,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.80",
+  "deps": 645911008,
+  "topics": [
+   "Concurrency"
+  ],
+  "tags": [
+   "Concurrency"
+  ],
+  "keywords": [
+   "concurrency",
+   "join",
+   "parallel",
+   "performance",
+   "thread"
+  ],
+  "repo": "https://github.com/rayon-rs/rayon",
+  "home": "",
+  "downloads": 161347286,
+  "rank": 254
+ },
+ {
+  "name": "windows-core",
+  "slug": "windows-core",
+  "summary": "Core type support for COM and Windows",
+  "version": "0.100.0",
+  "released": "2026-09-03",
+  "first_release": "2021-11-15",
+  "n_releases": 21,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.95",
+  "deps": 534901679,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 161095028,
+  "rank": 255
+ },
+ {
+  "name": "matchit",
+  "slug": "matchit",
+  "summary": "A high performance, zero-copy URL router.",
+  "version": "0.9.2",
+  "released": "2026-04-08",
+  "first_release": "2020-12-21",
+  "n_releases": 28,
+  "license": "MIT AND BSD-3-Clause",
+  "python": "1.66",
+  "deps": 552992273,
+  "topics": [
+   "Algorithms",
+   "Network programming"
+  ],
+  "tags": [
+   "Algorithms",
+   "Network programming"
+  ],
+  "keywords": [
+   "match",
+   "path",
+   "router",
+   "tree",
+   "url"
+  ],
+  "repo": "https://github.com/ibraheemdev/matchit",
+  "home": "",
+  "downloads": 159758260,
+  "rank": 256
+ },
+ {
+  "name": "der",
+  "slug": "der",
+  "summary": "Pure Rust embedded-friendly implementation of the Distinguished Encoding Rules\n(DER) for Abstract Syntax Notation One (ASN.1) as described in ITU X.690 with\nfull support for heapless `no_std`/`no_alloc` targets",
+  "version": "0.8.3",
+  "released": "2026-10-25",
+  "first_release": "2020-12-17",
+  "n_releases": 66,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.85",
+  "deps": 569786333,
+  "topics": [
+   "Cryptography",
+   "Data structures",
+   "Encoding",
+   "No standard library",
+   "Parser implementations"
+  ],
+  "tags": [
+   "Cryptography",
+   "Data structures",
+   "Encoding",
+   "Parser implementations"
+  ],
+  "keywords": [
+   "asn1",
+   "crypto",
+   "itu",
+   "no-alloc",
+   "pkcs"
+  ],
+  "repo": "https://github.com/RustCrypto/formats",
+  "home": "https://github.com/RustCrypto/formats/tree/master/der",
+  "downloads": 159734611,
+  "rank": 257
+ },
+ {
+  "name": "axum",
+  "slug": "axum",
+  "summary": "HTTP routing and request handling library that focuses on ergonomics and modularity",
+  "version": "0.8.9",
+  "released": "2026-04-14",
+  "first_release": "2021-07-22",
+  "n_releases": 94,
+  "license": "MIT",
+  "python": "1.80",
+  "deps": 581456129,
+  "topics": [
+   "Asynchronous",
+   "HTTP server",
+   "Network programming"
+  ],
+  "tags": [
+   "Asynchronous",
+   "HTTP server",
+   "Network programming"
+  ],
+  "keywords": [
+   "http",
+   "routing",
+   "web"
+  ],
+  "repo": "https://github.com/tokio-rs/axum",
+  "home": "https://github.com/tokio-rs/axum",
+  "downloads": 159313634,
+  "rank": 258
+ },
+ {
+  "name": "vcpkg",
+  "slug": "vcpkg",
+  "summary": "A library to find native dependencies in a vcpkg tree at build\ntime in order to be used in Cargo build scripts.",
+  "version": "0.2.15",
+  "released": "2021-06-19",
+  "first_release": "2017-04-20",
+  "n_releases": 27,
+  "license": "MIT/Apache-2.0",
+  "python": "Not specified",
+  "deps": 580773177,
+  "topics": [
+   "Build Utils"
+  ],
+  "tags": [
+   "Build Utils"
+  ],
+  "keywords": [
+   "build-dependencies",
+   "linux",
+   "macos",
+   "windows"
+  ],
+  "repo": "https://github.com/mcgoo/vcpkg-rs",
+  "home": "",
+  "downloads": 158104670,
+  "rank": 259
+ },
+ {
+  "name": "axum-core",
+  "slug": "axum-core",
+  "summary": "Core types and traits for axum",
+  "version": "0.5.6",
+  "released": "2025-12-27",
+  "first_release": "2021-08-21",
+  "n_releases": 37,
+  "license": "MIT",
+  "python": "1.78",
+  "deps": 575956868,
+  "topics": [
+   "Asynchronous",
+   "Network programming",
+   "Web programming"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Network programming",
+   "Web programming"
+  ],
+  "keywords": [
+   "framework",
+   "http",
+   "web"
+  ],
+  "repo": "https://github.com/tokio-rs/axum",
+  "home": "https://github.com/tokio-rs/axum",
+  "downloads": 158031253,
+  "rank": 260
+ },
+ {
+  "name": "windows-result",
+  "slug": "windows-result",
+  "summary": "Windows error handling",
+  "version": "0.100.0",
+  "released": "2026-09-03",
+  "first_release": "2024-02-02",
+  "n_releases": 13,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.95",
+  "deps": 462470975,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 156041644,
+  "rank": 261
+ },
+ {
+  "name": "libloading",
+  "slug": "libloading",
+  "summary": "Bindings around the platform's dynamic library loading primitives with greatly improved memory safety.",
+  "version": "0.9.0",
+  "released": "2025-11-05",
+  "first_release": "2015-11-08",
+  "n_releases": 41,
+  "license": "ISC",
+  "python": "1.88.0",
+  "deps": 629171103,
+  "topics": [
+   "API bindings"
+  ],
+  "tags": [],
+  "keywords": [
+   "dlopen",
+   "dylib",
+   "load",
+   "shared"
+  ],
+  "repo": "https://github.com/nagisa/rust_libloading/",
+  "home": "",
+  "downloads": 156032574,
+  "rank": 262
+ },
+ {
+  "name": "derive_more",
+  "slug": "derive-more",
+  "summary": "Adds #[derive(x)] macros for more traits",
+  "version": "2.1.1",
+  "released": "2025-12-22",
+  "first_release": "2016-03-28",
+  "n_releases": 51,
+  "license": "MIT",
+  "python": "1.81.0",
+  "deps": 587009806,
+  "topics": [
+   "Development tools",
+   "No standard library",
+   "Procedural macro helpers",
+   "Rust patterns"
+  ],
+  "tags": [
+   "Procedural macro helpers"
+  ],
+  "keywords": [
+   "add",
+   "derive",
+   "display",
+   "from",
+   "intoiterator"
+  ],
+  "repo": "https://github.com/JelteF/derive_more",
+  "home": "",
+  "downloads": 155796021,
+  "rank": 263
+ },
+ {
+  "name": "ident_case",
+  "slug": "ident-case",
+  "summary": "Utility for applying case rules to Rust identifiers.",
+  "version": "1.0.1",
+  "released": "2019-03-18",
+  "first_release": "2017-05-10",
+  "n_releases": 2,
+  "license": "MIT/Apache-2.0",
+  "python": "Not specified",
+  "deps": 571182284,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/TedDriggs/ident_case",
+  "home": "",
+  "downloads": 155026856,
+  "rank": 264
+ },
+ {
+  "name": "matchers",
+  "slug": "matchers",
+  "summary": "Regex matching on character and byte streams.",
+  "version": "0.2.0",
+  "released": "2024-07-01",
+  "first_release": "2019-08-02",
+  "n_releases": 3,
+  "license": "MIT",
+  "python": "Not specified",
+  "deps": 590868561,
+  "topics": [
+   "Text processing"
+  ],
+  "tags": [
+   "Text processing"
+  ],
+  "keywords": [
+   "match",
+   "pattern",
+   "regex",
+   "streaming"
+  ],
+  "repo": "https://github.com/hawkw/matchers",
+  "home": "https://github.com/hawkw/matchers",
+  "downloads": 154573778,
+  "rank": 265
+ },
+ {
+  "name": "crossbeam-channel",
+  "slug": "crossbeam-channel",
+  "summary": "Multi-producer multi-consumer channels for message passing",
+  "version": "0.5.17",
+  "released": "2026-09-05",
+  "first_release": "2017-11-26",
+  "n_releases": 44,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 697896866,
+  "topics": [
+   "Algorithms",
+   "Concurrency",
+   "Data structures"
+  ],
+  "tags": [
+   "Algorithms",
+   "Concurrency",
+   "Data structures"
+  ],
+  "keywords": [
+   "channel",
+   "golang",
+   "message",
+   "mpmc",
+   "select"
+  ],
+  "repo": "https://github.com/crossbeam-rs/crossbeam",
+  "home": "https://github.com/crossbeam-rs/crossbeam/tree/master/crossbeam-channel",
+  "downloads": 154402131,
+  "rank": 266
+ },
+ {
+  "name": "quinn-proto",
+  "slug": "quinn-proto",
+  "summary": "State machine for the QUIC transport protocol",
+  "version": "0.11.19",
+  "released": "2026-09-30",
+  "first_release": "2018-10-02",
+  "n_releases": 51,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 420686901,
+  "topics": [
+   "Asynchronous",
+   "Network programming"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Network programming"
+  ],
+  "keywords": [
+   "quic"
+  ],
+  "repo": "https://github.com/quinn-rs/quinn",
+  "home": "",
+  "downloads": 153937732,
+  "rank": 267
+ },
+ {
+  "name": "memoffset",
+  "slug": "memoffset",
+  "summary": "offset_of functionality for Rust structs.",
+  "version": "0.9.1",
+  "released": "2024-03-26",
+  "first_release": "2017-10-17",
+  "n_releases": 23,
+  "license": "MIT",
+  "python": "Not specified",
+  "deps": 841908385,
+  "topics": [
+   "No standard library"
+  ],
+  "tags": [],
+  "keywords": [
+   "mem",
+   "offset",
+   "offset_of",
+   "offsetof"
+  ],
+  "repo": "https://github.com/Gilnaa/memoffset",
+  "home": "",
+  "downloads": 153480669,
+  "rank": 268
+ },
+ {
+  "name": "core-foundation",
+  "slug": "core-foundation",
+  "summary": "Bindings to Core Foundation for macOS",
+  "version": "0.10.1",
+  "released": "2025-05-26",
+  "first_release": "2015-02-12",
+  "n_releases": 32,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.65",
+  "deps": 547566579,
+  "topics": [
+   "macOS APIs"
+  ],
+  "tags": [
+   "macOS APIs"
+  ],
+  "keywords": [
+   "framework",
+   "macos",
+   "objc"
+  ],
+  "repo": "https://github.com/servo/core-foundation-rs",
+  "home": "",
+  "downloads": 153391188,
+  "rank": 269
+ },
+ {
+  "name": "prettyplease",
+  "slug": "prettyplease",
+  "summary": "A minimal `syn` syntax tree pretty-printer",
+  "version": "0.3.0",
+  "released": "2026-07-18",
+  "first_release": "2022-01-04",
+  "n_releases": 66,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 599076953,
+  "topics": [
+   "Development tools"
+  ],
+  "tags": [],
+  "keywords": [
+   "rustfmt"
+  ],
+  "repo": "https://github.com/dtolnay/prettyplease",
+  "home": "",
+  "downloads": 152983816,
+  "rank": 270
+ },
+ {
+  "name": "quinn-udp",
+  "slug": "quinn-udp",
+  "summary": "UDP sockets with ECN information for the QUIC transport protocol",
+  "version": "0.6.3",
+  "released": "2026-09-30",
+  "first_release": "2021-10-07",
+  "n_releases": 33,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.88.0",
+  "deps": 415217994,
+  "topics": [
+   "Asynchronous",
+   "Network programming"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Network programming"
+  ],
+  "keywords": [
+   "quic"
+  ],
+  "repo": "https://github.com/quinn-rs/quinn",
+  "home": "",
+  "downloads": 152375867,
+  "rank": 271
+ },
+ {
+  "name": "event-listener",
+  "slug": "event-listener",
+  "summary": "Notify async tasks or threads",
+  "version": "5.4.2",
+  "released": "2026-07-27",
+  "first_release": "2020-05-16",
+  "n_releases": 35,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.60",
+  "deps": 635870695,
+  "topics": [
+   "Asynchronous",
+   "Concurrency"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Concurrency"
+  ],
+  "keywords": [
+   "blocking",
+   "condvar",
+   "eventcount",
+   "park",
+   "wake"
+  ],
+  "repo": "https://github.com/smol-rs/event-listener",
+  "home": "",
+  "downloads": 151109206,
+  "rank": 272
+ },
+ {
+  "name": "tokio-stream",
+  "slug": "tokio-stream",
+  "summary": "Utilities to work with `Stream` and `tokio`.",
+  "version": "0.1.19",
+  "released": "2026-07-22",
+  "first_release": "2020-12-03",
+  "n_releases": 21,
+  "license": "MIT",
+  "python": "1.71",
+  "deps": 574298504,
+  "topics": [
+   "Asynchronous"
+  ],
+  "tags": [
+   "Asynchronous"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/tokio-rs/tokio",
+  "home": "https://tokio.rs",
+  "downloads": 150886733,
+  "rank": 273
+ },
+ {
+  "name": "encoding_rs",
+  "slug": "encoding-rs",
+  "summary": "A Gecko-oriented implementation of the Encoding Standard",
+  "version": "0.8.44",
+  "released": "2026-10-30",
+  "first_release": "2016-07-09",
+  "n_releases": 67,
+  "license": "(Apache-2.0 OR MIT) AND BSD-3-Clause",
+  "python": "1.88",
+  "deps": 631956410,
+  "topics": [
+   "Encoding",
+   "Internationalization (i18n)",
+   "Text processing",
+   "Web programming"
+  ],
+  "tags": [
+   "Encoding",
+   "Internationalization (i18n)",
+   "Text processing",
+   "Web programming"
+  ],
+  "keywords": [
+   "charset",
+   "encoding",
+   "unicode",
+   "web"
+  ],
+  "repo": "https://github.com/hsivonen/encoding_rs",
+  "home": "https://docs.rs/encoding_rs/",
+  "downloads": 150785112,
+  "rank": 274
+ },
+ {
+  "name": "signature",
+  "slug": "signature",
+  "summary": "Traits for cryptographic signature algorithms (e.g. ECDSA, Ed25519)",
+  "version": "3.0.0",
+  "released": "2026-05-02",
+  "first_release": "2018-10-30",
+  "n_releases": 55,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.85",
+  "deps": 540445157,
+  "topics": [
+   "Cryptography",
+   "No standard library"
+  ],
+  "tags": [
+   "Cryptography"
+  ],
+  "keywords": [
+   "crypto",
+   "ecdsa",
+   "ed25519",
+   "signature",
+   "signing"
+  ],
+  "repo": "https://github.com/RustCrypto/traits",
+  "home": "",
+  "downloads": 150664542,
+  "rank": 275
+ },
+ {
+  "name": "quinn",
+  "slug": "quinn",
+  "summary": "Versatile QUIC transport protocol implementation",
+  "version": "0.11.12",
+  "released": "2026-09-14",
+  "first_release": "2018-10-02",
+  "n_releases": 41,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 410835255,
+  "topics": [
+   "Asynchronous",
+   "Network programming"
+  ],
+  "tags": [
+   "Asynchronous",
+   "Network programming"
+  ],
+  "keywords": [
+   "quic"
+  ],
+  "repo": "https://github.com/quinn-rs/quinn",
+  "home": "",
+  "downloads": 150560638,
+  "rank": 276
+ },
+ {
+  "name": "minimal-lexical",
+  "slug": "minimal-lexical",
+  "summary": "Fast float parsing conversion routines.",
+  "version": "0.2.1",
+  "released": "2021-10-04",
+  "first_release": "2021-04-27",
+  "n_releases": 7,
+  "license": "MIT/Apache-2.0",
+  "python": "Not specified",
+  "deps": 630130847,
+  "topics": [
+   "No standard library",
+   "Parsing tools"
+  ],
+  "tags": [
+   "Parsing tools"
+  ],
+  "keywords": [
+   "parsing"
+  ],
+  "repo": "https://github.com/Alexhuszagh/minimal-lexical",
+  "home": "",
+  "downloads": 149482985,
+  "rank": 277
+ },
+ {
+  "name": "half",
+  "slug": "half",
+  "summary": "Half-precision floating point f16 and bf16 types for Rust implementing the IEEE 754-2008 standard binary16 and bfloat16 types.",
+  "version": "2.7.1",
+  "released": "2025-10-14",
+  "first_release": "2016-03-18",
+  "n_releases": 33,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.81",
+  "deps": 560844017,
+  "topics": [
+   "Data structures",
+   "Encoding",
+   "No standard library"
+  ],
+  "tags": [
+   "Data structures",
+   "Encoding"
+  ],
+  "keywords": [
+   "bfloat16",
+   "f16"
+  ],
+  "repo": "https://github.com/VoidStarKat/half-rs",
+  "home": "",
+  "downloads": 148612703,
+  "rank": 278
+ },
+ {
+  "name": "data-encoding",
+  "slug": "data-encoding",
+  "summary": "Efficient and customizable data-encoding functions like base64, base32, and hex",
+  "version": "2.11.1",
+  "released": "2026-08-03",
+  "first_release": "2015-12-05",
+  "n_releases": 26,
+  "license": "MIT",
+  "python": "1.48",
+  "deps": 518760789,
+  "topics": [
+   "Encoding",
+   "No standard library"
+  ],
+  "tags": [
+   "Encoding"
+  ],
+  "keywords": [
+   "base32",
+   "base64",
+   "hex"
+  ],
+  "repo": "https://github.com/ia0/data-encoding",
+  "home": "",
+  "downloads": 148427432,
+  "rank": 279
+ },
+ {
+  "name": "static_assertions",
+  "slug": "static-assertions",
+  "summary": "Compile-time assertions to ensure that invariants are met.",
+  "version": "1.1.0",
+  "released": "2019-11-03",
+  "first_release": "2017-08-13",
+  "n_releases": 15,
+  "license": "MIT OR Apache-2.0",
+  "python": "Not specified",
+  "deps": 598920354,
+  "topics": [
+   "No standard library",
+   "Rust patterns",
+   "Testing"
+  ],
+  "tags": [
+   "Testing"
+  ],
+  "keywords": [
+   "assert",
+   "static",
+   "testing"
+  ],
+  "repo": "https://github.com/nvzqz/static-assertions-rs",
+  "home": "https://github.com/nvzqz/static-assertions-rs",
+  "downloads": 147963392,
+  "rank": 280
+ },
+ {
+  "name": "fixedbitset",
+  "slug": "fixedbitset",
+  "summary": "FixedBitSet is a simple bitset collection",
+  "version": "0.5.9",
+  "released": "2026-11-08",
+  "first_release": "2015-04-03",
+  "n_releases": 32,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.56",
+  "deps": 596754077,
+  "topics": [
+   "Data structures"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [
+   "bitset",
+   "bitvec",
+   "container",
+   "data-structure"
+  ],
+  "repo": "https://github.com/petgraph/fixedbitset",
+  "home": "",
+  "downloads": 145890135,
+  "rank": 281
+ },
+ {
+  "name": "windows-strings",
+  "slug": "windows-strings",
+  "summary": "Windows string types",
+  "version": "0.100.0",
+  "released": "2026-09-03",
+  "first_release": "2024-02-02",
+  "n_releases": 11,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.95",
+  "deps": 419109300,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 145228851,
+  "rank": 282
+ },
+ {
+  "name": "unicode-normalization",
+  "slug": "unicode-normalization",
+  "summary": "This crate provides functions for normalization of\nUnicode strings, including Canonical and Compatible\nDecomposition and Recomposition, as described in\nUnicode Standard Annex #15.",
+  "version": "0.1.26",
+  "released": "2026-10-16",
+  "first_release": "2015-04-15",
+  "n_releases": 30,
+  "license": "(MIT OR Apache-2.0) AND Unicode-3.0",
+  "python": "1.36",
+  "deps": 672130302,
+  "topics": [
+   "decomposition",
+   "normalization"
+  ],
+  "tags": [],
+  "keywords": [
+   "decomposition",
+   "normalization",
+   "recomposition",
+   "text",
+   "unicode"
+  ],
+  "repo": "https://github.com/unicode-rs/unicode-normalization",
+  "home": "https://github.com/unicode-rs/unicode-normalization",
+  "downloads": 145151982,
+  "rank": 283
+ },
+ {
+  "name": "hybrid-array",
+  "slug": "hybrid-array",
+  "summary": "Hybrid typenum-based and const generic array types designed to provide the\nflexibility of typenum-based expressions while also allowing interoperability\nand a transition path to const generics",
+  "version": "0.4.15",
+  "released": "2026-09-08",
+  "first_release": "2022-05-07",
+  "n_releases": 44,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 219696959,
+  "topics": [
+   "Data structures",
+   "No standard library"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [
+   "generic-array"
+  ],
+  "repo": "https://github.com/RustCrypto/hybrid-array",
+  "home": "",
+  "downloads": 143346088,
+  "rank": 284
+ },
+ {
+  "name": "petgraph",
+  "slug": "petgraph",
+  "summary": "Graph data structure library. Provides graph types and graph algorithms.",
+  "version": "0.8.3",
+  "released": "2025-09-30",
+  "first_release": "2015-01-11",
+  "n_releases": 78,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.64",
+  "deps": 606215001,
+  "topics": [
+   "Data structures"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [
+   "data-structure",
+   "graph",
+   "graph-algorithms",
+   "unionfind"
+  ],
+  "repo": "https://github.com/petgraph/petgraph",
+  "home": "",
+  "downloads": 142947260,
+  "rank": 285
+ },
+ {
+  "name": "md-5",
+  "slug": "md-5",
+  "summary": "MD5 hash function",
+  "version": "0.11.0",
+  "released": "2026-03-27",
+  "first_release": "2017-04-06",
+  "n_releases": 31,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 454440556,
+  "topics": [
+   "Cryptography",
+   "No standard library"
+  ],
+  "tags": [
+   "Cryptography"
+  ],
+  "keywords": [
+   "digest",
+   "hash",
+   "md5"
+  ],
+  "repo": "https://github.com/RustCrypto/hashes",
+  "home": "",
+  "downloads": 142876238,
+  "rank": 286
+ },
+ {
+  "name": "pin-project-internal",
+  "slug": "pin-project-internal",
+  "summary": "Implementation detail of the `pin-project` crate.",
+  "version": "1.1.13",
+  "released": "2026-05-13",
+  "first_release": "2019-08-11",
+  "n_releases": 71,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.71",
+  "deps": 677881716,
+  "topics": [
+   "No dynamic allocation",
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [],
+  "keywords": [
+   "attribute",
+   "macros",
+   "pin"
+  ],
+  "repo": "https://github.com/taiki-e/pin-project",
+  "home": "",
+  "downloads": 142759253,
+  "rank": 287
+ },
+ {
+  "name": "pin-project",
+  "slug": "pin-project",
+  "summary": "A crate for safe and ergonomic pin-projection.",
+  "version": "1.1.13",
+  "released": "2026-05-13",
+  "first_release": "2019-01-08",
+  "n_releases": 89,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.71",
+  "deps": 677670400,
+  "topics": [
+   "No dynamic allocation",
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [],
+  "keywords": [
+   "attribute",
+   "macros",
+   "pin"
+  ],
+  "repo": "https://github.com/taiki-e/pin-project",
+  "home": "",
+  "downloads": 142608949,
+  "rank": 288
+ },
+ {
+  "name": "lru-slab",
+  "slug": "lru-slab",
+  "summary": "Pre-allocated storage with constant-time LRU tracking",
+  "version": "0.1.3",
+  "released": "2026-09-13",
+  "first_release": "2024-05-31",
+  "n_releases": 4,
+  "license": "MIT OR Apache-2.0 OR Zlib",
+  "python": "Not specified",
+  "deps": 321795039,
+  "topics": [
+   "Data structures",
+   "No standard library"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/Ralith/lru-slab",
+  "home": "",
+  "downloads": 142194123,
+  "rank": 289
+ },
+ {
+  "name": "hashlink",
+  "slug": "hashlink",
+  "summary": "HashMap-like containers that hold their key-value pairs in a user controllable order",
+  "version": "0.12.2",
+  "released": "2026-09-07",
+  "first_release": "2019-07-06",
+  "n_releases": 22,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 432940501,
+  "topics": [
+   "data-structures",
+   "no_std"
+  ],
+  "tags": [],
+  "keywords": [
+   "data-structures"
+  ],
+  "repo": "https://github.com/djc/hashlink",
+  "home": "",
+  "downloads": 141928323,
+  "rank": 290
+ },
+ {
+  "name": "object",
+  "slug": "object",
+  "summary": "A unified interface for reading and writing object file formats.",
+  "version": "0.41.0",
+  "released": "2026-11-10",
+  "first_release": "2016-08-19",
+  "n_releases": 74,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.85",
+  "deps": 707733397,
+  "topics": [
+   "coff",
+   "elf"
+  ],
+  "tags": [],
+  "keywords": [
+   "coff",
+   "elf",
+   "mach-o",
+   "object",
+   "pe"
+  ],
+  "repo": "https://github.com/gimli-rs/object",
+  "home": "",
+  "downloads": 141871893,
+  "rank": 291
+ },
+ {
+  "name": "spki",
+  "slug": "spki",
+  "summary": "X.509 Subject Public Key Info (RFC5280) describing public keys as well as their\nassociated AlgorithmIdentifiers (i.e. OIDs)",
+  "version": "0.8.1",
+  "released": "2026-10-05",
+  "first_release": "2020-12-03",
+  "n_releases": 29,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.85",
+  "deps": 519601574,
+  "topics": [
+   "Cryptography",
+   "Data structures",
+   "Encoding",
+   "No standard library"
+  ],
+  "tags": [
+   "Cryptography",
+   "Data structures",
+   "Encoding"
+  ],
+  "keywords": [
+   "crypto",
+   "x509"
+  ],
+  "repo": "https://github.com/RustCrypto/formats",
+  "home": "https://github.com/RustCrypto/formats/tree/master/spki",
+  "downloads": 140679323,
+  "rank": 292
+ },
+ {
+  "name": "wit-bindgen",
+  "slug": "wit-bindgen",
+  "summary": "Rust bindings generator and runtime support for WIT and the component model.\nUsed when compiling Rust programs to the component model.",
+  "version": "0.63.0",
+  "released": "2026-10-14",
+  "first_release": "2021-11-16",
+  "n_releases": 73,
+  "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+  "python": "Not specified",
+  "deps": 339656437,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/bytecodealliance/wit-bindgen",
+  "home": "",
+  "downloads": 140124945,
+  "rank": 293
+ },
+ {
+  "name": "cipher",
+  "slug": "cipher",
+  "summary": "Traits for describing block ciphers and stream ciphers",
+  "version": "0.5.2",
+  "released": "2026-05-19",
+  "first_release": "2015-06-25",
+  "n_releases": 39,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 461284291,
+  "topics": [
+   "Cryptography",
+   "No standard library"
+  ],
+  "tags": [
+   "Cryptography"
+  ],
+  "keywords": [
+   "block-cipher",
+   "crypto",
+   "stream-cipher",
+   "trait"
+  ],
+  "repo": "https://github.com/RustCrypto/traits",
+  "home": "",
+  "downloads": 140025052,
+  "rank": 294
+ },
+ {
+  "name": "bytemuck",
+  "slug": "bytemuck",
+  "summary": "A crate for mucking around with piles of bytes.",
+  "version": "1.25.2",
+  "released": "2026-07-19",
+  "first_release": "2019-09-22",
+  "n_releases": 58,
+  "license": "Zlib OR Apache-2.0 OR MIT",
+  "python": "Not specified",
+  "deps": 467461491,
+  "topics": [
+   "Encoding",
+   "No standard library"
+  ],
+  "tags": [
+   "Encoding"
+  ],
+  "keywords": [
+   "bytes",
+   "casting",
+   "transmute"
+  ],
+  "repo": "https://github.com/Lokathor/bytemuck",
+  "home": "",
+  "downloads": 138712163,
+  "rank": 295
+ },
+ {
+  "name": "ref-cast",
+  "slug": "ref-cast",
+  "summary": "Safely cast &T to &U where the struct U contains a single field of type T.",
+  "version": "1.0.27",
+  "released": "2026-08-19",
+  "first_release": "2017-10-09",
+  "n_releases": 37,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 345175433,
+  "topics": [
+   "No dynamic allocation",
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/dtolnay/ref-cast",
+  "home": "",
+  "downloads": 137840679,
+  "rank": 296
+ },
+ {
+  "name": "ref-cast-impl",
+  "slug": "ref-cast-impl",
+  "summary": "Derive implementation for ref_cast::RefCast.",
+  "version": "1.0.27",
+  "released": "2026-08-19",
+  "first_release": "2017-10-09",
+  "n_releases": 37,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 345159199,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/dtolnay/ref-cast",
+  "home": "",
+  "downloads": 137836229,
+  "rank": 297
+ },
+ {
+  "name": "base64ct",
+  "slug": "base64ct",
+  "summary": "Pure Rust implementation of Base64 (RFC 4648) which avoids any usages of\ndata-dependent branches/LUTs and thereby provides portable \"best effort\"\nconstant-time operation and embedded-friendly no_std support",
+  "version": "1.8.3",
+  "released": "2026-01-12",
+  "first_release": "2021-01-21",
+  "n_releases": 31,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.85",
+  "deps": 495477912,
+  "topics": [
+   "Cryptography",
+   "Encoding",
+   "No standard library",
+   "Parser implementations"
+  ],
+  "tags": [
+   "Cryptography",
+   "Encoding",
+   "Parser implementations"
+  ],
+  "keywords": [
+   "base64",
+   "crypto",
+   "pem",
+   "phc"
+  ],
+  "repo": "https://github.com/RustCrypto/formats",
+  "home": "https://github.com/RustCrypto/formats/tree/master/base64ct",
+  "downloads": 137714728,
+  "rank": 298
+ },
+ {
+  "name": "dyn-clone",
+  "slug": "dyn-clone",
+  "summary": "Clone trait that is dyn-compatible",
+  "version": "1.0.20",
+  "released": "2025-07-27",
+  "first_release": "2019-12-23",
+  "n_releases": 21,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 436454779,
+  "topics": [
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [],
+  "keywords": [
+   "clone",
+   "dyn",
+   "object-safe",
+   "trait-object"
+  ],
+  "repo": "https://github.com/dtolnay/dyn-clone",
+  "home": "",
+  "downloads": 136554443,
+  "rank": 299
+ },
+ {
+  "name": "dunce",
+  "slug": "dunce",
+  "summary": "Normalize Windows paths to the most compatible format, avoiding UNC where possible",
+  "version": "1.0.5",
+  "released": "2024-08-04",
+  "first_release": "2017-11-22",
+  "n_releases": 8,
+  "license": "CC0-1.0 OR MIT-0 OR Apache-2.0",
+  "python": "Not specified",
+  "deps": 398398830,
+  "topics": [
+   "Filesystem"
+  ],
+  "tags": [
+   "Filesystem"
+  ],
+  "keywords": [
+   "canonicalize",
+   "deunc",
+   "realpath",
+   "unc",
+   "windows"
+  ],
+  "repo": "https://gitlab.com/kornelski/dunce",
+  "home": "https://lib.rs/crates/dunce",
+  "downloads": 136055367,
+  "rank": 300
+ }
+]
