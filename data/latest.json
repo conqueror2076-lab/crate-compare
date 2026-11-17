@@ -9,7 +9,7 @@
   "n_releases": 56,
   "license": "MIT OR Apache-2.0",
   "python": "1.85.0",
-  "deps": 3112415052,
+  "deps": 3127541037,
   "topics": [
    "Data structures",
    "No standard library"
@@ -24,7 +24,7 @@
   ],
   "repo": "https://github.com/rust-lang/hashbrown",
   "home": "",
-  "downloads": 907826877,
+  "downloads": 914217920,
   "rank": 1
  },
  {
@@ -37,7 +37,7 @@
   "n_releases": 363,
   "license": "MIT OR Apache-2.0",
   "python": "1.71",
-  "deps": 3060803964,
+  "deps": 3076388604,
   "topics": [
    "Parser implementations",
    "Procedural macro helpers"
@@ -52,7 +52,7 @@
   ],
   "repo": "https://github.com/dtolnay/syn",
   "home": "",
-  "downloads": 895925633,
+  "downloads": 903385756,
   "rank": 2
  },
  {
@@ -65,7 +65,7 @@
   "n_releases": 48,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 2621953072,
+  "deps": 2636079488,
   "topics": [
    "No standard library",
    "Operating systems"
@@ -74,7 +74,7 @@
   "keywords": [],
   "repo": "https://github.com/rust-random/getrandom",
   "home": "",
-  "downloads": 816991510,
+  "downloads": 823835904,
   "rank": 3
  },
  {
@@ -87,7 +87,7 @@
   "n_releases": 95,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 2190359837,
+  "deps": 2201342434,
   "topics": [
    "Algorithms",
    "No standard library"
@@ -101,7 +101,7 @@
   ],
   "repo": "https://github.com/rust-random/rand",
   "home": "https://rust-random.github.io/book",
-  "downloads": 639393821,
+  "downloads": 644641940,
   "rank": 4
  },
  {
@@ -114,7 +114,7 @@
   "n_releases": 42,
   "license": "MIT/Apache-2.0",
   "python": "Not specified",
-  "deps": 2210626091,
+  "deps": 2221672066,
   "topics": [
    "Algorithms",
    "No standard library"
@@ -128,7 +128,7 @@
   ],
   "repo": "https://github.com/rust-lang-nursery/rand",
   "home": "https://crates.io/crates/rand_core",
-  "downloads": 637300073,
+  "downloads": 642680238,
   "rank": 5
  },
  {
@@ -141,7 +141,7 @@
   "n_releases": 64,
   "license": "MIT OR Apache-2.0",
   "python": "1.56.0",
-  "deps": 2282022754,
+  "deps": 2291873005,
   "topics": [
    "No standard library"
   ],
@@ -154,7 +154,7 @@
   ],
   "repo": "https://github.com/bitflags/bitflags",
   "home": "https://github.com/bitflags/bitflags",
-  "downloads": 594427831,
+  "downloads": 598655112,
   "rank": 6
  },
  {
@@ -167,7 +167,7 @@
   "n_releases": 92,
   "license": "MIT OR Apache-2.0",
   "python": "1.77",
-  "deps": 1862294613,
+  "deps": 1871339321,
   "topics": [
    "No standard library",
    "Rust patterns"
@@ -180,7 +180,7 @@
   ],
   "repo": "https://github.com/dtolnay/thiserror",
   "home": "",
-  "downloads": 531313977,
+  "downloads": 535391981,
   "rank": 7
  },
  {
@@ -193,13 +193,13 @@
   "n_releases": 91,
   "license": "MIT OR Apache-2.0",
   "python": "1.77",
-  "deps": 1862453268,
+  "deps": 1871496908,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/dtolnay/thiserror",
   "home": "",
-  "downloads": 531240879,
+  "downloads": 535318088,
   "rank": 8
  },
  {
@@ -212,7 +212,7 @@
   "n_releases": 45,
   "license": "MIT OR Apache-2.0",
   "python": "1.71.0",
-  "deps": 1979876313,
+  "deps": 1989492787,
   "topics": [
    "Encoding"
   ],
@@ -227,7 +227,7 @@
   ],
   "repo": "https://github.com/marshallpierce/rust-base64",
   "home": "",
-  "downloads": 529848987,
+  "downloads": 535135286,
   "rank": 9
  },
  {
@@ -240,7 +240,7 @@
   "n_releases": 23,
   "license": "MIT OR Apache-2.0",
   "python": "1.71",
-  "deps": 1937757336,
+  "deps": 1945744769,
   "topics": [
    "Windows APIs"
   ],
@@ -250,7 +250,7 @@
   "keywords": [],
   "repo": "https://github.com/microsoft/windows-rs",
   "home": "",
-  "downloads": 517690798,
+  "downloads": 520194838,
   "rank": 10
  },
  {
@@ -263,7 +263,7 @@
   "n_releases": 95,
   "license": "MIT OR Apache-2.0",
   "python": "1.71",
-  "deps": 1973286389,
+  "deps": 1981390838,
   "topics": [
    "Procedural macro helpers"
   ],
@@ -276,7 +276,7 @@
   ],
   "repo": "https://github.com/dtolnay/quote",
   "home": "",
-  "downloads": 490002610,
+  "downloads": 493154585,
   "rank": 11
  },
  {
@@ -289,7 +289,7 @@
   "n_releases": 209,
   "license": "MIT OR Apache-2.0",
   "python": "1.65",
-  "deps": 1987819879,
+  "deps": 1995978580,
   "topics": [
    "External FFI bindings",
    "No standard library",
@@ -305,7 +305,7 @@
   ],
   "repo": "https://github.com/rust-lang/libc",
   "home": "",
-  "downloads": 488448063,
+  "downloads": 491789068,
   "rank": 12
  },
  {
@@ -318,7 +318,7 @@
   "n_releases": 57,
   "license": "Apache-2.0 OR MIT",
   "python": "1.85",
-  "deps": 1897599585,
+  "deps": 1905646718,
   "topics": [
    "Data structures",
    "No standard library"
@@ -331,7 +331,7 @@
   ],
   "repo": "https://github.com/indexmap-rs/indexmap",
   "home": "",
-  "downloads": 486845701,
+  "downloads": 490151803,
   "rank": 13
  },
  {
@@ -344,7 +344,7 @@
   "n_releases": 163,
   "license": "MIT OR Apache-2.0",
   "python": "1.71",
-  "deps": 1963517304,
+  "deps": 1971546614,
   "topics": [
    "Procedural macro helpers"
   ],
@@ -357,7 +357,7 @@
   ],
   "repo": "https://github.com/dtolnay/proc-macro2",
   "home": "",
-  "downloads": 482646434,
+  "downloads": 485857663,
   "rank": 14
  },
  {
@@ -370,10 +370,10 @@
   "n_releases": 47,
   "license": "Unlicense OR MIT",
   "python": "1.61",
-  "deps": 1751463824,
+  "deps": 1759143859,
   "topics": [
    "find",
-   "search"
+   "memchr"
   ],
   "tags": [],
   "keywords": [
@@ -385,7 +385,7 @@
   ],
   "repo": "https://github.com/BurntSushi/memchr",
   "home": "https://github.com/BurntSushi/memchr",
-  "downloads": 468443239,
+  "downloads": 471492716,
   "rank": 15
  },
  {
@@ -398,7 +398,7 @@
   "n_releases": 131,
   "license": "MIT OR Apache-2.0",
   "python": "1.63.0",
-  "deps": 1850703099,
+  "deps": 1858430434,
   "topics": [
    "Algorithms",
    "No dynamic allocation",
@@ -416,7 +416,7 @@
   ],
   "repo": "https://github.com/rust-itertools/itertools",
   "home": "",
-  "downloads": 464562429,
+  "downloads": 467888708,
   "rank": 16
  },
  {
@@ -429,7 +429,7 @@
   "n_releases": 29,
   "license": "(MIT OR Apache-2.0) AND Unicode-3.0",
   "python": "1.71",
-  "deps": 1716967057,
+  "deps": 1724863992,
   "topics": [
    "No dynamic allocation",
    "No standard library",
@@ -444,7 +444,7 @@
   ],
   "repo": "https://github.com/dtolnay/unicode-ident",
   "home": "",
-  "downloads": 464080769,
+  "downloads": 467573859,
   "rank": 17
  },
  {
@@ -457,7 +457,7 @@
   "n_releases": 27,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 1298238724,
+  "deps": 1306417214,
   "topics": [
    "Hardware support",
    "No standard library"
@@ -471,7 +471,7 @@
   ],
   "repo": "https://github.com/RustCrypto/utils",
   "home": "",
-  "downloads": 457706473,
+  "downloads": 461952492,
   "rank": 18
  },
  {
@@ -484,13 +484,13 @@
   "n_releases": 17,
   "license": "MIT OR Apache-2.0",
   "python": "1.32",
-  "deps": 1773105377,
+  "deps": 1780809329,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/rust-lang/cfg-if",
   "home": "",
-  "downloads": 452315620,
+  "downloads": 455781065,
   "rank": 19
  },
  {
@@ -503,7 +503,7 @@
   "n_releases": 186,
   "license": "MIT OR Apache-2.0",
   "python": "1.71",
-  "deps": 1622412118,
+  "deps": 1629796473,
   "topics": [
    "Encoding",
    "No standard library",
@@ -520,7 +520,7 @@
   ],
   "repo": "https://github.com/serde-rs/json",
   "home": "",
-  "downloads": 434845911,
+  "downloads": 438065825,
   "rank": 20
  },
  {
@@ -533,7 +533,7 @@
   "n_releases": 316,
   "license": "MIT OR Apache-2.0",
   "python": "1.56",
-  "deps": 1715631023,
+  "deps": 1722947111,
   "topics": [
    "Encoding",
    "No dynamic allocation",
@@ -548,7 +548,7 @@
   ],
   "repo": "https://github.com/serde-rs/serde",
   "home": "https://serde.rs",
-  "downloads": 432488117,
+  "downloads": 435574130,
   "rank": 21
  },
  {
@@ -561,7 +561,7 @@
   "n_releases": 38,
   "license": "MIT OR Apache-2.0",
   "python": "1.68",
-  "deps": 1655315226,
+  "deps": 1662751063,
   "topics": [
    "No dynamic allocation",
    "No standard library",
@@ -575,7 +575,7 @@
   ],
   "repo": "https://github.com/dtolnay/itoa",
   "home": "",
-  "downloads": 429069723,
+  "downloads": 432360393,
   "rank": 22
  },
  {
@@ -588,7 +588,7 @@
   "n_releases": 69,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 1388096512,
+  "deps": 1395600938,
   "topics": [
    "Cryptography",
    "No standard library"
@@ -603,7 +603,7 @@
   ],
   "repo": "https://github.com/RustCrypto/traits",
   "home": "",
-  "downloads": 423078755,
+  "downloads": 426828507,
   "rank": 23
  },
  {
@@ -616,7 +616,7 @@
   "n_releases": 271,
   "license": "MIT OR Apache-2.0",
   "python": "1.71",
-  "deps": 1630419467,
+  "deps": 1637541113,
   "topics": [
    "No dynamic allocation",
    "No standard library"
@@ -629,7 +629,7 @@
   ],
   "repo": "https://github.com/serde-rs/serde",
   "home": "https://serde.rs",
-  "downloads": 420380224,
+  "downloads": 423438522,
   "rank": 24
  },
  {
@@ -642,7 +642,7 @@
   "n_releases": 41,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 1358799175,
+  "deps": 1366179137,
   "topics": [
    "Cryptography",
    "No standard library"
@@ -656,7 +656,7 @@
   ],
   "repo": "https://github.com/RustCrypto/utils",
   "home": "",
-  "downloads": 417250706,
+  "downloads": 420928182,
   "rank": 25
  },
  {
@@ -669,7 +669,7 @@
   "n_releases": 35,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 1179739552,
+  "deps": 1187010149,
   "topics": [
    "Cryptography",
    "No standard library"
@@ -683,7 +683,7 @@
   ],
   "repo": "https://github.com/RustCrypto/traits",
   "home": "",
-  "downloads": 411063110,
+  "downloads": 414693712,
   "rank": 26
  },
  {
@@ -696,7 +696,7 @@
   "n_releases": 16,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 1680549166,
+  "deps": 1687206041,
   "topics": [
    "Algorithms",
    "No standard library"
@@ -711,7 +711,7 @@
   ],
   "repo": "https://github.com/rust-random/rand",
   "home": "https://rust-random.github.io/book",
-  "downloads": 408264327,
+  "downloads": 411020829,
   "rank": 27
  },
  {
@@ -724,7 +724,7 @@
   "n_releases": 65,
   "license": "MIT OR Apache-2.0",
   "python": "1.71.0",
-  "deps": 1540527588,
+  "deps": 1547291061,
   "topics": [
    "Debugging"
   ],
@@ -736,7 +736,7 @@
   ],
   "repo": "https://github.com/rust-lang/log",
   "home": "",
-  "downloads": 394983355,
+  "downloads": 398076998,
   "rank": 28
  },
  {
@@ -749,7 +749,7 @@
   "n_releases": 10,
   "license": "MIT OR Apache-2.0",
   "python": "1.56",
-  "deps": 866406340,
+  "deps": 873022205,
   "topics": [
    "Encoding",
    "No dynamic allocation",
@@ -764,7 +764,7 @@
   ],
   "repo": "https://github.com/serde-rs/serde",
   "home": "https://serde.rs",
-  "downloads": 391786168,
+  "downloads": 394667917,
   "rank": 29
  },
  {
@@ -777,7 +777,7 @@
   "n_releases": 233,
   "license": "MIT OR Apache-2.0",
   "python": "1.65.0",
-  "deps": 1525048842,
+  "deps": 1531791616,
   "topics": [
    "Build Utils"
   ],
@@ -789,36 +789,8 @@
   ],
   "repo": "https://github.com/rust-lang/cc-rs",
   "home": "https://github.com/rust-lang/cc-rs",
-  "downloads": 386760948,
+  "downloads": 389993209,
   "rank": 30
- },
- {
-  "name": "smallvec",
-  "slug": "smallvec",
-  "summary": "'Small vector' optimization: store up to a small number of items on the stack",
-  "version": "1.16.5",
-  "released": "2026-11-13",
-  "first_release": "2015-04-06",
-  "n_releases": 89,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.100",
-  "deps": 1469086395,
-  "topics": [
-   "Data structures"
-  ],
-  "tags": [
-   "Data structures"
-  ],
-  "keywords": [
-   "small",
-   "stack",
-   "vec",
-   "vector"
-  ],
-  "repo": "https://github.com/smallvec/smallvec",
-  "home": "https://smallvec.rs",
-  "downloads": 386611902,
-  "rank": 31
  },
  {
   "name": "sha2",
@@ -830,7 +802,7 @@
   "n_releases": 51,
   "license": "MIT OR Apache-2.0",
   "python": "1.88",
-  "deps": 1236434914,
+  "deps": 1243339151,
   "topics": [
    "Cryptography",
    "No standard library"
@@ -845,7 +817,35 @@
   ],
   "repo": "https://github.com/RustCrypto/hashes",
   "home": "",
-  "downloads": 386403145,
+  "downloads": 389857635,
+  "rank": 31
+ },
+ {
+  "name": "smallvec",
+  "slug": "smallvec",
+  "summary": "'Small vector' optimization: store up to a small number of items on the stack",
+  "version": "1.16.5",
+  "released": "2026-11-13",
+  "first_release": "2015-04-06",
+  "n_releases": 89,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.100",
+  "deps": 1475605573,
+  "topics": [
+   "Data structures"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [
+   "small",
+   "stack",
+   "vec",
+   "vector"
+  ],
+  "repo": "https://github.com/smallvec/smallvec",
+  "home": "https://smallvec.rs",
+  "downloads": 389305962,
   "rank": 32
  },
  {
@@ -858,7 +858,7 @@
   "n_releases": 67,
   "license": "MIT OR Apache-2.0",
   "python": "1.65",
-  "deps": 1539250267,
+  "deps": 1545764191,
   "topics": [
    "Memory management",
    "Rust patterns"
@@ -872,7 +872,7 @@
   ],
   "repo": "https://github.com/matklad/once_cell",
   "home": "",
-  "downloads": 386132224,
+  "downloads": 388994477,
   "rank": 33
  },
  {
@@ -885,7 +885,7 @@
   "n_releases": 59,
   "license": "MIT OR Apache-2.0",
   "python": "1.70",
-  "deps": 1497340145,
+  "deps": 1503607698,
   "topics": [
    "API bindings",
    "Network programming"
@@ -900,7 +900,7 @@
   ],
   "repo": "https://github.com/rust-lang/socket2",
   "home": "https://github.com/rust-lang/socket2",
-  "downloads": 383440533,
+  "downloads": 385686483,
   "rank": 34
  },
  {
@@ -913,7 +913,7 @@
   "n_releases": 11,
   "license": "MIT OR Apache-2.0",
   "python": "1.56",
-  "deps": 1570370705,
+  "deps": 1576643615,
   "topics": [
    "No standard library"
   ],
@@ -927,35 +927,8 @@
   ],
   "repo": "https://github.com/withoutboats/heck",
   "home": "",
-  "downloads": 381295519,
+  "downloads": 383714475,
   "rank": 35
- },
- {
-  "name": "autocfg",
-  "slug": "autocfg",
-  "summary": "Automatic cfg for Rust compiler features",
-  "version": "1.5.1",
-  "released": "2026-05-22",
-  "first_release": "2018-05-30",
-  "n_releases": 18,
-  "license": "Apache-2.0 OR MIT",
-  "python": "1.0",
-  "deps": 1568101827,
-  "topics": [
-   "Build Utils"
-  ],
-  "tags": [
-   "Build Utils"
-  ],
-  "keywords": [
-   "autoconf",
-   "build",
-   "rustc"
-  ],
-  "repo": "https://github.com/cuviper/autocfg",
-  "home": "",
-  "downloads": 378397427,
-  "rank": 36
  },
  {
   "name": "winnow",
@@ -967,7 +940,7 @@
   "n_releases": 112,
   "license": "MIT",
   "python": "1.65.0",
-  "deps": 1182148059,
+  "deps": 1188396259,
   "topics": [
    "Parsing tools"
   ],
@@ -983,7 +956,34 @@
   ],
   "repo": "https://github.com/winnow-rs/winnow",
   "home": "",
-  "downloads": 378224117,
+  "downloads": 381041418,
+  "rank": 36
+ },
+ {
+  "name": "autocfg",
+  "slug": "autocfg",
+  "summary": "Automatic cfg for Rust compiler features",
+  "version": "1.5.1",
+  "released": "2026-05-22",
+  "first_release": "2018-05-30",
+  "n_releases": 18,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.0",
+  "deps": 1574384153,
+  "topics": [
+   "Build Utils"
+  ],
+  "tags": [
+   "Build Utils"
+  ],
+  "keywords": [
+   "autoconf",
+   "build",
+   "rustc"
+  ],
+  "repo": "https://github.com/cuviper/autocfg",
+  "home": "",
+  "downloads": 380890829,
   "rank": 37
  },
  {
@@ -996,13 +996,13 @@
   "n_releases": 79,
   "license": "MIT OR Apache-2.0",
   "python": "1.65",
-  "deps": 1713370402,
+  "deps": 1719632386,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/rust-lang/regex",
   "home": "https://github.com/rust-lang/regex/tree/master/regex-syntax",
-  "downloads": 372556527,
+  "downloads": 375293285,
   "rank": 38
  },
  {
@@ -1015,7 +1015,7 @@
   "n_releases": 171,
   "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
   "python": "1.65",
-  "deps": 1411749263,
+  "deps": 1418096247,
   "topics": [
    "Date and time",
    "Filesystem",
@@ -1037,8 +1037,33 @@
   ],
   "repo": "https://github.com/bytecodealliance/rustix",
   "home": "",
-  "downloads": 367571120,
+  "downloads": 370637780,
   "rank": 39
+ },
+ {
+  "name": "shlex",
+  "slug": "shlex",
+  "summary": "Split a string into shell words, like Python's shlex.",
+  "version": "2.0.1",
+  "released": "2026-05-17",
+  "first_release": "2015-06-22",
+  "n_releases": 9,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.46.0",
+  "deps": 1106465589,
+  "topics": [
+   "Command-line interface",
+   "Parser implementations"
+  ],
+  "tags": [
+   "Command-line interface",
+   "Parser implementations"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/comex/rust-shlex",
+  "home": "",
+  "downloads": 365152088,
+  "rank": 40
  },
  {
   "name": "regex-automata",
@@ -1050,7 +1075,7 @@
   "n_releases": 42,
   "license": "MIT OR Apache-2.0",
   "python": "1.65",
-  "deps": 1513729342,
+  "deps": 1519765550,
   "topics": [
    "Text processing"
   ],
@@ -1066,32 +1091,7 @@
   ],
   "repo": "https://github.com/rust-lang/regex",
   "home": "https://github.com/rust-lang/regex/tree/master/regex-automata",
-  "downloads": 361896003,
-  "rank": 40
- },
- {
-  "name": "shlex",
-  "slug": "shlex",
-  "summary": "Split a string into shell words, like Python's shlex.",
-  "version": "2.0.1",
-  "released": "2026-05-17",
-  "first_release": "2015-06-22",
-  "n_releases": 9,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.46.0",
-  "deps": 1100039790,
-  "topics": [
-   "Command-line interface",
-   "Parser implementations"
-  ],
-  "tags": [
-   "Command-line interface",
-   "Parser implementations"
-  ],
-  "keywords": [],
-  "repo": "https://github.com/comex/rust-shlex",
-  "home": "",
-  "downloads": 361888623,
+  "downloads": 364485840,
   "rank": 41
  },
  {
@@ -1104,7 +1104,7 @@
   "n_releases": 37,
   "license": "MIT",
   "python": "1.71",
-  "deps": 695671786,
+  "deps": 701750364,
   "topics": [
    "No dynamic allocation",
    "No standard library",
@@ -1118,7 +1118,7 @@
   ],
   "repo": "https://github.com/dtolnay/zmij",
   "home": "",
-  "downloads": 358411529,
+  "downloads": 361174209,
   "rank": 42
  },
  {
@@ -1131,7 +1131,7 @@
   "n_releases": 107,
   "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
   "python": "1.63",
-  "deps": 1331113430,
+  "deps": 1337030584,
   "topics": [
    "External FFI bindings"
   ],
@@ -1143,7 +1143,7 @@
   ],
   "repo": "https://github.com/sunfishcode/linux-raw-sys",
   "home": "",
-  "downloads": 347554624,
+  "downloads": 350274458,
   "rank": 43
  },
  {
@@ -1156,7 +1156,7 @@
   "n_releases": 26,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 1047338805,
+  "deps": 1053077095,
   "topics": [
    "Configuration",
    "Encoding",
@@ -1175,7 +1175,7 @@
   ],
   "repo": "https://github.com/toml-rs/toml",
   "home": "",
-  "downloads": 346985014,
+  "downloads": 349620645,
   "rank": 44
  },
  {
@@ -1188,7 +1188,7 @@
   "n_releases": 63,
   "license": "Unlicense OR MIT",
   "python": "1.60.0",
-  "deps": 1393092550,
+  "deps": 1398952531,
   "topics": [
    "Text processing"
   ],
@@ -1204,7 +1204,7 @@
   ],
   "repo": "https://github.com/BurntSushi/aho-corasick",
   "home": "https://github.com/BurntSushi/aho-corasick",
-  "downloads": 345265649,
+  "downloads": 347950015,
   "rank": 45
  },
  {
@@ -1217,7 +1217,7 @@
   "n_releases": 7,
   "license": "Zlib",
   "python": "1.60",
-  "deps": 834265125,
+  "deps": 840385863,
   "topics": [
    "Algorithms",
    "No standard library"
@@ -1231,7 +1231,7 @@
   ],
   "repo": "https://github.com/orlp/foldhash",
   "home": "",
-  "downloads": 343020921,
+  "downloads": 346246181,
   "rank": 46
  },
  {
@@ -1244,7 +1244,7 @@
   "n_releases": 174,
   "license": "BSD-2-Clause OR Apache-2.0 OR MIT",
   "python": "1.56.0",
-  "deps": 1153854454,
+  "deps": 1159295869,
   "topics": [
    "Embedded development",
    "Encoding",
@@ -1265,8 +1265,33 @@
   ],
   "repo": "https://github.com/google/zerocopy",
   "home": "",
-  "downloads": 335675764,
+  "downloads": 337954922,
   "rank": 47
+ },
+ {
+  "name": "http",
+  "slug": "http",
+  "summary": "A set of types for representing HTTP requests and responses.",
+  "version": "1.5.0",
+  "released": "2026-07-29",
+  "first_release": "2014-11-20",
+  "n_releases": 45,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.57.0",
+  "deps": 1267363236,
+  "topics": [
+   "Web programming"
+  ],
+  "tags": [
+   "Web programming"
+  ],
+  "keywords": [
+   "http"
+  ],
+  "repo": "https://github.com/hyperium/http",
+  "home": "",
+  "downloads": 335461455,
+  "rank": 48
  },
  {
   "name": "bytes",
@@ -1278,7 +1303,7 @@
   "n_releases": 59,
   "license": "MIT",
   "python": "1.57",
-  "deps": 1283874993,
+  "deps": 1289410310,
   "topics": [
    "Data structures",
    "Network programming"
@@ -1294,32 +1319,7 @@
   ],
   "repo": "https://github.com/tokio-rs/bytes",
   "home": "",
-  "downloads": 332975265,
-  "rank": 48
- },
- {
-  "name": "http",
-  "slug": "http",
-  "summary": "A set of types for representing HTTP requests and responses.",
-  "version": "1.5.0",
-  "released": "2026-07-29",
-  "first_release": "2014-11-20",
-  "n_releases": 45,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.57.0",
-  "deps": 1261681404,
-  "topics": [
-   "Web programming"
-  ],
-  "tags": [
-   "Web programming"
-  ],
-  "keywords": [
-   "http"
-  ],
-  "repo": "https://github.com/hyperium/http",
-  "home": "",
-  "downloads": 332938210,
+  "downloads": 335101849,
   "rank": 49
  },
  {
@@ -1332,7 +1332,7 @@
   "n_releases": 169,
   "license": "MIT OR Apache-2.0",
   "python": "1.65",
-  "deps": 1398492901,
+  "deps": 1404037048,
   "topics": [
    "Text processing"
   ],
@@ -1342,7 +1342,7 @@
   "keywords": [],
   "repo": "https://github.com/rust-lang/regex",
   "home": "https://github.com/rust-lang/regex",
-  "downloads": 330474126,
+  "downloads": 332867064,
   "rank": 50
  },
  {
@@ -1355,7 +1355,7 @@
   "n_releases": 31,
   "license": "Apache-2.0 OR MIT",
   "python": "1.37",
-  "deps": 1264333797,
+  "deps": 1269839225,
   "topics": [
    "No dynamic allocation",
    "No standard library",
@@ -1368,8 +1368,34 @@
   ],
   "repo": "https://github.com/taiki-e/pin-project-lite",
   "home": "",
-  "downloads": 326881401,
+  "downloads": 329186218,
   "rank": 51
+ },
+ {
+  "name": "equivalent",
+  "slug": "equivalent",
+  "summary": "Traits for key comparison in maps.",
+  "version": "1.0.3",
+  "released": "2026-10-13",
+  "first_release": "2023-02-05",
+  "n_releases": 5,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.6",
+  "deps": 1072683182,
+  "topics": [
+   "Data structures",
+   "No standard library"
+  ],
+  "tags": [
+   "Data structures"
+  ],
+  "keywords": [
+   "hashmap"
+  ],
+  "repo": "https://github.com/indexmap-rs/equivalent",
+  "home": "",
+  "downloads": 326987212,
+  "rank": 52
  },
  {
   "name": "mio",
@@ -1381,7 +1407,7 @@
   "n_releases": 82,
   "license": "MIT",
   "python": "1.71",
-  "deps": 1270686281,
+  "deps": 1276073655,
   "topics": [
    "Asynchronous"
   ],
@@ -1395,34 +1421,33 @@
   ],
   "repo": "https://github.com/tokio-rs/mio",
   "home": "https://github.com/tokio-rs/mio",
-  "downloads": 324303176,
-  "rank": 52
+  "downloads": 326416259,
+  "rank": 53
  },
  {
-  "name": "equivalent",
-  "slug": "equivalent",
-  "summary": "Traits for key comparison in maps.",
-  "version": "1.0.3",
-  "released": "2026-10-13",
-  "first_release": "2023-02-05",
-  "n_releases": 5,
-  "license": "Apache-2.0 OR MIT",
-  "python": "1.6",
-  "deps": 1066839631,
+  "name": "find-msvc-tools",
+  "slug": "find-msvc-tools",
+  "summary": "Find windows-specific tools, read MSVC versions from the registry and from COM interfaces",
+  "version": "0.1.15",
+  "released": "2026-10-19",
+  "first_release": "2025-08-29",
+  "n_releases": 16,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.65.0",
+  "deps": 703950396,
   "topics": [
-   "Data structures",
-   "No standard library"
+   "Build Utils"
   ],
   "tags": [
-   "Data structures"
+   "Build Utils"
   ],
   "keywords": [
-   "hashmap"
+   "build-dependencies"
   ],
-  "repo": "https://github.com/indexmap-rs/equivalent",
+  "repo": "https://github.com/rust-lang/cc-rs",
   "home": "",
-  "downloads": 323993326,
-  "rank": 53
+  "downloads": 321165809,
+  "rank": 54
  },
  {
   "name": "toml",
@@ -1434,7 +1459,7 @@
   "n_releases": 124,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 1146035415,
+  "deps": 1151261790,
   "topics": [
    "Configuration",
    "Encoding",
@@ -1453,32 +1478,7 @@
   ],
   "repo": "https://github.com/toml-rs/toml",
   "home": "",
-  "downloads": 318450933,
-  "rank": 54
- },
- {
-  "name": "find-msvc-tools",
-  "slug": "find-msvc-tools",
-  "summary": "Find windows-specific tools, read MSVC versions from the registry and from COM interfaces",
-  "version": "0.1.15",
-  "released": "2026-10-19",
-  "first_release": "2025-08-29",
-  "n_releases": 16,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.65.0",
-  "deps": 698270201,
-  "topics": [
-   "Build Utils"
-  ],
-  "tags": [
-   "Build Utils"
-  ],
-  "keywords": [
-   "build-dependencies"
-  ],
-  "repo": "https://github.com/rust-lang/cc-rs",
-  "home": "",
-  "downloads": 318144434,
+  "downloads": 320870619,
   "rank": 55
  },
  {
@@ -1491,13 +1491,13 @@
   "n_releases": 39,
   "license": "MIT OR Apache-2.0",
   "python": "1.36",
-  "deps": 1156033351,
+  "deps": 1161335168,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/rust-lang/futures-rs",
   "home": "https://rust-lang.github.io/futures-rs",
-  "downloads": 316832104,
+  "downloads": 319036265,
   "rank": 56
  },
  {
@@ -1510,13 +1510,13 @@
   "n_releases": 39,
   "license": "MIT OR Apache-2.0",
   "python": "1.71",
-  "deps": 1141542249,
+  "deps": 1146790091,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/rust-lang/futures-rs",
   "home": "https://rust-lang.github.io/futures-rs",
-  "downloads": 314601443,
+  "downloads": 316761129,
   "rank": 57
  },
  {
@@ -1529,7 +1529,7 @@
   "n_releases": 34,
   "license": "MIT OR Apache-2.0",
   "python": "1.41.0",
-  "deps": 1126859403,
+  "deps": 1132240855,
   "topics": [
    "No standard library"
   ],
@@ -1537,7 +1537,7 @@
   "keywords": [],
   "repo": "https://github.com/paholg/typenum",
   "home": "",
-  "downloads": 313991520,
+  "downloads": 316414885,
   "rank": 58
  },
  {
@@ -1550,13 +1550,13 @@
   "n_releases": 36,
   "license": "MIT OR Apache-2.0",
   "python": "1.71",
-  "deps": 1138882015,
+  "deps": 1144108589,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/rust-lang/futures-rs",
   "home": "https://rust-lang.github.io/futures-rs",
-  "downloads": 312973282,
+  "downloads": 315126619,
   "rank": 59
  },
  {
@@ -1569,7 +1569,7 @@
   "n_releases": 36,
   "license": "MIT OR Apache-2.0",
   "python": "1.63.0",
-  "deps": 1236010896,
+  "deps": 1241286800,
   "topics": [
    "Data structures",
    "No standard library"
@@ -1582,7 +1582,7 @@
   ],
   "repo": "https://github.com/rayon-rs/either",
   "home": "",
-  "downloads": 312027617,
+  "downloads": 314301595,
   "rank": 60
  },
  {
@@ -1595,7 +1595,7 @@
   "n_releases": 32,
   "license": "MIT OR Apache-2.0",
   "python": "1.60",
-  "deps": 1243775724,
+  "deps": 1249265267,
   "topics": [
    "Algorithms",
    "No standard library",
@@ -1611,7 +1611,7 @@
   ],
   "repo": "https://github.com/rust-num/num-traits",
   "home": "https://github.com/rust-num/num-traits",
-  "downloads": 311001794,
+  "downloads": 313650049,
   "rank": 61
  },
  {
@@ -1624,7 +1624,7 @@
   "n_releases": 201,
   "license": "MIT",
   "python": "1.85",
-  "deps": 1197988520,
+  "deps": 1203139516,
   "topics": [
    "Asynchronous",
    "Network programming"
@@ -1641,7 +1641,7 @@
   ],
   "repo": "https://github.com/tokio-rs/tokio",
   "home": "https://tokio.rs",
-  "downloads": 309071116,
+  "downloads": 311157654,
   "rank": 62
  },
  {
@@ -1654,10 +1654,10 @@
   "n_releases": 12,
   "license": "MIT/Apache-2.0",
   "python": "Not specified",
-  "deps": 1245338102,
+  "deps": 1250528622,
   "topics": [
-   "rustc",
-   "version"
+   "check",
+   "minimum"
   ],
   "tags": [],
   "keywords": [
@@ -1668,7 +1668,7 @@
   ],
   "repo": "https://github.com/SergioBenitez/version_check",
   "home": "",
-  "downloads": 307423646,
+  "downloads": 309642533,
   "rank": 63
  },
  {
@@ -1681,10 +1681,10 @@
   "n_releases": 9,
   "license": "Apache-2.0 OR MIT",
   "python": "1.77",
-  "deps": 1025935280,
+  "deps": 1031193193,
   "topics": [
-   "hash",
-   "rustc"
+   "fxhash",
+   "hash"
   ],
   "tags": [],
   "keywords": [
@@ -1695,7 +1695,7 @@
   ],
   "repo": "https://github.com/rust-lang/rustc-hash",
   "home": "",
-  "downloads": 307225360,
+  "downloads": 309581841,
   "rank": 64
  },
  {
@@ -1708,7 +1708,7 @@
   "n_releases": 19,
   "license": "MIT",
   "python": "1.51",
-  "deps": 1143175035,
+  "deps": 1148219496,
   "topics": [
    "Data structures",
    "Memory management",
@@ -1724,7 +1724,7 @@
   ],
   "repo": "https://github.com/tokio-rs/slab",
   "home": "",
-  "downloads": 300050641,
+  "downloads": 302141452,
   "rank": 65
  },
  {
@@ -1737,7 +1737,7 @@
   "n_releases": 30,
   "license": "Apache-2.0 OR MIT",
   "python": "1.63",
-  "deps": 1129553489,
+  "deps": 1134651690,
   "topics": [
    "Algorithms"
   ],
@@ -1753,7 +1753,7 @@
   ],
   "repo": "https://github.com/smol-rs/fastrand",
   "home": "",
-  "downloads": 298899156,
+  "downloads": 301226122,
   "rank": 66
  },
  {
@@ -1766,7 +1766,7 @@
   "n_releases": 35,
   "license": "Apache-2.0 OR BSL-1.0",
   "python": "1.71",
-  "deps": 1345762943,
+  "deps": 1350577737,
   "topics": [
    "No dynamic allocation",
    "No standard library",
@@ -1780,7 +1780,7 @@
   ],
   "repo": "https://github.com/dtolnay/ryu",
   "home": "",
-  "downloads": 298166961,
+  "downloads": 299896287,
   "rank": 67
  },
  {
@@ -1793,7 +1793,7 @@
   "n_releases": 34,
   "license": "MIT OR Apache-2.0",
   "python": "1.56",
-  "deps": 1060289082,
+  "deps": 1065586098,
   "topics": [
    "No standard library",
    "Operating systems"
@@ -1802,56 +1802,8 @@
   "keywords": [],
   "repo": "https://github.com/lambda-fairy/rust-errno",
   "home": "",
-  "downloads": 297149582,
+  "downloads": 299779328,
   "rank": 68
- },
- {
-  "name": "windows_x86_64_msvc",
-  "slug": "windows-x86-64-msvc",
-  "summary": "Import lib for Windows",
-  "version": "0.53.1",
-  "released": "2025-10-06",
-  "first_release": "2021-10-27",
-  "n_releases": 38,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.60",
-  "deps": 1305528341,
-  "topics": [
-   "Windows APIs"
-  ],
-  "tags": [
-   "Windows APIs"
-  ],
-  "keywords": [],
-  "repo": "https://github.com/microsoft/windows-rs",
-  "home": "",
-  "downloads": 294026607,
-  "rank": 69
- },
- {
-  "name": "anyhow",
-  "slug": "anyhow",
-  "summary": "Flexible concrete Error type built on std::error::Error",
-  "version": "1.0.104",
-  "released": "2026-07-18",
-  "first_release": "2019-10-05",
-  "n_releases": 106,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.68",
-  "deps": 1175746357,
-  "topics": [
-   "No standard library",
-   "Rust patterns"
-  ],
-  "tags": [],
-  "keywords": [
-   "error",
-   "error-handling"
-  ],
-  "repo": "https://github.com/dtolnay/anyhow",
-  "home": "",
-  "downloads": 292715607,
-  "rank": 70
  },
  {
   "name": "miniz_oxide",
@@ -1863,7 +1815,7 @@
   "n_releases": 47,
   "license": "MIT OR Zlib OR Apache-2.0",
   "python": "Not specified",
-  "deps": 1123382023,
+  "deps": 1128700931,
   "topics": [
    "Compression"
   ],
@@ -1878,8 +1830,31 @@
   ],
   "repo": "https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide",
   "home": "https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide",
-  "downloads": 292275274,
-  "rank": 71
+  "downloads": 295364954,
+  "rank": 69
+ },
+ {
+  "name": "windows_x86_64_msvc",
+  "slug": "windows-x86-64-msvc",
+  "summary": "Import lib for Windows",
+  "version": "0.53.1",
+  "released": "2025-10-06",
+  "first_release": "2021-10-27",
+  "n_releases": 38,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 1309945122,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 295218951,
+  "rank": 70
  },
  {
   "name": "synstructure",
@@ -1891,10 +1866,10 @@
   "n_releases": 30,
   "license": "MIT",
   "python": "1.71",
-  "deps": 915998776,
+  "deps": 921499197,
   "topics": [
-   "enum",
-   "macros"
+   "derive",
+   "enum"
   ],
   "tags": [],
   "keywords": [
@@ -1906,7 +1881,32 @@
   ],
   "repo": "https://github.com/mystor/synstructure",
   "home": "",
-  "downloads": 291898701,
+  "downloads": 295043193,
+  "rank": 71
+ },
+ {
+  "name": "anyhow",
+  "slug": "anyhow",
+  "summary": "Flexible concrete Error type built on std::error::Error",
+  "version": "1.0.104",
+  "released": "2026-07-18",
+  "first_release": "2019-10-05",
+  "n_releases": 106,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.68",
+  "deps": 1180710884,
+  "topics": [
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [],
+  "keywords": [
+   "error",
+   "error-handling"
+  ],
+  "repo": "https://github.com/dtolnay/anyhow",
+  "home": "",
+  "downloads": 294899007,
   "rank": 72
  },
  {
@@ -1919,7 +1919,7 @@
   "n_releases": 20,
   "license": "MIT",
   "python": "1.61",
-  "deps": 1086587715,
+  "deps": 1091546348,
   "topics": [
    "Web programming"
   ],
@@ -1931,7 +1931,7 @@
   ],
   "repo": "https://github.com/hyperium/http-body",
   "home": "",
-  "downloads": 289527713,
+  "downloads": 291781606,
   "rank": 73
  },
  {
@@ -1944,7 +1944,7 @@
   "n_releases": 54,
   "license": "MIT OR Apache-2.0",
   "python": "1.95",
-  "deps": 1315091490,
+  "deps": 1319997136,
   "topics": [
    "Concurrency"
   ],
@@ -1960,20 +1960,20 @@
   ],
   "repo": "https://github.com/Amanieu/parking_lot",
   "home": "",
-  "downloads": 289299863,
+  "downloads": 291190375,
   "rank": 74
  },
  {
   "name": "clap",
   "slug": "clap",
   "summary": "A simple to use, efficient, and full-featured Command Line Argument Parser",
-  "version": "4.6.7",
-  "released": "2026-09-14",
+  "version": "4.6.8",
+  "released": "2026-11-16",
   "first_release": "2015-03-01",
-  "n_releases": 462,
+  "n_releases": 463,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 1343929620,
+  "deps": 1348466721,
   "topics": [
    "Command-line interface"
   ],
@@ -1989,30 +1989,33 @@
   ],
   "repo": "https://github.com/clap-rs/clap",
   "home": "",
-  "downloads": 289064685,
+  "downloads": 290552620,
   "rank": 75
  },
  {
-  "name": "windows-targets",
-  "slug": "windows-targets",
-  "summary": "Import libs for Windows",
-  "version": "0.53.5",
-  "released": "2025-10-06",
-  "first_release": "2022-09-09",
-  "n_releases": 23,
+  "name": "semver",
+  "slug": "semver",
+  "summary": "Parser and evaluator for Cargo's flavor of Semantic Versioning",
+  "version": "1.0.28",
+  "released": "2026-04-04",
+  "first_release": "2014-11-11",
+  "n_releases": 66,
   "license": "MIT OR Apache-2.0",
-  "python": "1.60",
-  "deps": 1249178083,
+  "python": "1.68",
+  "deps": 1212849628,
   "topics": [
-   "Windows APIs"
+   "Data structures",
+   "No standard library"
   ],
   "tags": [
-   "Windows APIs"
+   "Data structures"
   ],
-  "keywords": [],
-  "repo": "https://github.com/microsoft/windows-rs",
+  "keywords": [
+   "cargo"
+  ],
+  "repo": "https://github.com/dtolnay/semver",
   "home": "",
-  "downloads": 288783222,
+  "downloads": 290315777,
   "rank": 76
  },
  {
@@ -2025,7 +2028,7 @@
   "n_releases": 132,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 1032392712,
+  "deps": 1037129228,
   "topics": [
    "Configuration",
    "Encoding",
@@ -2044,33 +2047,30 @@
   ],
   "repo": "https://github.com/toml-rs/toml",
   "home": "",
-  "downloads": 288136582,
+  "downloads": 290268008,
   "rank": 77
  },
  {
-  "name": "semver",
-  "slug": "semver",
-  "summary": "Parser and evaluator for Cargo's flavor of Semantic Versioning",
-  "version": "1.0.28",
-  "released": "2026-04-04",
-  "first_release": "2014-11-11",
-  "n_releases": 66,
+  "name": "windows-targets",
+  "slug": "windows-targets",
+  "summary": "Import libs for Windows",
+  "version": "0.53.5",
+  "released": "2025-10-06",
+  "first_release": "2022-09-09",
+  "n_releases": 23,
   "license": "MIT OR Apache-2.0",
-  "python": "1.68",
-  "deps": 1207801591,
+  "python": "1.60",
+  "deps": 1253531274,
   "topics": [
-   "Data structures",
-   "No standard library"
+   "Windows APIs"
   ],
   "tags": [
-   "Data structures"
+   "Windows APIs"
   ],
-  "keywords": [
-   "cargo"
-  ],
-  "repo": "https://github.com/dtolnay/semver",
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
   "home": "",
-  "downloads": 287938891,
+  "downloads": 289968437,
   "rank": 78
  },
  {
@@ -2083,7 +2083,7 @@
   "n_releases": 72,
   "license": "MIT",
   "python": "1.65",
-  "deps": 1105138858,
+  "deps": 1110016679,
   "topics": [
    "Data structures",
    "No standard library"
@@ -2097,7 +2097,7 @@
   ],
   "repo": "https://github.com/fizyk20/generic-array.git",
   "home": "",
-  "downloads": 287595842,
+  "downloads": 289734116,
   "rank": 79
  },
  {
@@ -2110,13 +2110,13 @@
   "n_releases": 39,
   "license": "MIT OR Apache-2.0",
   "python": "1.71",
-  "deps": 1081568711,
+  "deps": 1086302461,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/rust-lang/futures-rs",
   "home": "https://rust-lang.github.io/futures-rs",
-  "downloads": 286617730,
+  "downloads": 288472524,
   "rank": 80
  },
  {
@@ -2129,7 +2129,7 @@
   "n_releases": 253,
   "license": "MIT",
   "python": "1.63",
-  "deps": 1133639185,
+  "deps": 1138585755,
   "topics": [
    "HTTP client",
    "HTTP server",
@@ -2147,7 +2147,7 @@
   ],
   "repo": "https://github.com/hyperium/hyper",
   "home": "https://hyper.rs",
-  "downloads": 286217884,
+  "downloads": 288466537,
   "rank": 81
  },
  {
@@ -2160,7 +2160,7 @@
   "n_releases": 119,
   "license": "Apache-2.0 OR ISC OR MIT",
   "python": "1.85",
-  "deps": 1127561342,
+  "deps": 1132411118,
   "topics": [
    "Cryptography",
    "Network programming"
@@ -2172,37 +2172,8 @@
   "keywords": [],
   "repo": "https://github.com/rustls/rustls",
   "home": "https://rustls.dev/",
-  "downloads": 285291894,
+  "downloads": 287466057,
   "rank": 82
- },
- {
-  "name": "parking_lot",
-  "slug": "parking-lot",
-  "summary": "More compact and efficient implementations of the standard synchronization primitives.",
-  "version": "0.13.0",
-  "released": "2026-10-21",
-  "first_release": "2016-05-13",
-  "n_releases": 59,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.95",
-  "deps": 1283220787,
-  "topics": [
-   "Concurrency"
-  ],
-  "tags": [
-   "Concurrency"
-  ],
-  "keywords": [
-   "condvar",
-   "mutex",
-   "once",
-   "rwlock",
-   "thread"
-  ],
-  "repo": "https://github.com/Amanieu/parking_lot",
-  "home": "",
-  "downloads": 284818786,
-  "rank": 83
  },
  {
   "name": "crossbeam-utils",
@@ -2214,7 +2185,7 @@
   "n_releases": 44,
   "license": "MIT OR Apache-2.0",
   "python": "1.60",
-  "deps": 1119472404,
+  "deps": 1124300346,
   "topics": [
    "Algorithms",
    "Concurrency",
@@ -2234,7 +2205,36 @@
   ],
   "repo": "https://github.com/crossbeam-rs/crossbeam",
   "home": "https://github.com/crossbeam-rs/crossbeam/tree/master/crossbeam-utils",
-  "downloads": 284484707,
+  "downloads": 286766150,
+  "rank": 83
+ },
+ {
+  "name": "parking_lot",
+  "slug": "parking-lot",
+  "summary": "More compact and efficient implementations of the standard synchronization primitives.",
+  "version": "0.13.0",
+  "released": "2026-10-21",
+  "first_release": "2016-05-13",
+  "n_releases": 59,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.95",
+  "deps": 1288038893,
+  "topics": [
+   "Concurrency"
+  ],
+  "tags": [
+   "Concurrency"
+  ],
+  "keywords": [
+   "condvar",
+   "mutex",
+   "once",
+   "rwlock",
+   "thread"
+  ],
+  "repo": "https://github.com/Amanieu/parking_lot",
+  "home": "",
+  "downloads": 286663660,
   "rank": 84
  },
  {
@@ -2247,7 +2247,7 @@
   "n_releases": 8,
   "license": "MIT OR Apache-2.0",
   "python": "1.51",
-  "deps": 1109529997,
+  "deps": 1114508311,
   "topics": [
    "No standard library"
   ],
@@ -2255,7 +2255,7 @@
   "keywords": [],
   "repo": "https://github.com/servo/rust-url/",
   "home": "",
-  "downloads": 283716589,
+  "downloads": 286133302,
   "rank": 85
  },
  {
@@ -2268,13 +2268,13 @@
   "n_releases": 39,
   "license": "MIT OR Apache-2.0",
   "python": "1.36",
-  "deps": 1081824838,
+  "deps": 1086526569,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/rust-lang/futures-rs",
   "home": "https://rust-lang.github.io/futures-rs",
-  "downloads": 283602317,
+  "downloads": 285456171,
   "rank": 86
  },
  {
@@ -2287,7 +2287,7 @@
   "n_releases": 25,
   "license": "MIT",
   "python": "1.56",
-  "deps": 1281013960,
+  "deps": 1285575224,
   "topics": [
    "Text processing"
   ],
@@ -2303,7 +2303,7 @@
   ],
   "repo": "https://github.com/rapidfuzz/strsim-rs",
   "home": "https://github.com/rapidfuzz/strsim-rs",
-  "downloads": 283489506,
+  "downloads": 285125132,
   "rank": 87
  },
  {
@@ -2316,7 +2316,7 @@
   "n_releases": 26,
   "license": "MIT OR Apache-2.0",
   "python": "1.31",
-  "deps": 970672981,
+  "deps": 975580497,
   "topics": [
    "Build Utils",
    "No dynamic allocation",
@@ -2328,7 +2328,7 @@
   "keywords": [],
   "repo": "https://github.com/dtolnay/rustversion",
   "home": "",
-  "downloads": 282647399,
+  "downloads": 284965835,
   "rank": 88
  },
  {
@@ -2341,7 +2341,7 @@
   "n_releases": 37,
   "license": "MIT OR Apache-2.0",
   "python": "1.60",
-  "deps": 1258037515,
+  "deps": 1262292280,
   "topics": [
    "Windows APIs"
   ],
@@ -2351,7 +2351,7 @@
   "keywords": [],
   "repo": "https://github.com/microsoft/windows-rs",
   "home": "",
-  "downloads": 282507838,
+  "downloads": 283640819,
   "rank": 89
  },
  {
@@ -2364,7 +2364,7 @@
   "n_releases": 28,
   "license": "MIT OR Apache-2.0",
   "python": "1.95",
-  "deps": 1194212435,
+  "deps": 1199000668,
   "topics": [
    "Concurrency",
    "No standard library"
@@ -2379,7 +2379,7 @@
   ],
   "repo": "https://github.com/Amanieu/parking_lot",
   "home": "",
-  "downloads": 280864029,
+  "downloads": 282778420,
   "rank": 90
  },
  {
@@ -2392,7 +2392,7 @@
   "n_releases": 35,
   "license": "MIT OR Apache-2.0",
   "python": "1.60",
-  "deps": 1249834290,
+  "deps": 1254049242,
   "topics": [
    "Windows APIs"
   ],
@@ -2402,7 +2402,7 @@
   "keywords": [],
   "repo": "https://github.com/microsoft/windows-rs",
   "home": "",
-  "downloads": 280702607,
+  "downloads": 281804130,
   "rank": 91
  },
  {
@@ -2415,7 +2415,7 @@
   "n_releases": 38,
   "license": "MIT OR Apache-2.0",
   "python": "1.60",
-  "deps": 1247397748,
+  "deps": 1251591337,
   "topics": [
    "Windows APIs"
   ],
@@ -2425,7 +2425,7 @@
   "keywords": [],
   "repo": "https://github.com/microsoft/windows-rs",
   "home": "",
-  "downloads": 279261290,
+  "downloads": 280351161,
   "rank": 92
  },
  {
@@ -2438,7 +2438,7 @@
   "n_releases": 37,
   "license": "MIT OR Apache-2.0",
   "python": "1.60",
-  "deps": 1245293397,
+  "deps": 1249485939,
   "topics": [
    "Windows APIs"
   ],
@@ -2448,7 +2448,7 @@
   "keywords": [],
   "repo": "https://github.com/microsoft/windows-rs",
   "home": "",
-  "downloads": 279104374,
+  "downloads": 280194990,
   "rank": 93
  },
  {
@@ -2461,7 +2461,7 @@
   "n_releases": 37,
   "license": "Unicode-3.0",
   "python": "1.82",
-  "deps": 787249256,
+  "deps": 792097293,
   "topics": [
    "Data structures"
   ],
@@ -2476,7 +2476,7 @@
   ],
   "repo": "https://github.com/unicode-org/icu4x",
   "home": "",
-  "downloads": 275896154,
+  "downloads": 278282485,
   "rank": 94
  },
  {
@@ -2489,7 +2489,7 @@
   "n_releases": 25,
   "license": "Unicode-3.0",
   "python": "1.82",
-  "deps": 787179280,
+  "deps": 791994084,
   "topics": [
    "Caching",
    "Data structures",
@@ -2509,7 +2509,7 @@
   ],
   "repo": "https://github.com/unicode-org/icu4x",
   "home": "",
-  "downloads": 275333461,
+  "downloads": 277639881,
   "rank": 95
  },
  {
@@ -2522,7 +2522,7 @@
   "n_releases": 35,
   "license": "Unicode-3.0",
   "python": "1.83",
-  "deps": 775284114,
+  "deps": 780103169,
   "topics": [
    "Caching",
    "Data structures",
@@ -2543,7 +2543,7 @@
   ],
   "repo": "https://github.com/unicode-org/icu4x",
   "home": "",
-  "downloads": 274814387,
+  "downloads": 277195354,
   "rank": 96
  },
  {
@@ -2556,7 +2556,7 @@
   "n_releases": 25,
   "license": "Unicode-3.0",
   "python": "1.88",
-  "deps": 772067813,
+  "deps": 776876231,
   "topics": [
    "Embedded development",
    "Internationalization (i18n)",
@@ -2573,7 +2573,7 @@
   ],
   "repo": "https://github.com/unicode-org/icu4x",
   "home": "https://icu4x.unicode.org",
-  "downloads": 274805985,
+  "downloads": 277179388,
   "rank": 97
  },
  {
@@ -2586,7 +2586,7 @@
   "n_releases": 46,
   "license": "MIT",
   "python": "1.65.0",
-  "deps": 1054230634,
+  "deps": 1059000007,
   "topics": [
    "Asynchronous",
    "Debugging",
@@ -2606,81 +2606,8 @@
   ],
   "repo": "https://github.com/tokio-rs/tracing",
   "home": "https://tokio.rs",
-  "downloads": 274617118,
+  "downloads": 276871969,
   "rank": 98
- },
- {
-  "name": "windows_aarch64_gnullvm",
-  "slug": "windows-aarch64-gnullvm",
-  "summary": "Import lib for Windows",
-  "version": "0.53.1",
-  "released": "2025-10-06",
-  "first_release": "2022-09-01",
-  "n_releases": 20,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.60",
-  "deps": 1194557628,
-  "topics": [
-   "Windows APIs"
-  ],
-  "tags": [
-   "Windows APIs"
-  ],
-  "keywords": [],
-  "repo": "https://github.com/microsoft/windows-rs",
-  "home": "",
-  "downloads": 274488465,
-  "rank": 99
- },
- {
-  "name": "scopeguard",
-  "slug": "scopeguard",
-  "summary": "A RAII scope guard that will run a given closure when it goes out of scope,\neven if the code between panics (assuming unwinding panic).\n\nDefines the macros `defer!`, `defer_on_unwind!`, `defer_on_success!` as\nshorthands for guards with one of the implemented strategies.",
-  "version": "1.2.0",
-  "released": "2023-07-17",
-  "first_release": "2015-04-30",
-  "n_releases": 11,
-  "license": "MIT OR Apache-2.0",
-  "python": "Not specified",
-  "deps": 1147516463,
-  "topics": [
-   "No standard library",
-   "Rust patterns"
-  ],
-  "tags": [],
-  "keywords": [
-   "defer",
-   "panic",
-   "scope-guard",
-   "unwind"
-  ],
-  "repo": "https://github.com/bluss/scopeguard",
-  "home": "",
-  "downloads": 274474574,
-  "rank": 100
- },
- {
-  "name": "windows_x86_64_gnullvm",
-  "slug": "windows-x86-64-gnullvm",
-  "summary": "Import lib for Windows",
-  "version": "0.53.1",
-  "released": "2025-10-06",
-  "first_release": "2022-09-01",
-  "n_releases": 20,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.60",
-  "deps": 1194431756,
-  "topics": [
-   "Windows APIs"
-  ],
-  "tags": [
-   "Windows APIs"
-  ],
-  "keywords": [],
-  "repo": "https://github.com/microsoft/windows-rs",
-  "home": "",
-  "downloads": 274359232,
-  "rank": 101
  },
  {
   "name": "tracing-core",
@@ -2692,7 +2619,7 @@
   "n_releases": 38,
   "license": "MIT",
   "python": "1.65.0",
-  "deps": 1064529098,
+  "deps": 1069296980,
   "topics": [
    "Asynchronous",
    "Debugging",
@@ -2710,8 +2637,35 @@
   ],
   "repo": "https://github.com/tokio-rs/tracing",
   "home": "https://tokio.rs",
-  "downloads": 274190017,
-  "rank": 102
+  "downloads": 276438503,
+  "rank": 99
+ },
+ {
+  "name": "scopeguard",
+  "slug": "scopeguard",
+  "summary": "A RAII scope guard that will run a given closure when it goes out of scope,\neven if the code between panics (assuming unwinding panic).\n\nDefines the macros `defer!`, `defer_on_unwind!`, `defer_on_success!` as\nshorthands for guards with one of the implemented strategies.",
+  "version": "1.2.0",
+  "released": "2023-07-17",
+  "first_release": "2015-04-30",
+  "n_releases": 11,
+  "license": "MIT OR Apache-2.0",
+  "python": "Not specified",
+  "deps": 1152174489,
+  "topics": [
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [],
+  "keywords": [
+   "defer",
+   "panic",
+   "scope-guard",
+   "unwind"
+  ],
+  "repo": "https://github.com/bluss/scopeguard",
+  "home": "",
+  "downloads": 276429764,
+  "rank": 100
  },
  {
   "name": "rustls-webpki",
@@ -2723,7 +2677,7 @@
   "n_releases": 59,
   "license": "ISC",
   "python": "1.71",
-  "deps": 984296712,
+  "deps": 989062720,
   "topics": [
    "Cryptography",
    "No standard library"
@@ -2734,8 +2688,8 @@
   "keywords": [],
   "repo": "https://github.com/rustls/webpki",
   "home": "",
-  "downloads": 274188473,
-  "rank": 103
+  "downloads": 276428739,
+  "rank": 101
  },
  {
   "name": "icu_collections",
@@ -2747,7 +2701,7 @@
   "n_releases": 16,
   "license": "Unicode-3.0",
   "python": "1.88",
-  "deps": 768560274,
+  "deps": 773356460,
   "topics": [
    "Embedded development",
    "Internationalization (i18n)",
@@ -2764,8 +2718,8 @@
   ],
   "repo": "https://github.com/unicode-org/icu4x",
   "home": "https://icu4x.unicode.org",
-  "downloads": 273722782,
-  "rank": 104
+  "downloads": 276082349,
+  "rank": 102
  },
  {
   "name": "zerovec-derive",
@@ -2777,7 +2731,7 @@
   "n_releases": 23,
   "license": "Unicode-3.0",
   "python": "1.83",
-  "deps": 768966033,
+  "deps": 773763405,
   "topics": [
    "Caching",
    "Data structures",
@@ -2798,7 +2752,53 @@
   ],
   "repo": "https://github.com/unicode-org/icu4x",
   "home": "",
-  "downloads": 273649932,
+  "downloads": 276010961,
+  "rank": 103
+ },
+ {
+  "name": "windows_aarch64_gnullvm",
+  "slug": "windows-aarch64-gnullvm",
+  "summary": "Import lib for Windows",
+  "version": "0.53.1",
+  "released": "2025-10-06",
+  "first_release": "2022-09-01",
+  "n_releases": 20,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 1198685249,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 275571390,
+  "rank": 104
+ },
+ {
+  "name": "windows_x86_64_gnullvm",
+  "slug": "windows-x86-64-gnullvm",
+  "summary": "Import lib for Windows",
+  "version": "0.53.1",
+  "released": "2025-10-06",
+  "first_release": "2022-09-01",
+  "n_releases": 20,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 1198559270,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 275443162,
   "rank": 105
  },
  {
@@ -2811,7 +2811,7 @@
   "n_releases": 21,
   "license": "Unicode-3.0",
   "python": "1.82",
-  "deps": 777330724,
+  "deps": 782118327,
   "topics": [
    "Caching",
    "Data structures",
@@ -2832,7 +2832,7 @@
   ],
   "repo": "https://github.com/unicode-org/icu4x",
   "home": "",
-  "downloads": 272925938,
+  "downloads": 275338819,
   "rank": 106
  },
  {
@@ -2845,10 +2845,10 @@
   "n_releases": 18,
   "license": "MIT OR Apache-2.0",
   "python": "1.57",
-  "deps": 1159130731,
+  "deps": 1163830479,
   "topics": [
    "http",
-   "web"
+   "no-std"
   ],
   "tags": [],
   "keywords": [
@@ -2857,34 +2857,8 @@
   ],
   "repo": "https://github.com/servo/rust-url/",
   "home": "",
-  "downloads": 272408018,
+  "downloads": 274599097,
   "rank": 107
- },
- {
-  "name": "writeable",
-  "slug": "writeable",
-  "summary": "A more efficient alternative to fmt::Display",
-  "version": "0.6.4",
-  "released": "2026-08-13",
-  "first_release": "2020-11-12",
-  "n_releases": 17,
-  "license": "Unicode-3.0",
-  "python": "1.82",
-  "deps": 767398131,
-  "topics": [
-   "string",
-   "write"
-  ],
-  "tags": [],
-  "keywords": [
-   "formatting",
-   "string",
-   "write"
-  ],
-  "repo": "https://github.com/unicode-org/icu4x",
-  "home": "",
-  "downloads": 271864389,
-  "rank": 108
  },
  {
   "name": "litemap",
@@ -2896,7 +2870,7 @@
   "n_releases": 20,
   "license": "Unicode-3.0",
   "python": "1.82",
-  "deps": 777428170,
+  "deps": 782153260,
   "topics": [
    "data-structures",
    "map"
@@ -2911,7 +2885,33 @@
   ],
   "repo": "https://github.com/unicode-org/icu4x",
   "home": "",
-  "downloads": 271856651,
+  "downloads": 274149986,
+  "rank": 108
+ },
+ {
+  "name": "writeable",
+  "slug": "writeable",
+  "summary": "A more efficient alternative to fmt::Display",
+  "version": "0.6.4",
+  "released": "2026-08-13",
+  "first_release": "2020-11-12",
+  "n_releases": 17,
+  "license": "Unicode-3.0",
+  "python": "1.82",
+  "deps": 772106668,
+  "topics": [
+   "formatting",
+   "no-std"
+  ],
+  "tags": [],
+  "keywords": [
+   "formatting",
+   "string",
+   "write"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "",
+  "downloads": 274101465,
   "rank": 109
  },
  {
@@ -2924,7 +2924,7 @@
   "n_releases": 18,
   "license": "Unicode-3.0",
   "python": "1.88",
-  "deps": 773624597,
+  "deps": 778379542,
   "topics": [
    "Embedded development",
    "Internationalization (i18n)",
@@ -2941,7 +2941,7 @@
   ],
   "repo": "https://github.com/unicode-org/icu4x",
   "home": "https://icu4x.unicode.org",
-  "downloads": 271251732,
+  "downloads": 273561993,
   "rank": 110
  },
  {
@@ -2954,7 +2954,7 @@
   "n_releases": 16,
   "license": "MIT OR Apache-2.0",
   "python": "1.71.0",
-  "deps": 787886831,
+  "deps": 792608845,
   "topics": [
    "derive",
    "display"
@@ -2966,7 +2966,7 @@
   ],
   "repo": "https://github.com/yaahc/displaydoc",
   "home": "https://github.com/yaahc/displaydoc",
-  "downloads": 270947682,
+  "downloads": 273227467,
   "rank": 111
  },
  {
@@ -2979,7 +2979,7 @@
   "n_releases": 26,
   "license": "Unicode-3.0",
   "python": "1.88",
-  "deps": 770025005,
+  "deps": 774775508,
   "topics": [
    "Embedded development",
    "Internationalization (i18n)",
@@ -2996,7 +2996,7 @@
   ],
   "repo": "https://github.com/unicode-org/icu4x",
   "home": "https://icu4x.unicode.org",
-  "downloads": 270803568,
+  "downloads": 273113498,
   "rank": 112
  },
  {
@@ -3009,7 +3009,7 @@
   "n_releases": 21,
   "license": "Unicode-3.0",
   "python": "1.88",
-  "deps": 757766393,
+  "deps": 762476906,
   "topics": [
    "Embedded development",
    "Internationalization (i18n)",
@@ -3027,8 +3027,27 @@
   ],
   "repo": "https://github.com/unicode-org/icu4x",
   "home": "https://icu4x.unicode.org",
-  "downloads": 268209201,
+  "downloads": 270515200,
   "rank": 113
+ },
+ {
+  "name": "untrusted",
+  "slug": "untrusted",
+  "summary": "Safe, fast, zero-panic, zero-crashing, zero-allocation parsing of untrusted inputs in Rust.",
+  "version": "0.9.0",
+  "released": "2021-07-13",
+  "first_release": "2016-06-05",
+  "n_releases": 15,
+  "license": "ISC",
+  "python": "Not specified",
+  "deps": 975407035,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/briansmith/untrusted",
+  "home": "",
+  "downloads": 270455431,
+  "rank": 114
  },
  {
   "name": "icu_normalizer_data",
@@ -3040,7 +3059,7 @@
   "n_releases": 14,
   "license": "Unicode-3.0",
   "python": "1.88",
-  "deps": 761342550,
+  "deps": 766053721,
   "topics": [
    "Embedded development",
    "Internationalization (i18n)",
@@ -3057,26 +3076,7 @@
   ],
   "repo": "https://github.com/unicode-org/icu4x",
   "home": "https://icu4x.unicode.org",
-  "downloads": 268110112,
-  "rank": 114
- },
- {
-  "name": "untrusted",
-  "slug": "untrusted",
-  "summary": "Safe, fast, zero-panic, zero-crashing, zero-allocation parsing of untrusted inputs in Rust.",
-  "version": "0.9.0",
-  "released": "2021-07-13",
-  "first_release": "2016-06-05",
-  "n_releases": 15,
-  "license": "ISC",
-  "python": "Not specified",
-  "deps": 970428865,
-  "topics": [],
-  "tags": [],
-  "keywords": [],
-  "repo": "https://github.com/briansmith/untrusted",
-  "home": "",
-  "downloads": 267823220,
+  "downloads": 270416749,
   "rank": 115
  },
  {
@@ -3089,13 +3089,13 @@
   "n_releases": 69,
   "license": "MIT",
   "python": "1.88.0",
-  "deps": 924884202,
+  "deps": 929322769,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/TedDriggs/darling",
   "home": "",
-  "downloads": 267559317,
+  "downloads": 269553497,
   "rank": 116
  },
  {
@@ -3108,13 +3108,13 @@
   "n_releases": 69,
   "license": "MIT",
   "python": "1.88.0",
-  "deps": 924669521,
+  "deps": 929107446,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/TedDriggs/darling",
   "home": "",
-  "downloads": 267463572,
+  "downloads": 269457262,
   "rank": 117
  },
  {
@@ -3127,13 +3127,13 @@
   "n_releases": 69,
   "license": "MIT",
   "python": "1.88.0",
-  "deps": 924672210,
+  "deps": 929108353,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/TedDriggs/darling",
   "home": "",
-  "downloads": 267283856,
+  "downloads": 269276627,
   "rank": 118
  },
  {
@@ -3146,13 +3146,13 @@
   "n_releases": 40,
   "license": "MIT OR Apache-2.0",
   "python": "1.36",
-  "deps": 1028405424,
+  "deps": 1032814795,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/rust-lang/futures-rs",
   "home": "https://rust-lang.github.io/futures-rs",
-  "downloads": 267179277,
+  "downloads": 268888144,
   "rank": 119
  },
  {
@@ -3165,7 +3165,7 @@
   "n_releases": 126,
   "license": "MIT OR Apache-2.0",
   "python": "1.85.0",
-  "deps": 917306653,
+  "deps": 921797124,
   "topics": [
    "HTTP client",
    "WebAssembly"
@@ -3181,7 +3181,7 @@
   ],
   "repo": "https://github.com/seanmonstar/reqwest",
   "home": "",
-  "downloads": 266376042,
+  "downloads": 268410304,
   "rank": 120
  },
  {
@@ -3194,7 +3194,7 @@
   "n_releases": 89,
   "license": "MIT OR Apache-2.0",
   "python": "1.63",
-  "deps": 1071510365,
+  "deps": 1076105133,
   "topics": [
    "Encoding",
    "No standard library",
@@ -3212,7 +3212,7 @@
   ],
   "repo": "https://github.com/servo/rust-url",
   "home": "",
-  "downloads": 263867149,
+  "downloads": 266024808,
   "rank": 121
  },
  {
@@ -3225,7 +3225,7 @@
   "n_releases": 5,
   "license": "MIT OR Apache-2.0",
   "python": "Not specified",
-  "deps": 851529733,
+  "deps": 856169477,
   "topics": [
    "Memory management",
    "No standard library"
@@ -3236,7 +3236,7 @@
   "keywords": [],
   "repo": "https://github.com/storyyeller/stable_deref_trait",
   "home": "",
-  "downloads": 263329114,
+  "downloads": 265634359,
   "rank": 122
  },
  {
@@ -3249,7 +3249,7 @@
   "n_releases": 39,
   "license": "MIT OR Apache-2.0",
   "python": "Not specified",
-  "deps": 1179695056,
+  "deps": 1184316223,
   "topics": [
    "Memory management",
    "No standard library",
@@ -3265,7 +3265,7 @@
   ],
   "repo": "https://github.com/rust-lang-nursery/lazy-static.rs",
   "home": "",
-  "downloads": 263065092,
+  "downloads": 265342233,
   "rank": 123
  },
  {
@@ -3278,7 +3278,7 @@
   "n_releases": 9,
   "license": "Unicode-3.0",
   "python": "1.71.1",
-  "deps": 749135258,
+  "deps": 753755021,
   "topics": [
    "Caching",
    "Data structures",
@@ -3298,38 +3298,8 @@
   ],
   "repo": "https://github.com/unicode-org/icu4x",
   "home": "",
-  "downloads": 262869806,
+  "downloads": 265196154,
   "rank": 124
- },
- {
-  "name": "zerofrom",
-  "slug": "zerofrom",
-  "summary": "ZeroFrom trait for constructing",
-  "version": "0.1.8",
-  "released": "2026-05-12",
-  "first_release": "2022-04-06",
-  "n_releases": 9,
-  "license": "Unicode-3.0",
-  "python": "1.71.1",
-  "deps": 755334600,
-  "topics": [
-   "Caching",
-   "Data structures",
-   "No standard library"
-  ],
-  "tags": [
-   "Caching",
-   "Data structures"
-  ],
-  "keywords": [
-   "memory-efficiency",
-   "serialization",
-   "zero-copy"
-  ],
-  "repo": "https://github.com/unicode-org/icu4x",
-  "home": "",
-  "downloads": 261102816,
-  "rank": 125
  },
  {
   "name": "zeroize",
@@ -3341,7 +3311,7 @@
   "n_releases": 47,
   "license": "Apache-2.0 OR MIT",
   "python": "1.85",
-  "deps": 888354580,
+  "deps": 893055511,
   "topics": [
    "Cryptography",
    "Memory management",
@@ -3361,20 +3331,50 @@
   ],
   "repo": "https://github.com/RustCrypto/utils",
   "home": "",
-  "downloads": 260933035,
+  "downloads": 263335736,
+  "rank": 125
+ },
+ {
+  "name": "zerofrom",
+  "slug": "zerofrom",
+  "summary": "ZeroFrom trait for constructing",
+  "version": "0.1.8",
+  "released": "2026-05-12",
+  "first_release": "2022-04-06",
+  "n_releases": 9,
+  "license": "Unicode-3.0",
+  "python": "1.71.1",
+  "deps": 759861745,
+  "topics": [
+   "Caching",
+   "Data structures",
+   "No standard library"
+  ],
+  "tags": [
+   "Caching",
+   "Data structures"
+  ],
+  "keywords": [
+   "memory-efficiency",
+   "serialization",
+   "zero-copy"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "",
+  "downloads": 263233199,
   "rank": 126
  },
  {
   "name": "uuid",
   "slug": "uuid",
   "summary": "A library to generate and parse UUIDs.",
-  "version": "1.29.2",
-  "released": "2026-11-09",
+  "version": "1.29.3",
+  "released": "2026-11-17",
   "first_release": "2014-11-11",
-  "n_releases": 103,
+  "n_releases": 104,
   "license": "Apache-2.0 OR MIT",
   "python": "1.89.0",
-  "deps": 995914463,
+  "deps": 1000367947,
   "topics": [
    "Data structures",
    "No standard library",
@@ -3393,31 +3393,8 @@
   ],
   "repo": "https://github.com/uuid-rs/uuid",
   "home": "",
-  "downloads": 260258633,
+  "downloads": 262272595,
   "rank": 127
- },
- {
-  "name": "tokio-macros",
-  "slug": "tokio-macros",
-  "summary": "Tokio's proc macros.",
-  "version": "2.7.2",
-  "released": "2026-07-29",
-  "first_release": "2019-04-24",
-  "n_releases": 41,
-  "license": "MIT",
-  "python": "1.71",
-  "deps": 983367228,
-  "topics": [
-   "Asynchronous"
-  ],
-  "tags": [
-   "Asynchronous"
-  ],
-  "keywords": [],
-  "repo": "https://github.com/tokio-rs/tokio",
-  "home": "https://tokio.rs",
-  "downloads": 259892728,
-  "rank": 128
  },
  {
   "name": "pkg-config",
@@ -3429,7 +3406,7 @@
   "n_releases": 47,
   "license": "MIT OR Apache-2.0",
   "python": "1.63",
-  "deps": 949031147,
+  "deps": 953636563,
   "topics": [
    "build-dependencies"
   ],
@@ -3439,7 +3416,30 @@
   ],
   "repo": "https://github.com/rust-lang/pkg-config-rs",
   "home": "",
-  "downloads": 259853351,
+  "downloads": 262185570,
+  "rank": 128
+ },
+ {
+  "name": "tokio-macros",
+  "slug": "tokio-macros",
+  "summary": "Tokio's proc macros.",
+  "version": "2.7.2",
+  "released": "2026-07-29",
+  "first_release": "2019-04-24",
+  "n_releases": 41,
+  "license": "MIT",
+  "python": "1.71",
+  "deps": 987673003,
+  "topics": [
+   "Asynchronous"
+  ],
+  "tags": [
+   "Asynchronous"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/tokio-rs/tokio",
+  "home": "https://tokio.rs",
+  "downloads": 261549175,
   "rank": 129
  },
  {
@@ -3452,7 +3452,7 @@
   "n_releases": 6,
   "license": "MIT OR Apache-2.0",
   "python": "1.51",
-  "deps": 990873712,
+  "deps": 995407902,
   "topics": [
    "No standard library"
   ],
@@ -3460,7 +3460,7 @@
   "keywords": [],
   "repo": "https://github.com/servo/rust-url",
   "home": "",
-  "downloads": 259096955,
+  "downloads": 261273144,
   "rank": 130
  },
  {
@@ -3473,43 +3473,14 @@
   "n_releases": 65,
   "license": "CDLA-Permissive-2.0",
   "python": "1.71",
-  "deps": 933201342,
+  "deps": 937454657,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/rustls/webpki-roots",
   "home": "https://github.com/rustls/webpki-roots",
-  "downloads": 258894140,
+  "downloads": 260727837,
   "rank": 131
- },
- {
-  "name": "clap_lex",
-  "slug": "clap-lex",
-  "summary": "Minimal, flexible command line parser",
-  "version": "1.1.1",
-  "released": "2026-09-14",
-  "first_release": "2022-04-15",
-  "n_releases": 28,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.85",
-  "deps": 1061886896,
-  "topics": [
-   "Command-line interface"
-  ],
-  "tags": [
-   "Command-line interface"
-  ],
-  "keywords": [
-   "arg",
-   "argument",
-   "cli",
-   "parse",
-   "parser"
-  ],
-  "repo": "https://github.com/clap-rs/clap",
-  "home": "",
-  "downloads": 256091053,
-  "rank": 132
  },
  {
   "name": "tempfile",
@@ -3521,7 +3492,7 @@
   "n_releases": 66,
   "license": "MIT OR Apache-2.0",
   "python": "1.63",
-  "deps": 1001354439,
+  "deps": 1005723199,
   "topics": [
    "filesystem",
    "tempfile"
@@ -3534,20 +3505,20 @@
   ],
   "repo": "https://github.com/Stebalien/tempfile",
   "home": "https://stebalien.com/projects/tempfile-rs/",
-  "downloads": 256003637,
-  "rank": 133
+  "downloads": 258016045,
+  "rank": 132
  },
  {
-  "name": "clap_builder",
-  "slug": "clap-builder",
-  "summary": "A simple to use, efficient, and full-featured Command Line Argument Parser",
-  "version": "4.6.7",
-  "released": "2026-09-14",
-  "first_release": "2023-03-28",
-  "n_releases": 109,
+  "name": "clap_lex",
+  "slug": "clap-lex",
+  "summary": "Minimal, flexible command line parser",
+  "version": "1.1.2",
+  "released": "2026-11-16",
+  "first_release": "2022-04-15",
+  "n_releases": 29,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 936638171,
+  "deps": 1065970813,
   "topics": [
    "Command-line interface"
   ],
@@ -3563,7 +3534,36 @@
   ],
   "repo": "https://github.com/clap-rs/clap",
   "home": "",
-  "downloads": 254562537,
+  "downloads": 257553712,
+  "rank": 133
+ },
+ {
+  "name": "clap_builder",
+  "slug": "clap-builder",
+  "summary": "A simple to use, efficient, and full-featured Command Line Argument Parser",
+  "version": "4.6.7",
+  "released": "2026-09-14",
+  "first_release": "2023-03-28",
+  "n_releases": 109,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 940623648,
+  "topics": [
+   "Command-line interface"
+  ],
+  "tags": [
+   "Command-line interface"
+  ],
+  "keywords": [
+   "arg",
+   "argument",
+   "cli",
+   "parse",
+   "parser"
+  ],
+  "repo": "https://github.com/clap-rs/clap",
+  "home": "",
+  "downloads": 255884188,
   "rank": 134
  },
  {
@@ -3576,7 +3576,7 @@
   "n_releases": 7,
   "license": "Apache-2.0 OR MIT",
   "python": "1.86",
-  "deps": 726880092,
+  "deps": 731261879,
   "topics": [
    "Internationalization (i18n)",
    "No standard library"
@@ -3591,7 +3591,7 @@
   ],
   "repo": "https://github.com/hsivonen/idna_adapter",
   "home": "https://docs.rs/crate/idna_adapter/latest",
-  "downloads": 253581380,
+  "downloads": 255616900,
   "rank": 135
  },
  {
@@ -3604,7 +3604,7 @@
   "n_releases": 98,
   "license": "MIT",
   "python": "1.74",
-  "deps": 655094898,
+  "deps": 659285163,
   "topics": [
    "Encoding",
    "No standard library"
@@ -3618,27 +3618,8 @@
   ],
   "repo": "https://github.com/GREsau/schemars",
   "home": "https://graham.cool/schemars/",
-  "downloads": 251678187,
+  "downloads": 253625369,
   "rank": 136
- },
- {
-  "name": "futures-macro",
-  "slug": "futures-macro",
-  "summary": "The futures-rs procedural macro implementations.",
-  "version": "0.3.34",
-  "released": "2026-08-11",
-  "first_release": "2019-11-06",
-  "n_releases": 35,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.71",
-  "deps": 967804230,
-  "topics": [],
-  "tags": [],
-  "keywords": [],
-  "repo": "https://github.com/rust-lang/futures-rs",
-  "home": "https://rust-lang.github.io/futures-rs",
-  "downloads": 251440443,
-  "rank": 137
  },
  {
   "name": "ppv-lite86",
@@ -3650,7 +3631,7 @@
   "n_releases": 24,
   "license": "MIT OR Apache-2.0",
   "python": "1.61",
-  "deps": 1077767768,
+  "deps": 1081896641,
   "topics": [
    "Cryptography",
    "No standard library"
@@ -3665,7 +3646,26 @@
   ],
   "repo": "https://github.com/cryptocorrosion/cryptocorrosion",
   "home": "",
-  "downloads": 251413704,
+  "downloads": 253176398,
+  "rank": 137
+ },
+ {
+  "name": "futures-macro",
+  "slug": "futures-macro",
+  "summary": "The futures-rs procedural macro implementations.",
+  "version": "0.3.34",
+  "released": "2026-08-11",
+  "first_release": "2019-11-06",
+  "n_releases": 35,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 971916563,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/rust-lang/futures-rs",
+  "home": "https://rust-lang.github.io/futures-rs",
+  "downloads": 252972046,
   "rank": 138
  },
  {
@@ -3673,12 +3673,12 @@
   "slug": "nix",
   "summary": "Rust friendly bindings to *nix APIs",
   "version": "0.32.0",
-  "released": "2026-11-14",
+  "released": "2026-11-17",
   "first_release": "2014-11-11",
-  "n_releases": 80,
+  "n_releases": 81,
   "license": "MIT",
   "python": "1.69",
-  "deps": 983960921,
+  "deps": 988237421,
   "topics": [
    "Unix APIs"
   ],
@@ -3688,8 +3688,39 @@
   "keywords": [],
   "repo": "https://github.com/nix-rust/nix",
   "home": "",
-  "downloads": 250924309,
+  "downloads": 252902657,
   "rank": 139
+ },
+ {
+  "name": "icu_locale_core",
+  "slug": "icu-locale-core",
+  "summary": "API for managing Unicode Language and Locale Identifiers",
+  "version": "2.4.0",
+  "released": "2026-10-22",
+  "first_release": "2024-11-23",
+  "n_releases": 9,
+  "license": "Unicode-3.0",
+  "python": "1.88",
+  "deps": 587230119,
+  "topics": [
+   "Embedded development",
+   "Internationalization (i18n)",
+   "Localization (L10n)",
+   "No standard library"
+  ],
+  "tags": [
+   "Internationalization (i18n)",
+   "Localization (L10n)"
+  ],
+  "keywords": [
+   "bcp47",
+   "language-tags",
+   "unicode"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "https://icu4x.unicode.org",
+  "downloads": 252224426,
+  "rank": 140
  },
  {
   "name": "serde_spanned",
@@ -3701,7 +3732,7 @@
   "n_releases": 19,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 760108331,
+  "deps": 764364088,
   "topics": [
    "Configuration",
    "Encoding",
@@ -3720,66 +3751,8 @@
   ],
   "repo": "https://github.com/toml-rs/toml",
   "home": "",
-  "downloads": 250031049,
-  "rank": 140
- },
- {
-  "name": "icu_locale_core",
-  "slug": "icu-locale-core",
-  "summary": "API for managing Unicode Language and Locale Identifiers",
-  "version": "2.4.0",
-  "released": "2026-10-22",
-  "first_release": "2024-11-23",
-  "n_releases": 9,
-  "license": "Unicode-3.0",
-  "python": "1.88",
-  "deps": 582781517,
-  "topics": [
-   "Embedded development",
-   "Internationalization (i18n)",
-   "Localization (L10n)",
-   "No standard library"
-  ],
-  "tags": [
-   "Internationalization (i18n)",
-   "Localization (L10n)"
-  ],
-  "keywords": [
-   "bcp47",
-   "language-tags",
-   "unicode"
-  ],
-  "repo": "https://github.com/unicode-org/icu4x",
-  "home": "https://icu4x.unicode.org",
-  "downloads": 249923299,
+  "downloads": 252126849,
   "rank": 141
- },
- {
-  "name": "anstyle",
-  "slug": "anstyle",
-  "summary": "ANSI text styling",
-  "version": "1.0.14",
-  "released": "2026-03-13",
-  "first_release": "2022-05-18",
-  "n_releases": 31,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.66.0",
-  "deps": 918711510,
-  "topics": [
-   "Command-line interface"
-  ],
-  "tags": [
-   "Command-line interface"
-  ],
-  "keywords": [
-   "ansi",
-   "color",
-   "terminal"
-  ],
-  "repo": "https://github.com/rust-cli/anstyle.git",
-  "home": "",
-  "downloads": 248602009,
-  "rank": 142
  },
  {
   "name": "zerotrie",
@@ -3791,7 +3764,7 @@
   "n_releases": 10,
   "license": "Unicode-3.0",
   "python": "1.82",
-  "deps": 585979476,
+  "deps": 590344961,
   "topics": [
    "Embedded development",
    "Internationalization (i18n)",
@@ -3810,7 +3783,34 @@
   ],
   "repo": "https://github.com/unicode-org/icu4x",
   "home": "https://icu4x.unicode.org",
-  "downloads": 248516820,
+  "downloads": 250727380,
+  "rank": 142
+ },
+ {
+  "name": "anstyle",
+  "slug": "anstyle",
+  "summary": "ANSI text styling",
+  "version": "1.0.14",
+  "released": "2026-03-13",
+  "first_release": "2022-05-18",
+  "n_releases": 31,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.66.0",
+  "deps": 922658732,
+  "topics": [
+   "Command-line interface"
+  ],
+  "tags": [
+   "Command-line interface"
+  ],
+  "keywords": [
+   "ansi",
+   "color",
+   "terminal"
+  ],
+  "repo": "https://github.com/rust-cli/anstyle.git",
+  "home": "",
+  "downloads": 249958616,
   "rank": 143
  },
  {
@@ -3823,7 +3823,7 @@
   "n_releases": 43,
   "license": "Zlib OR Apache-2.0 OR MIT",
   "python": "Not specified",
-  "deps": 907306788,
+  "deps": 911571470,
   "topics": [
    "Data structures",
    "No standard library"
@@ -3836,8 +3836,38 @@
   ],
   "repo": "https://github.com/Lokathor/tinyvec",
   "home": "",
-  "downloads": 247652668,
+  "downloads": 249713825,
   "rank": 144
+ },
+ {
+  "name": "potential_utf",
+  "slug": "potential-utf",
+  "summary": "Unvalidated string and character types",
+  "version": "0.1.6",
+  "released": "2026-08-13",
+  "first_release": "2024-11-23",
+  "n_releases": 6,
+  "license": "Unicode-3.0",
+  "python": "1.82",
+  "deps": 586364573,
+  "topics": [
+   "Embedded development",
+   "Internationalization (i18n)",
+   "Localization (L10n)",
+   "No standard library"
+  ],
+  "tags": [
+   "Internationalization (i18n)",
+   "Localization (L10n)"
+  ],
+  "keywords": [
+   "encoding",
+   "text-processing"
+  ],
+  "repo": "https://github.com/unicode-org/icu4x",
+  "home": "https://icu4x.unicode.org",
+  "downloads": 249577044,
+  "rank": 145
  },
  {
   "name": "time",
@@ -3849,7 +3879,7 @@
   "n_releases": 135,
   "license": "MIT OR Apache-2.0",
   "python": "1.88.0",
-  "deps": 1082088913,
+  "deps": 1086346614,
   "topics": [
    "Date and time",
    "No standard library",
@@ -3869,37 +3899,7 @@
   ],
   "repo": "https://github.com/time-rs/time",
   "home": "https://time-rs.github.io",
-  "downloads": 247550730,
-  "rank": 145
- },
- {
-  "name": "potential_utf",
-  "slug": "potential-utf",
-  "summary": "Unvalidated string and character types",
-  "version": "0.1.6",
-  "released": "2026-08-13",
-  "first_release": "2024-11-23",
-  "n_releases": 6,
-  "license": "Unicode-3.0",
-  "python": "1.82",
-  "deps": 582001309,
-  "topics": [
-   "Embedded development",
-   "Internationalization (i18n)",
-   "Localization (L10n)",
-   "No standard library"
-  ],
-  "tags": [
-   "Internationalization (i18n)",
-   "Localization (L10n)"
-  ],
-  "keywords": [
-   "encoding",
-   "text-processing"
-  ],
-  "repo": "https://github.com/unicode-org/icu4x",
-  "home": "https://icu4x.unicode.org",
-  "downloads": 247355102,
+  "downloads": 249490029,
   "rank": 146
  },
  {
@@ -3912,7 +3912,7 @@
   "n_releases": 23,
   "license": "MIT OR Apache-2.0",
   "python": "1.63",
-  "deps": 874221456,
+  "deps": 878664216,
   "topics": [
    "Algorithms",
    "No standard library"
@@ -3929,7 +3929,7 @@
   ],
   "repo": "https://github.com/srijs/rust-crc32fast",
   "home": "",
-  "downloads": 245821690,
+  "downloads": 248234455,
   "rank": 147
  },
  {
@@ -3942,7 +3942,7 @@
   "n_releases": 72,
   "license": "MIT",
   "python": "1.85",
-  "deps": 774445061,
+  "deps": 778604313,
   "topics": [
    "Data structures"
   ],
@@ -3952,7 +3952,7 @@
   "keywords": [],
   "repo": "https://github.com/rust-phf/rust-phf",
   "home": "",
-  "downloads": 245039174,
+  "downloads": 247065272,
   "rank": 148
  },
  {
@@ -3965,7 +3965,7 @@
   "n_releases": 80,
   "license": "MIT OR Apache-2.0",
   "python": "1.71",
-  "deps": 948798585,
+  "deps": 952955364,
   "topics": [
    "Asynchronous",
    "Cryptography",
@@ -3979,7 +3979,7 @@
   "keywords": [],
   "repo": "https://github.com/rustls/tokio-rustls",
   "home": "https://github.com/rustls/tokio-rustls",
-  "downloads": 243302405,
+  "downloads": 245211518,
   "rank": 149
  },
  {
@@ -3992,7 +3992,7 @@
   "n_releases": 26,
   "license": "MIT",
   "python": "1.64.0",
-  "deps": 844608077,
+  "deps": 848791084,
   "topics": [
    "Asynchronous",
    "Network programming"
@@ -4010,35 +4010,8 @@
   ],
   "repo": "https://github.com/tower-rs/tower",
   "home": "https://github.com/tower-rs/tower",
-  "downloads": 243160833,
+  "downloads": 245075929,
   "rank": 150
- },
- {
-  "name": "chrono",
-  "slug": "chrono",
-  "summary": "Date and time library for Rust",
-  "version": "0.4.45",
-  "released": "2026-06-04",
-  "first_release": "2014-11-20",
-  "n_releases": 95,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.62.0",
-  "deps": 985116640,
-  "topics": [
-   "Date and time"
-  ],
-  "tags": [
-   "Date and time"
-  ],
-  "keywords": [
-   "calendar",
-   "date",
-   "time"
-  ],
-  "repo": "https://github.com/chronotope/chrono",
-  "home": "https://github.com/chronotope/chrono",
-  "downloads": 241499551,
-  "rank": 151
  },
  {
   "name": "const-oid",
@@ -4050,7 +4023,7 @@
   "n_releases": 41,
   "license": "Apache-2.0 OR MIT",
   "python": "1.85",
-  "deps": 644186198,
+  "deps": 648674297,
   "topics": [
    "Cryptography",
    "Data structures",
@@ -4072,7 +4045,34 @@
   ],
   "repo": "https://github.com/RustCrypto/formats",
   "home": "https://github.com/RustCrypto/formats/tree/master/const-oid",
-  "downloads": 241088839,
+  "downloads": 243663734,
+  "rank": 151
+ },
+ {
+  "name": "chrono",
+  "slug": "chrono",
+  "summary": "Date and time library for Rust",
+  "version": "0.4.45",
+  "released": "2026-06-04",
+  "first_release": "2014-11-20",
+  "n_releases": 95,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.62.0",
+  "deps": 989197459,
+  "topics": [
+   "Date and time"
+  ],
+  "tags": [
+   "Date and time"
+  ],
+  "keywords": [
+   "calendar",
+   "date",
+   "time"
+  ],
+  "repo": "https://github.com/chronotope/chrono",
+  "home": "https://github.com/chronotope/chrono",
+  "downloads": 243304031,
   "rank": 152
  },
  {
@@ -4085,7 +4085,7 @@
   "n_releases": 32,
   "license": "MIT",
   "python": "1.65.0",
-  "deps": 923089619,
+  "deps": 927249315,
   "topics": [
    "Asynchronous",
    "Debugging",
@@ -4105,7 +4105,7 @@
   ],
   "repo": "https://github.com/tokio-rs/tracing",
   "home": "https://tokio.rs",
-  "downloads": 240036142,
+  "downloads": 241997650,
   "rank": 153
  },
  {
@@ -4118,7 +4118,7 @@
   "n_releases": 7,
   "license": "MIT",
   "python": "Not specified",
-  "deps": 682277133,
+  "deps": 686513635,
   "topics": [
    "Build Utils",
    "Development tools"
@@ -4135,7 +4135,7 @@
   ],
   "repo": "https://github.com/katharostech/cfg_aliases",
   "home": "https://github.com/katharostech/cfg_aliases",
-  "downloads": 239751823,
+  "downloads": 241909768,
   "rank": 154
  },
  {
@@ -4148,7 +4148,7 @@
   "n_releases": 39,
   "license": "MIT",
   "python": "1.85",
-  "deps": 958392714,
+  "deps": 962557968,
   "topics": [
    "Asynchronous"
   ],
@@ -4158,7 +4158,7 @@
   "keywords": [],
   "repo": "https://github.com/tokio-rs/tokio",
   "home": "https://tokio.rs",
-  "downloads": 239558617,
+  "downloads": 241503911,
   "rank": 155
  },
  {
@@ -4171,7 +4171,7 @@
   "n_releases": 6,
   "license": "Apache-2.0 OR MIT",
   "python": "1.83",
-  "deps": 686418381,
+  "deps": 690819698,
   "topics": [
    "Encoding",
    "Internationalization (i18n)",
@@ -4190,7 +4190,7 @@
   ],
   "repo": "https://github.com/hsivonen/utf8_iter",
   "home": "https://docs.rs/utf8_iter/",
-  "downloads": 239003993,
+  "downloads": 241326773,
   "rank": 156
  },
  {
@@ -4203,7 +4203,7 @@
   "n_releases": 46,
   "license": "MIT OR Apache-2.0",
   "python": "Not specified",
-  "deps": 899001056,
+  "deps": 903264078,
   "topics": [
    "Network programming",
    "No standard library",
@@ -4221,7 +4221,7 @@
   ],
   "repo": "https://github.com/seanmonstar/httparse",
   "home": "",
-  "downloads": 238686302,
+  "downloads": 240836499,
   "rank": 157
  },
  {
@@ -4234,7 +4234,7 @@
   "n_releases": 29,
   "license": "BSD-3-Clause",
   "python": "Not specified",
-  "deps": 878709959,
+  "deps": 883002827,
   "topics": [
    "Cryptography",
    "No standard library"
@@ -4250,7 +4250,7 @@
   ],
   "repo": "https://github.com/dalek-cryptography/subtle",
   "home": "https://dalek.rs/",
-  "downloads": 237177763,
+  "downloads": 239388321,
   "rank": 158
  },
  {
@@ -4263,7 +4263,7 @@
   "n_releases": 72,
   "license": "MIT",
   "python": "1.85",
-  "deps": 722498021,
+  "deps": 726524701,
   "topics": [
    "Data structures",
    "No standard library"
@@ -4274,7 +4274,7 @@
   "keywords": [],
   "repo": "https://github.com/rust-phf/rust-phf",
   "home": "",
-  "downloads": 237057021,
+  "downloads": 239036328,
   "rank": 159
  },
  {
@@ -4287,10 +4287,10 @@
   "n_releases": 17,
   "license": "MIT OR Apache-2.0",
   "python": "1.26",
-  "deps": 907735038,
+  "deps": 911684153,
   "topics": [
-   "signal",
-   "unix"
+   "daemon",
+   "signal"
   ],
   "tags": [],
   "keywords": [
@@ -4300,7 +4300,7 @@
   ],
   "repo": "https://github.com/vorner/signal-hook",
   "home": "",
-  "downloads": 236162950,
+  "downloads": 237728110,
   "rank": 160
  },
  {
@@ -4313,7 +4313,7 @@
   "n_releases": 38,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 760157214,
+  "deps": 764377578,
   "topics": [
    "Cryptography",
    "No standard library"
@@ -4329,7 +4329,7 @@
   ],
   "repo": "https://github.com/RustCrypto/MACs",
   "home": "",
-  "downloads": 234303872,
+  "downloads": 236510581,
   "rank": 161
  },
  {
@@ -4342,7 +4342,7 @@
   "n_releases": 98,
   "license": "MIT",
   "python": "1.65.0",
-  "deps": 898382096,
+  "deps": 902500933,
   "topics": [
    "Parsing tools"
   ],
@@ -4358,7 +4358,7 @@
   ],
   "repo": "https://github.com/rust-bakery/nom",
   "home": "",
-  "downloads": 233965322,
+  "downloads": 236018110,
   "rank": 162
  },
  {
@@ -4371,7 +4371,7 @@
   "n_releases": 79,
   "license": "MIT OR Apache-2.0",
   "python": "1.67.0",
-  "deps": 856683214,
+  "deps": 860793832,
   "topics": [
    "API bindings",
    "Compression"
@@ -4388,7 +4388,7 @@
   ],
   "repo": "https://github.com/rust-lang/flate2-rs",
   "home": "https://github.com/rust-lang/flate2-rs",
-  "downloads": 233570114,
+  "downloads": 235673667,
   "rank": 163
  },
  {
@@ -4401,7 +4401,7 @@
   "n_releases": 33,
   "license": "MIT OR Apache-2.0",
   "python": "1.60",
-  "deps": 686394172,
+  "deps": 690566419,
   "topics": [
    "Cryptography",
    "Data structures",
@@ -4415,7 +4415,7 @@
   "keywords": [],
   "repo": "https://github.com/rustls/pki-types",
   "home": "https://github.com/rustls/pki-types",
-  "downloads": 233499033,
+  "downloads": 235579779,
   "rank": 164
  },
  {
@@ -4428,13 +4428,13 @@
   "n_releases": 161,
   "license": "BSD-2-Clause OR Apache-2.0 OR MIT",
   "python": "Not specified",
-  "deps": 773272051,
+  "deps": 776993489,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/google/zerocopy",
   "home": "",
-  "downloads": 231518654,
+  "downloads": 233040628,
   "rank": 165
  },
  {
@@ -4447,13 +4447,13 @@
   "n_releases": 8,
   "license": "Apache-2.0 / MIT",
   "python": "Not specified",
-  "deps": 968741785,
+  "deps": 972766418,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/servo/rust-fnv",
   "home": "",
-  "downloads": 231070401,
+  "downloads": 232996458,
   "rank": 166
  },
  {
@@ -4466,14 +4466,44 @@
   "n_releases": 39,
   "license": "MIT OR Apache-2.0",
   "python": "1.71",
-  "deps": 910876794,
+  "deps": 914511092,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/rust-lang/futures-rs",
   "home": "https://rust-lang.github.io/futures-rs",
-  "downloads": 230489272,
+  "downloads": 231712986,
   "rank": 167
+ },
+ {
+  "name": "ring",
+  "slug": "ring",
+  "summary": "An experiment.",
+  "version": "0.17.14",
+  "released": "2025-03-11",
+  "first_release": "2016-08-15",
+  "n_releases": 133,
+  "license": "Apache-2.0 AND ISC",
+  "python": "1.66.0",
+  "deps": 913257657,
+  "topics": [
+   "Cryptography",
+   "No standard library"
+  ],
+  "tags": [
+   "Cryptography"
+  ],
+  "keywords": [
+   "crypto",
+   "cryptography",
+   "ecc",
+   "rand",
+   "rsa"
+  ],
+  "repo": "https://github.com/briansmith/ring",
+  "home": "",
+  "downloads": 231190403,
+  "rank": 168
  },
  {
   "name": "unicode-width",
@@ -4485,7 +4515,7 @@
   "n_releases": 20,
   "license": "MIT OR Apache-2.0",
   "python": "1.66",
-  "deps": 973135135,
+  "deps": 977049617,
   "topics": [
    "Command-line interface",
    "Internationalization (i18n)",
@@ -4504,69 +4534,8 @@
   ],
   "repo": "https://github.com/unicode-rs/unicode-width",
   "home": "https://github.com/unicode-rs/unicode-width",
-  "downloads": 229341203,
-  "rank": 168
- },
- {
-  "name": "ring",
-  "slug": "ring",
-  "summary": "An experiment.",
-  "version": "0.17.14",
-  "released": "2025-03-11",
-  "first_release": "2016-08-15",
-  "n_releases": 133,
-  "license": "Apache-2.0 AND ISC",
-  "python": "1.66.0",
-  "deps": 909151599,
-  "topics": [
-   "Cryptography",
-   "No standard library"
-  ],
-  "tags": [
-   "Cryptography"
-  ],
-  "keywords": [
-   "crypto",
-   "cryptography",
-   "ecc",
-   "rand",
-   "rsa"
-  ],
-  "repo": "https://github.com/briansmith/ring",
-  "home": "",
-  "downloads": 229142929,
+  "downloads": 231161527,
   "rank": 169
- },
- {
-  "name": "clap_derive",
-  "slug": "clap-derive",
-  "summary": "Parse command line argument by defining a struct, derive crate.",
-  "version": "4.6.7",
-  "released": "2026-09-14",
-  "first_release": "2020-05-03",
-  "n_releases": 93,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.85",
-  "deps": 926078560,
-  "topics": [
-   "Command-line interface",
-   "Procedural macro helpers"
-  ],
-  "tags": [
-   "Command-line interface",
-   "Procedural macro helpers"
-  ],
-  "keywords": [
-   "clap",
-   "cli",
-   "derive",
-   "parse",
-   "proc_macro"
-  ],
-  "repo": "https://github.com/clap-rs/clap",
-  "home": "",
-  "downloads": 228867764,
-  "rank": 170
  },
  {
   "name": "h2",
@@ -4578,7 +4547,7 @@
   "n_releases": 88,
   "license": "MIT",
   "python": "1.63",
-  "deps": 981775568,
+  "deps": 985688811,
   "topics": [
    "Asynchronous",
    "Network programming",
@@ -4596,7 +4565,38 @@
   ],
   "repo": "https://github.com/hyperium/h2",
   "home": "",
-  "downloads": 228669729,
+  "downloads": 230272257,
+  "rank": 170
+ },
+ {
+  "name": "clap_derive",
+  "slug": "clap-derive",
+  "summary": "Parse command line argument by defining a struct, derive crate.",
+  "version": "4.6.8",
+  "released": "2026-11-16",
+  "first_release": "2020-05-03",
+  "n_releases": 94,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85",
+  "deps": 929674174,
+  "topics": [
+   "Command-line interface",
+   "Procedural macro helpers"
+  ],
+  "tags": [
+   "Command-line interface",
+   "Procedural macro helpers"
+  ],
+  "keywords": [
+   "clap",
+   "cli",
+   "derive",
+   "parse",
+   "proc_macro"
+  ],
+  "repo": "https://github.com/clap-rs/clap",
+  "home": "",
+  "downloads": 229946276,
   "rank": 171
  },
  {
@@ -4609,13 +4609,13 @@
   "n_releases": 54,
   "license": "Apache-2.0 OR ISC OR MIT",
   "python": "1.85",
-  "deps": 809899844,
+  "deps": 813788259,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/rustls/hyper-rustls",
   "home": "https://github.com/rustls/hyper-rustls",
-  "downloads": 227791546,
+  "downloads": 229573952,
   "rank": 172
  },
  {
@@ -4628,7 +4628,7 @@
   "n_releases": 18,
   "license": "MIT OR Apache-2.0",
   "python": "1.32",
-  "deps": 912380826,
+  "deps": 916472529,
   "topics": [
    "rustc",
    "version"
@@ -4640,7 +4640,7 @@
   ],
   "repo": "https://github.com/djc/rustc-version-rs",
   "home": "",
-  "downloads": 227122942,
+  "downloads": 229171610,
   "rank": 173
  },
  {
@@ -4653,7 +4653,7 @@
   "n_releases": 23,
   "license": "MIT OR Apache-2.0 OR LGPL-2.1-or-later",
   "python": "1.68",
-  "deps": 513119480,
+  "deps": 517097537,
   "topics": [
    "Embedded development",
    "Hardware support",
@@ -4672,8 +4672,36 @@
   ],
   "repo": "https://github.com/r-efi/r-efi",
   "home": "https://github.com/r-efi/r-efi/wiki",
-  "downloads": 226364928,
+  "downloads": 228401290,
   "rank": 174
+ },
+ {
+  "name": "time-core",
+  "slug": "time-core",
+  "summary": "This crate is an implementation detail and should not be relied upon directly.",
+  "version": "0.1.9",
+  "released": "2026-06-12",
+  "first_release": "2020-12-17",
+  "n_releases": 11,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.88.0",
+  "deps": 820950129,
+  "topics": [
+   "Date and time"
+  ],
+  "tags": [
+   "Date and time"
+  ],
+  "keywords": [
+   "calendar",
+   "date",
+   "duration",
+   "time"
+  ],
+  "repo": "https://github.com/time-rs/time",
+  "home": "",
+  "downloads": 227362713,
+  "rank": 175
  },
  {
   "name": "anstream",
@@ -4685,7 +4713,7 @@
   "n_releases": 32,
   "license": "MIT OR Apache-2.0",
   "python": "1.66.0",
-  "deps": 846601563,
+  "deps": 850104900,
   "topics": [
    "Command-line interface"
   ],
@@ -4701,35 +4729,7 @@
   ],
   "repo": "https://github.com/rust-cli/anstyle.git",
   "home": "",
-  "downloads": 226021201,
-  "rank": 175
- },
- {
-  "name": "time-core",
-  "slug": "time-core",
-  "summary": "This crate is an implementation detail and should not be relied upon directly.",
-  "version": "0.1.9",
-  "released": "2026-06-12",
-  "first_release": "2020-12-17",
-  "n_releases": 11,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.88.0",
-  "deps": 817064236,
-  "topics": [
-   "Date and time"
-  ],
-  "tags": [
-   "Date and time"
-  ],
-  "keywords": [
-   "calendar",
-   "date",
-   "duration",
-   "time"
-  ],
-  "repo": "https://github.com/time-rs/time",
-  "home": "",
-  "downloads": 225593966,
+  "downloads": 227098501,
   "rank": 176
  },
  {
@@ -4742,7 +4742,7 @@
   "n_releases": 35,
   "license": "MIT OR Apache-2.0",
   "python": "Not specified",
-  "deps": 687628009,
+  "deps": 691675125,
   "topics": [
    "Cryptography",
    "No standard library"
@@ -4758,7 +4758,7 @@
   ],
   "repo": "https://github.com/RustCrypto/hashes",
   "home": "",
-  "downloads": 224908088,
+  "downloads": 227073201,
   "rank": 177
  },
  {
@@ -4771,7 +4771,7 @@
   "n_releases": 6,
   "license": "Apache-2.0",
   "python": "Not specified",
-  "deps": 808891270,
+  "deps": 812789355,
   "topics": [
    "Concurrency"
   ],
@@ -4783,7 +4783,7 @@
   ],
   "repo": "https://github.com/Actyx/sync_wrapper",
   "home": "https://docs.rs/sync_wrapper",
-  "downloads": 224776173,
+  "downloads": 226643037,
   "rank": 178
  },
  {
@@ -4796,7 +4796,7 @@
   "n_releases": 12,
   "license": "MIT OR Apache-2.0",
   "python": "1.66.0",
-  "deps": 831498383,
+  "deps": 834975670,
   "topics": [
    "Command-line interface"
   ],
@@ -4811,7 +4811,7 @@
   ],
   "repo": "https://github.com/rust-cli/anstyle.git",
   "home": "",
-  "downloads": 224440812,
+  "downloads": 225515815,
   "rank": 179
  },
  {
@@ -4824,7 +4824,7 @@
   "n_releases": 39,
   "license": "MIT",
   "python": "1.65",
-  "deps": 624214888,
+  "deps": 628092679,
   "topics": [
    "Asynchronous",
    "Network programming",
@@ -4844,7 +4844,7 @@
   ],
   "repo": "https://github.com/tower-rs/tower-http",
   "home": "https://github.com/tower-rs/tower-http",
-  "downloads": 222519704,
+  "downloads": 224449832,
   "rank": 180
  },
  {
@@ -4857,7 +4857,7 @@
   "n_releases": 4,
   "license": "MIT OR Apache-2.0",
   "python": "1.57.0",
-  "deps": 716444105,
+  "deps": 720236465,
   "topics": [
    "No dynamic allocation",
    "No standard library",
@@ -4873,7 +4873,7 @@
   ],
   "repo": "https://github.com/jhpratt/num-conv",
   "home": "",
-  "downloads": 220306150,
+  "downloads": 222057425,
   "rank": 181
  },
  {
@@ -4886,7 +4886,7 @@
   "n_releases": 38,
   "license": "MIT OR Apache-2.0",
   "python": "1.88.0",
-  "deps": 850067281,
+  "deps": 853831037,
   "topics": [
    "Date and time"
   ],
@@ -4901,35 +4901,8 @@
   ],
   "repo": "https://github.com/time-rs/time",
   "home": "",
-  "downloads": 220056867,
+  "downloads": 221750033,
   "rank": 182
- },
- {
-  "name": "futures",
-  "slug": "futures",
-  "summary": "An implementation of futures and streams featuring zero allocations,\ncomposability, and iterator-like interfaces.",
-  "version": "0.3.34",
-  "released": "2026-08-11",
-  "first_release": "2016-07-31",
-  "n_releases": 75,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.71",
-  "deps": 944031394,
-  "topics": [
-   "Asynchronous"
-  ],
-  "tags": [
-   "Asynchronous"
-  ],
-  "keywords": [
-   "async",
-   "future",
-   "futures"
-  ],
-  "repo": "https://github.com/rust-lang/futures-rs",
-  "home": "https://rust-lang.github.io/futures-rs",
-  "downloads": 219580383,
-  "rank": 183
  },
  {
   "name": "num-integer",
@@ -4941,7 +4914,7 @@
   "n_releases": 16,
   "license": "MIT OR Apache-2.0",
   "python": "1.31",
-  "deps": 850014642,
+  "deps": 853971308,
   "topics": [
    "Algorithms",
    "No standard library",
@@ -4957,8 +4930,61 @@
   ],
   "repo": "https://github.com/rust-num/num-integer",
   "home": "https://github.com/rust-num/num-integer",
-  "downloads": 219410055,
+  "downloads": 221394411,
+  "rank": 183
+ },
+ {
+  "name": "futures",
+  "slug": "futures",
+  "summary": "An implementation of futures and streams featuring zero allocations,\ncomposability, and iterator-like interfaces.",
+  "version": "0.3.34",
+  "released": "2026-08-11",
+  "first_release": "2016-07-31",
+  "n_releases": 75,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 947444309,
+  "topics": [
+   "Asynchronous"
+  ],
+  "tags": [
+   "Asynchronous"
+  ],
+  "keywords": [
+   "async",
+   "future",
+   "futures"
+  ],
+  "repo": "https://github.com/rust-lang/futures-rs",
+  "home": "https://rust-lang.github.io/futures-rs",
+  "downloads": 220619553,
   "rank": 184
+ },
+ {
+  "name": "deranged",
+  "slug": "deranged",
+  "summary": "Ranged integers",
+  "version": "0.5.9",
+  "released": "2026-10-13",
+  "first_release": "2020-12-10",
+  "n_releases": 34,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.85.0",
+  "deps": 768084663,
+  "topics": [
+   "int",
+   "integer"
+  ],
+  "tags": [],
+  "keywords": [
+   "int",
+   "integer",
+   "range"
+  ],
+  "repo": "https://github.com/jhpratt/deranged",
+  "home": "",
+  "downloads": 220152434,
+  "rank": 185
  },
  {
   "name": "colorchoice",
@@ -4970,7 +4996,7 @@
   "n_releases": 6,
   "license": "MIT OR Apache-2.0",
   "python": "1.66.0",
-  "deps": 811193184,
+  "deps": 814614691,
   "topics": [
    "Command-line interface"
   ],
@@ -4985,33 +5011,7 @@
   ],
   "repo": "https://github.com/rust-cli/anstyle.git",
   "home": "",
-  "downloads": 218680339,
-  "rank": 185
- },
- {
-  "name": "deranged",
-  "slug": "deranged",
-  "summary": "Ranged integers",
-  "version": "0.5.9",
-  "released": "2026-10-13",
-  "first_release": "2020-12-10",
-  "n_releases": 34,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.85.0",
-  "deps": 764225424,
-  "topics": [
-   "integer",
-   "range"
-  ],
-  "tags": [],
-  "keywords": [
-   "int",
-   "integer",
-   "range"
-  ],
-  "repo": "https://github.com/jhpratt/deranged",
-  "home": "",
-  "downloads": 218291544,
+  "downloads": 219760015,
   "rank": 186
  },
  {
@@ -5024,7 +5024,7 @@
   "n_releases": 2,
   "license": "0BSD OR MIT OR Apache-2.0",
   "python": "Not specified",
-  "deps": 682246244,
+  "deps": 685998894,
   "topics": [
    "Algorithms"
   ],
@@ -5040,7 +5040,7 @@
   ],
   "repo": "https://github.com/oyvindln/adler2",
   "home": "",
-  "downloads": 217579145,
+  "downloads": 219393064,
   "rank": 187
  },
  {
@@ -5053,7 +5053,7 @@
   "n_releases": 35,
   "license": "MIT OR Apache-2.0",
   "python": "1.60",
-  "deps": 752995079,
+  "deps": 756990948,
   "topics": [
    "Algorithms",
    "Data structures",
@@ -5071,7 +5071,7 @@
   ],
   "repo": "https://github.com/rust-num/num-bigint",
   "home": "https://github.com/rust-num/num-bigint",
-  "downloads": 216851100,
+  "downloads": 219054874,
   "rank": 188
  },
  {
@@ -5084,7 +5084,7 @@
   "n_releases": 23,
   "license": "MIT",
   "python": "1.85",
-  "deps": 640177715,
+  "deps": 644031468,
   "topics": [
    "HTTP client",
    "HTTP server",
@@ -5102,7 +5102,7 @@
   ],
   "repo": "https://github.com/hyperium/hyper-util",
   "home": "https://hyper.rs",
-  "downloads": 216647655,
+  "downloads": 218620622,
   "rank": 189
  },
  {
@@ -5115,7 +5115,7 @@
   "n_releases": 9,
   "license": "MIT",
   "python": "1.61",
-  "deps": 624008871,
+  "deps": 627830841,
   "topics": [
    "Web programming"
   ],
@@ -5127,36 +5127,8 @@
   ],
   "repo": "https://github.com/hyperium/http-body",
   "home": "",
-  "downloads": 216366883,
+  "downloads": 218299200,
   "rank": 190
- },
- {
-  "name": "anstyle-query",
-  "slug": "anstyle-query",
-  "summary": "Look up colored console capabilities",
-  "version": "1.1.5",
-  "released": "2025-11-13",
-  "first_release": "2023-04-13",
-  "n_releases": 10,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.66.0",
-  "deps": 809276108,
-  "topics": [
-   "Command-line interface"
-  ],
-  "tags": [
-   "Command-line interface"
-  ],
-  "keywords": [
-   "ansi",
-   "cli",
-   "color",
-   "terminal"
-  ],
-  "repo": "https://github.com/rust-cli/anstyle.git",
-  "home": "",
-  "downloads": 215647618,
-  "rank": 191
  },
  {
   "name": "crossbeam-epoch",
@@ -5168,7 +5140,7 @@
   "n_releases": 41,
   "license": "MIT OR Apache-2.0",
   "python": "1.61",
-  "deps": 820400427,
+  "deps": 824005287,
   "topics": [
    "Concurrency",
    "Memory management",
@@ -5186,8 +5158,8 @@
   ],
   "repo": "https://github.com/crossbeam-rs/crossbeam",
   "home": "https://github.com/crossbeam-rs/crossbeam/tree/master/crossbeam-epoch",
-  "downloads": 215417944,
-  "rank": 192
+  "downloads": 217064170,
+  "rank": 191
  },
  {
   "name": "tower-service",
@@ -5199,7 +5171,7 @@
   "n_releases": 9,
   "license": "MIT",
   "python": "Not specified",
-  "deps": 798338347,
+  "deps": 802140007,
   "topics": [
    "Asynchronous",
    "Network programming"
@@ -5211,7 +5183,35 @@
   "keywords": [],
   "repo": "https://github.com/tower-rs/tower",
   "home": "https://github.com/tower-rs/tower",
-  "downloads": 214891790,
+  "downloads": 216790514,
+  "rank": 192
+ },
+ {
+  "name": "anstyle-query",
+  "slug": "anstyle-query",
+  "summary": "Look up colored console capabilities",
+  "version": "1.1.5",
+  "released": "2025-11-13",
+  "first_release": "2023-04-13",
+  "n_releases": 10,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.66.0",
+  "deps": 812669328,
+  "topics": [
+   "Command-line interface"
+  ],
+  "tags": [
+   "Command-line interface"
+  ],
+  "keywords": [
+   "ansi",
+   "cli",
+   "color",
+   "terminal"
+  ],
+  "repo": "https://github.com/rust-cli/anstyle.git",
+  "home": "",
+  "downloads": 216740590,
   "rank": 193
  },
  {
@@ -5224,7 +5224,7 @@
   "n_releases": 5,
   "license": "Apache-2.0 OR MIT",
   "python": "1.36",
-  "deps": 634147246,
+  "deps": 637977865,
   "topics": [
    "Asynchronous",
    "Concurrency"
@@ -5242,7 +5242,7 @@
   ],
   "repo": "https://github.com/smol-rs/atomic-waker",
   "home": "",
-  "downloads": 214679788,
+  "downloads": 216703483,
   "rank": 194
  },
  {
@@ -5255,7 +5255,7 @@
   "n_releases": 72,
   "license": "MIT OR Apache-2.0",
   "python": "Not specified",
-  "deps": 740144884,
+  "deps": 743837454,
   "topics": [
    "Network programming"
   ],
@@ -5271,8 +5271,89 @@
   ],
   "repo": "https://github.com/krisprice/ipnet",
   "home": "",
-  "downloads": 211351899,
+  "downloads": 213156153,
   "rank": 195
+ },
+ {
+  "name": "async-trait",
+  "slug": "async-trait",
+  "summary": "Type erasure for async trait methods",
+  "version": "0.1.92",
+  "released": "2026-08-08",
+  "first_release": "2019-07-23",
+  "n_releases": 93,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.71",
+  "deps": 822289629,
+  "topics": [
+   "Asynchronous",
+   "No standard library"
+  ],
+  "tags": [
+   "Asynchronous"
+  ],
+  "keywords": [
+   "async"
+  ],
+  "repo": "https://github.com/dtolnay/async-trait",
+  "home": "",
+  "downloads": 212366208,
+  "rank": 196
+ },
+ {
+  "name": "hex",
+  "slug": "hex",
+  "summary": "Encoding and decoding data into/from hexadecimal representation.",
+  "version": "0.4.3",
+  "released": "2021-03-03",
+  "first_release": "2015-10-23",
+  "n_releases": 9,
+  "license": "MIT OR Apache-2.0",
+  "python": "Not specified",
+  "deps": 811187615,
+  "topics": [
+   "Encoding",
+   "No standard library"
+  ],
+  "tags": [
+   "Encoding"
+  ],
+  "keywords": [
+   "hex"
+  ],
+  "repo": "https://github.com/KokaKiwi/rust-hex",
+  "home": "",
+  "downloads": 212270984,
+  "rank": 197
+ },
+ {
+  "name": "iana-time-zone",
+  "slug": "iana-time-zone",
+  "summary": "get the IANA time zone for the current system",
+  "version": "0.1.65",
+  "released": "2026-01-28",
+  "first_release": "2020-06-27",
+  "n_releases": 66,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.62.0",
+  "deps": 827736021,
+  "topics": [
+   "Date and time",
+   "Internationalization (i18n)",
+   "Operating systems"
+  ],
+  "tags": [
+   "Date and time",
+   "Internationalization (i18n)"
+  ],
+  "keywords": [
+   "iana",
+   "time"
+  ],
+  "repo": "https://github.com/strawlab/iana-time-zone",
+  "home": "",
+  "downloads": 212208306,
+  "rank": 198
  },
  {
   "name": "byteorder",
@@ -5284,7 +5365,7 @@
   "n_releases": 58,
   "license": "Unlicense OR MIT",
   "python": "1.60",
-  "deps": 959220503,
+  "deps": 962667478,
   "topics": [
    "Encoding",
    "No standard library",
@@ -5303,118 +5384,8 @@
   ],
   "repo": "https://github.com/BurntSushi/byteorder",
   "home": "https://github.com/BurntSushi/byteorder",
-  "downloads": 210641674,
-  "rank": 196
- },
- {
-  "name": "async-trait",
-  "slug": "async-trait",
-  "summary": "Type erasure for async trait methods",
-  "version": "0.1.92",
-  "released": "2026-08-08",
-  "first_release": "2019-07-23",
-  "n_releases": 93,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.71",
-  "deps": 818614175,
-  "topics": [
-   "Asynchronous",
-   "No standard library"
-  ],
-  "tags": [
-   "Asynchronous"
-  ],
-  "keywords": [
-   "async"
-  ],
-  "repo": "https://github.com/dtolnay/async-trait",
-  "home": "",
-  "downloads": 210615690,
-  "rank": 197
- },
- {
-  "name": "iana-time-zone",
-  "slug": "iana-time-zone",
-  "summary": "get the IANA time zone for the current system",
-  "version": "0.1.65",
-  "released": "2026-01-28",
-  "first_release": "2020-06-27",
-  "n_releases": 66,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.62.0",
-  "deps": 824167098,
-  "topics": [
-   "Date and time",
-   "Internationalization (i18n)",
-   "Operating systems"
-  ],
-  "tags": [
-   "Date and time",
-   "Internationalization (i18n)"
-  ],
-  "keywords": [
-   "iana",
-   "time"
-  ],
-  "repo": "https://github.com/strawlab/iana-time-zone",
-  "home": "",
-  "downloads": 210578536,
-  "rank": 198
- },
- {
-  "name": "hex",
-  "slug": "hex",
-  "summary": "Encoding and decoding data into/from hexadecimal representation.",
-  "version": "0.4.3",
-  "released": "2021-03-03",
-  "first_release": "2015-10-23",
-  "n_releases": 9,
-  "license": "MIT OR Apache-2.0",
-  "python": "Not specified",
-  "deps": 807507887,
-  "topics": [
-   "Encoding",
-   "No standard library"
-  ],
-  "tags": [
-   "Encoding"
-  ],
-  "keywords": [
-   "hex"
-  ],
-  "repo": "https://github.com/KokaKiwi/rust-hex",
-  "home": "",
-  "downloads": 210493674,
+  "downloads": 212118949,
   "rank": 199
- },
- {
-  "name": "powerfmt",
-  "slug": "powerfmt",
-  "summary": "`powerfmt` is a library that provides utilities for formatting values. This crate makes it\n    significantly easier to support filling to a minimum width with alignment, avoid heap\n    allocation, and avoid repetitive calculations.",
-  "version": "0.2.1",
-  "released": "2026-10-05",
-  "first_release": "2023-10-08",
-  "n_releases": 5,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.79.0",
-  "deps": 699507974,
-  "topics": [
-   "No dynamic allocation",
-   "No standard library",
-   "Rust patterns"
-  ],
-  "tags": [],
-  "keywords": [
-   "display",
-   "extension",
-   "fmt",
-   "format",
-   "formatter"
-  ],
-  "repo": "https://github.com/jhpratt/powerfmt",
-  "home": "",
-  "downloads": 209520943,
-  "rank": 200
  },
  {
   "name": "chacha20",
@@ -5426,7 +5397,7 @@
   "n_releases": 45,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 380709726,
+  "deps": 384766996,
   "topics": [
    "Cryptography",
    "No standard library"
@@ -5443,7 +5414,36 @@
   ],
   "repo": "https://github.com/RustCrypto/stream-ciphers",
   "home": "",
-  "downloads": 209227540,
+  "downloads": 211741522,
+  "rank": 200
+ },
+ {
+  "name": "powerfmt",
+  "slug": "powerfmt",
+  "summary": "`powerfmt` is a library that provides utilities for formatting values. This crate makes it\n    significantly easier to support filling to a minimum width with alignment, avoid heap\n    allocation, and avoid repetitive calculations.",
+  "version": "0.2.1",
+  "released": "2026-10-05",
+  "first_release": "2023-10-08",
+  "n_releases": 5,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.79.0",
+  "deps": 703267943,
+  "topics": [
+   "No dynamic allocation",
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [],
+  "keywords": [
+   "display",
+   "extension",
+   "fmt",
+   "format",
+   "formatter"
+  ],
+  "repo": "https://github.com/jhpratt/powerfmt",
+  "home": "",
+  "downloads": 211457588,
   "rank": 201
  },
  {
@@ -5456,7 +5456,7 @@
   "n_releases": 12,
   "license": "MIT",
   "python": "Not specified",
-  "deps": 788831279,
+  "deps": 792605345,
   "topics": [
    "async",
    "channel"
@@ -5469,7 +5469,7 @@
   ],
   "repo": "https://github.com/seanmonstar/want",
   "home": "",
-  "downloads": 208934656,
+  "downloads": 210894857,
   "rank": 202
  },
  {
@@ -5482,7 +5482,7 @@
   "n_releases": 12,
   "license": "MIT",
   "python": "Not specified",
-  "deps": 543390755,
+  "deps": 546987047,
   "topics": [
    "Algorithms",
    "No standard library"
@@ -5499,7 +5499,7 @@
   ],
   "repo": "https://github.com/mcountryman/simd-adler32",
   "home": "",
-  "downloads": 208907389,
+  "downloads": 210647762,
   "rank": 203
  },
  {
@@ -5512,7 +5512,7 @@
   "n_releases": 40,
   "license": "Unlicense/MIT",
   "python": "Not specified",
-  "deps": 778002638,
+  "deps": 781549141,
   "topics": [
    "Filesystem"
   ],
@@ -5527,7 +5527,7 @@
   ],
   "repo": "https://github.com/BurntSushi/walkdir",
   "home": "https://github.com/BurntSushi/walkdir",
-  "downloads": 207771281,
+  "downloads": 209494758,
   "rank": 204
  },
  {
@@ -5540,7 +5540,7 @@
   "n_releases": 25,
   "license": "MIT OR Apache-2.0",
   "python": "Not specified",
-  "deps": 701630871,
+  "deps": 705021073,
   "topics": [
    "Algorithms",
    "Cryptography"
@@ -5557,8 +5557,35 @@
   ],
   "repo": "https://github.com/jedisct1/rust-siphash",
   "home": "https://docs.rs/siphasher",
-  "downloads": 207116695,
+  "downloads": 208619255,
   "rank": 205
+ },
+ {
+  "name": "same-file",
+  "slug": "same-file",
+  "summary": "A simple crate for determining whether two file paths point to the same file.",
+  "version": "1.0.6",
+  "released": "2020-01-11",
+  "first_release": "2017-01-08",
+  "n_releases": 11,
+  "license": "Unlicense/MIT",
+  "python": "Not specified",
+  "deps": 760254979,
+  "topics": [
+   "equal",
+   "same"
+  ],
+  "tags": [],
+  "keywords": [
+   "equal",
+   "file",
+   "inode",
+   "same"
+  ],
+  "repo": "https://github.com/BurntSushi/same-file",
+  "home": "https://github.com/BurntSushi/same-file",
+  "downloads": 207914199,
+  "rank": 206
  },
  {
   "name": "thread_local",
@@ -5570,7 +5597,7 @@
   "n_releases": 29,
   "license": "MIT OR Apache-2.0",
   "python": "1.63",
-  "deps": 843782302,
+  "deps": 847293346,
   "topics": [
    "concurrent",
    "thread"
@@ -5583,8 +5610,8 @@
   ],
   "repo": "https://github.com/Amanieu/thread_local-rs",
   "home": "",
-  "downloads": 206299300,
-  "rank": 206
+  "downloads": 207822279,
+  "rank": 207
  },
  {
   "name": "utf8parse",
@@ -5596,7 +5623,7 @@
   "n_releases": 5,
   "license": "Apache-2.0 OR MIT",
   "python": "Not specified",
-  "deps": 772033093,
+  "deps": 775289384,
   "topics": [
    "No standard library",
    "Parsing tools"
@@ -5611,34 +5638,7 @@
   ],
   "repo": "https://github.com/alacritty/vte",
   "home": "",
-  "downloads": 206253596,
-  "rank": 207
- },
- {
-  "name": "same-file",
-  "slug": "same-file",
-  "summary": "A simple crate for determining whether two file paths point to the same file.",
-  "version": "1.0.6",
-  "released": "2020-01-11",
-  "first_release": "2017-01-08",
-  "n_releases": 11,
-  "license": "Unlicense/MIT",
-  "python": "Not specified",
-  "deps": 756733131,
-  "topics": [
-   "file",
-   "same"
-  ],
-  "tags": [],
-  "keywords": [
-   "equal",
-   "file",
-   "inode",
-   "same"
-  ],
-  "repo": "https://github.com/BurntSushi/same-file",
-  "home": "https://github.com/BurntSushi/same-file",
-  "downloads": 206190770,
+  "downloads": 207323621,
   "rank": 208
  },
  {
@@ -5651,7 +5651,7 @@
   "n_releases": 7,
   "license": "MIT",
   "python": "Not specified",
-  "deps": 666802393,
+  "deps": 670440205,
   "topics": [
    "Asynchronous",
    "Network programming"
@@ -5663,7 +5663,7 @@
   "keywords": [],
   "repo": "https://github.com/tower-rs/tower",
   "home": "https://github.com/tower-rs/tower",
-  "downloads": 204970396,
+  "downloads": 206823141,
   "rank": 209
  },
  {
@@ -5676,7 +5676,7 @@
   "n_releases": 7,
   "license": "MIT",
   "python": "Not specified",
-  "deps": 784118492,
+  "deps": 787734795,
   "topics": [
    "Concurrency",
    "No standard library"
@@ -5690,7 +5690,7 @@
   ],
   "repo": "https://github.com/seanmonstar/try-lock",
   "home": "https://github.com/seanmonstar/try-lock",
-  "downloads": 204923755,
+  "downloads": 206722528,
   "rank": 210
  },
  {
@@ -5703,7 +5703,7 @@
   "n_releases": 57,
   "license": "MIT OR Apache-2.0",
   "python": "1.71.1",
-  "deps": 731932913,
+  "deps": 735448295,
   "topics": [
    "Memory management",
    "No standard library",
@@ -5719,7 +5719,7 @@
   ],
   "repo": "https://github.com/fitzgen/bumpalo",
   "home": "",
-  "downloads": 204252103,
+  "downloads": 205884060,
   "rank": 211
  },
  {
@@ -5732,7 +5732,7 @@
   "n_releases": 8,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 570827282,
+  "deps": 574065219,
   "topics": [
    "Windows APIs"
   ],
@@ -5742,7 +5742,7 @@
   "keywords": [],
   "repo": "https://github.com/microsoft/windows-rs",
   "home": "",
-  "downloads": 203827087,
+  "downloads": 204885406,
   "rank": 212
  },
  {
@@ -5755,13 +5755,13 @@
   "n_releases": 6,
   "license": "MIT OR Apache-2.0",
   "python": "1.48.0",
-  "deps": 678817000,
+  "deps": 682048655,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/polyfill-rs/is_terminal_polyfill",
   "home": "",
-  "downloads": 203166244,
+  "downloads": 204248200,
   "rank": 213
  },
  {
@@ -5774,10 +5774,10 @@
   "n_releases": 25,
   "license": "Apache-2.0 OR MIT",
   "python": "1.85.0",
-  "deps": 581461356,
+  "deps": 585203086,
   "topics": [
-   "bitmap",
-   "data-structures"
+   "bit",
+   "bitmap"
   ],
   "tags": [],
   "keywords": [
@@ -5789,7 +5789,7 @@
   ],
   "repo": "https://github.com/contain-rs/bit-vec",
   "home": "",
-  "downloads": 200653815,
+  "downloads": 202873288,
   "rank": 214
  },
  {
@@ -5802,10 +5802,10 @@
   "n_releases": 42,
   "license": "MIT OR Apache-2.0",
   "python": "Not specified",
-  "deps": 762230675,
+  "deps": 765845192,
   "topics": [
    "media-extensions",
-   "mime"
+   "media-types"
   ],
   "tags": [],
   "keywords": [
@@ -5815,7 +5815,7 @@
   ],
   "repo": "https://github.com/hyperium/mime",
   "home": "",
-  "downloads": 199403617,
+  "downloads": 201267743,
   "rank": 215
  },
  {
@@ -5828,13 +5828,13 @@
   "n_releases": 10,
   "license": "MIT OR Apache-2.0",
   "python": "1.60.0",
-  "deps": 749740742,
+  "deps": 753353501,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/rustls/openssl-probe",
   "home": "https://github.com/rustls/openssl-probe",
-  "downloads": 199217677,
+  "downloads": 201028018,
   "rank": 216
  },
  {
@@ -5847,10 +5847,10 @@
   "n_releases": 49,
   "license": "MIT",
   "python": "1.71",
-  "deps": 808758723,
+  "deps": 812575117,
   "topics": [
    "mutex",
-   "spinlock"
+   "rwlock"
   ],
   "tags": [],
   "keywords": [
@@ -5860,7 +5860,7 @@
   ],
   "repo": "https://codeberg.org/zesterer/spin",
   "home": "",
-  "downloads": 198379984,
+  "downloads": 200438148,
   "rank": 217
  },
  {
@@ -5873,7 +5873,7 @@
   "n_releases": 28,
   "license": "MIT OR Apache-2.0",
   "python": "1.61",
-  "deps": 774893887,
+  "deps": 778170602,
   "topics": [
    "Algorithms",
    "Concurrency",
@@ -5892,7 +5892,7 @@
   ],
   "repo": "https://github.com/crossbeam-rs/crossbeam",
   "home": "https://github.com/crossbeam-rs/crossbeam/tree/master/crossbeam-deque",
-  "downloads": 198040065,
+  "downloads": 199486639,
   "rank": 218
  },
  {
@@ -5905,14 +5905,44 @@
   "n_releases": 36,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 695306038,
+  "deps": 698839504,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/rust-lang/jobserver-rs",
   "home": "https://github.com/rust-lang/jobserver-rs",
-  "downloads": 196831130,
+  "downloads": 198632230,
   "rank": 219
+ },
+ {
+  "name": "strum_macros",
+  "slug": "strum-macros",
+  "summary": "Helpful macros for working with enums and strings",
+  "version": "0.28.0",
+  "released": "2026-02-22",
+  "first_release": "2017-02-12",
+  "n_releases": 49,
+  "license": "MIT",
+  "python": "1.71",
+  "deps": 788184885,
+  "topics": [
+   "Parsing tools",
+   "Procedural macro helpers"
+  ],
+  "tags": [
+   "Parsing tools",
+   "Procedural macro helpers"
+  ],
+  "keywords": [
+   "enum",
+   "macros",
+   "proc-macros",
+   "string"
+  ],
+  "repo": "https://github.com/Peternator7/strum",
+  "home": "https://github.com/Peternator7/strum",
+  "downloads": 197822897,
+  "rank": 220
  },
  {
   "name": "ahash",
@@ -5924,7 +5954,7 @@
   "n_releases": 95,
   "license": "MIT OR Apache-2.0",
   "python": "1.60.0",
-  "deps": 914380749,
+  "deps": 917554810,
   "topics": [
    "Algorithms",
    "Data structures",
@@ -5942,65 +5972,8 @@
   ],
   "repo": "https://github.com/tkaitchuck/ahash",
   "home": "",
-  "downloads": 196535163,
-  "rank": 220
- },
- {
-  "name": "strum_macros",
-  "slug": "strum-macros",
-  "summary": "Helpful macros for working with enums and strings",
-  "version": "0.28.0",
-  "released": "2026-02-22",
-  "first_release": "2017-02-12",
-  "n_releases": 49,
-  "license": "MIT",
-  "python": "1.71",
-  "deps": 784933728,
-  "topics": [
-   "Parsing tools",
-   "Procedural macro helpers"
-  ],
-  "tags": [
-   "Parsing tools",
-   "Procedural macro helpers"
-  ],
-  "keywords": [
-   "enum",
-   "macros",
-   "proc-macros",
-   "string"
-  ],
-  "repo": "https://github.com/Peternator7/strum",
-  "home": "https://github.com/Peternator7/strum",
-  "downloads": 196436147,
+  "downloads": 197812940,
   "rank": 221
- },
- {
-  "name": "wasi",
-  "slug": "wasi",
-  "summary": "WASI API bindings for Rust",
-  "version": "0.14.7+wasi-0.2.4",
-  "released": "2025-09-15",
-  "first_release": "2019-03-27",
-  "n_releases": 27,
-  "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
-  "python": "1.82.0",
-  "deps": 900068403,
-  "topics": [
-   "No standard library",
-   "WebAssembly"
-  ],
-  "tags": [
-   "WebAssembly"
-  ],
-  "keywords": [
-   "wasm",
-   "webassembly"
-  ],
-  "repo": "https://github.com/bytecodealliance/wasi-rs",
-  "home": "",
-  "downloads": 196263315,
-  "rank": 222
  },
  {
   "name": "tracing-subscriber",
@@ -6012,7 +5985,7 @@
   "n_releases": 67,
   "license": "MIT",
   "python": "1.65.0",
-  "deps": 751564409,
+  "deps": 754897773,
   "topics": [
    "Asynchronous",
    "Debugging",
@@ -6031,7 +6004,34 @@
   ],
   "repo": "https://github.com/tokio-rs/tracing",
   "home": "https://tokio.rs",
-  "downloads": 195785263,
+  "downloads": 197262870,
+  "rank": 222
+ },
+ {
+  "name": "wasi",
+  "slug": "wasi",
+  "summary": "WASI API bindings for Rust",
+  "version": "0.14.7+wasi-0.2.4",
+  "released": "2025-09-15",
+  "first_release": "2019-03-27",
+  "n_releases": 27,
+  "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+  "python": "1.82.0",
+  "deps": 903141547,
+  "topics": [
+   "No standard library",
+   "WebAssembly"
+  ],
+  "tags": [
+   "WebAssembly"
+  ],
+  "keywords": [
+   "wasm",
+   "webassembly"
+  ],
+  "repo": "https://github.com/bytecodealliance/wasi-rs",
+  "home": "",
+  "downloads": 197171918,
   "rank": 223
  },
  {
@@ -6044,13 +6044,13 @@
   "n_releases": 116,
   "license": "MIT",
   "python": "Not specified",
-  "deps": 868406390,
+  "deps": 871460219,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://gitlab.redox-os.org/redox-os/kernel",
   "home": "",
-  "downloads": 195768780,
+  "downloads": 196574757,
   "rank": 224
  },
  {
@@ -6063,7 +6063,7 @@
   "n_releases": 40,
   "license": "MIT",
   "python": "1.71",
-  "deps": 776221084,
+  "deps": 779445670,
   "topics": [
    "Parsing tools",
    "Procedural macro helpers"
@@ -6080,7 +6080,7 @@
   ],
   "repo": "https://github.com/Peternator7/strum",
   "home": "https://github.com/Peternator7/strum",
-  "downloads": 194963921,
+  "downloads": 196313496,
   "rank": 225
  },
  {
@@ -6093,7 +6093,7 @@
   "n_releases": 17,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 436140090,
+  "deps": 439521235,
   "topics": [
    "Configuration",
    "Encoding",
@@ -6112,31 +6112,8 @@
   ],
   "repo": "https://github.com/toml-rs/toml",
   "home": "",
-  "downloads": 194237978,
+  "downloads": 195973094,
   "rank": 226
- },
- {
-  "name": "windows_i686_gnullvm",
-  "slug": "windows-i686-gnullvm",
-  "summary": "Import lib for Windows",
-  "version": "0.53.1",
-  "released": "2025-10-06",
-  "first_release": "2024-04-02",
-  "n_releases": 5,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.60",
-  "deps": 700359348,
-  "topics": [
-   "Windows APIs"
-  ],
-  "tags": [
-   "Windows APIs"
-  ],
-  "keywords": [],
-  "repo": "https://github.com/microsoft/windows-rs",
-  "home": "",
-  "downloads": 191797811,
-  "rank": 227
  },
  {
   "name": "portable-atomic",
@@ -6148,7 +6125,7 @@
   "n_releases": 54,
   "license": "Apache-2.0 OR MIT",
   "python": "1.34",
-  "deps": 594158082,
+  "deps": 597400288,
   "topics": [
    "Concurrency",
    "Embedded development",
@@ -6165,7 +6142,30 @@
   ],
   "repo": "https://github.com/taiki-e/portable-atomic",
   "home": "",
-  "downloads": 191419110,
+  "downloads": 192862460,
+  "rank": 227
+ },
+ {
+  "name": "windows_i686_gnullvm",
+  "slug": "windows-i686-gnullvm",
+  "summary": "Import lib for Windows",
+  "version": "0.53.1",
+  "released": "2025-10-06",
+  "first_release": "2024-04-02",
+  "n_releases": 5,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.60",
+  "deps": 703222358,
+  "topics": [
+   "Windows APIs"
+  ],
+  "tags": [
+   "Windows APIs"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/microsoft/windows-rs",
+  "home": "",
+  "downloads": 192546443,
   "rank": 228
  },
  {
@@ -6178,7 +6178,7 @@
   "n_releases": 24,
   "license": "Apache-2.0 OR ISC OR MIT",
   "python": "1.71",
-  "deps": 689827576,
+  "deps": 693188676,
   "topics": [
    "Cryptography",
    "Network programming"
@@ -6190,7 +6190,7 @@
   "keywords": [],
   "repo": "https://github.com/rustls/rustls-native-certs",
   "home": "https://github.com/rustls/rustls-native-certs",
-  "downloads": 188566155,
+  "downloads": 190185608,
   "rank": 229
  },
  {
@@ -6203,10 +6203,10 @@
   "n_releases": 11,
   "license": "MIT OR Apache-2.0",
   "python": "1.56",
-  "deps": 732987783,
+  "deps": 736319499,
   "topics": [
-   "http",
-   "time"
+   "date",
+   "http"
   ],
   "tags": [],
   "keywords": [
@@ -6218,7 +6218,7 @@
   ],
   "repo": "https://github.com/pyfisch/httpdate",
   "home": "",
-  "downloads": 187449637,
+  "downloads": 189049165,
   "rank": 230
  },
  {
@@ -6231,7 +6231,7 @@
   "n_releases": 19,
   "license": "MIT/Apache-2.0",
   "python": "Not specified",
-  "deps": 701316537,
+  "deps": 704590539,
   "topics": [
    "Encoding",
    "Web programming"
@@ -6247,7 +6247,7 @@
   ],
   "repo": "https://github.com/nox/serde_urlencoded",
   "home": "",
-  "downloads": 186204588,
+  "downloads": 187817690,
   "rank": 231
  },
  {
@@ -6260,13 +6260,13 @@
   "n_releases": 31,
   "license": "MIT OR Apache-2.0",
   "python": "1.64.0",
-  "deps": 614339442,
+  "deps": 617594255,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/zakarumych/allocator-api2",
   "home": "https://github.com/zakarumych/allocator-api2",
-  "downloads": 183186319,
+  "downloads": 184850724,
   "rank": 232
  },
  {
@@ -6279,7 +6279,7 @@
   "n_releases": 57,
   "license": "MIT OR Apache-2.0",
   "python": "1.51",
-  "deps": 699324340,
+  "deps": 702509680,
   "topics": [
    "Data structures",
    "No standard library"
@@ -6295,7 +6295,7 @@
   ],
   "repo": "https://github.com/bluss/arrayvec",
   "home": "",
-  "downloads": 182648890,
+  "downloads": 184188190,
   "rank": 233
  },
  {
@@ -6308,10 +6308,10 @@
   "n_releases": 27,
   "license": "MIT OR Apache-2.0",
   "python": "1.85.0",
-  "deps": 687612324,
+  "deps": 690686039,
   "topics": [
-   "text",
-   "unicode"
+   "boundary",
+   "grapheme"
   ],
   "tags": [],
   "keywords": [
@@ -6323,7 +6323,7 @@
   ],
   "repo": "https://github.com/unicode-rs/unicode-segmentation",
   "home": "https://github.com/unicode-rs/unicode-segmentation",
-  "downloads": 181936873,
+  "downloads": 183344575,
   "rank": 234
  },
  {
@@ -6336,7 +6336,7 @@
   "n_releases": 17,
   "license": "MIT",
   "python": "1.42.0",
-  "deps": 677958630,
+  "deps": 681080012,
   "topics": [
    "Concurrency",
    "Data structures",
@@ -6355,7 +6355,7 @@
   ],
   "repo": "https://github.com/hawkw/sharded-slab",
   "home": "https://github.com/hawkw/sharded-slab",
-  "downloads": 179907719,
+  "downloads": 181341449,
   "rank": 235
  },
  {
@@ -6368,7 +6368,7 @@
   "n_releases": 130,
   "license": "MIT OR Apache-2.0",
   "python": "1.81",
-  "deps": 662565986,
+  "deps": 665622951,
   "topics": [
    "WebAssembly"
   ],
@@ -6378,7 +6378,7 @@
   "keywords": [],
   "repo": "https://github.com/wasm-bindgen/wasm-bindgen",
   "home": "https://wasm-bindgen.github.io/wasm-bindgen",
-  "downloads": 178837280,
+  "downloads": 180224332,
   "rank": 236
  },
  {
@@ -6391,13 +6391,13 @@
   "n_releases": 113,
   "license": "MIT OR Apache-2.0",
   "python": "1.81",
-  "deps": 661779289,
+  "deps": 664835614,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/wasm-bindgen/wasm-bindgen/tree/main/crates/macro-support",
   "home": "https://wasm-bindgen.github.io/wasm-bindgen/",
-  "downloads": 178692624,
+  "downloads": 180079266,
   "rank": 237
  },
  {
@@ -6410,13 +6410,13 @@
   "n_releases": 132,
   "license": "MIT OR Apache-2.0",
   "python": "1.81",
-  "deps": 661169147,
+  "deps": 664230610,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/shared",
   "home": "https://wasm-bindgen.github.io/wasm-bindgen/",
-  "downloads": 178325039,
+  "downloads": 179717856,
   "rank": 238
  },
  {
@@ -6429,13 +6429,13 @@
   "n_releases": 131,
   "license": "MIT OR Apache-2.0",
   "python": "1.81",
-  "deps": 661707386,
+  "deps": 664761107,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/macro",
   "home": "https://wasm-bindgen.github.io/wasm-bindgen/",
-  "downloads": 178271725,
+  "downloads": 179656733,
   "rank": 239
  },
  {
@@ -6448,13 +6448,13 @@
   "n_releases": 26,
   "license": "MIT",
   "python": "1.62.1",
-  "deps": 656395307,
+  "deps": 659504953,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/nushell/nu-ansi-term",
   "home": "",
-  "downloads": 177269538,
+  "downloads": 178658012,
   "rank": 240
  },
  {
@@ -6467,7 +6467,7 @@
   "n_releases": 104,
   "license": "MIT",
   "python": "1.86",
-  "deps": 551287066,
+  "deps": 554272555,
   "topics": [
    "Asynchronous",
    "Encoding",
@@ -6489,7 +6489,7 @@
   ],
   "repo": "https://github.com/tafia/quick-xml",
   "home": "",
-  "downloads": 177083366,
+  "downloads": 178628779,
   "rank": 241
  },
  {
@@ -6502,7 +6502,7 @@
   "n_releases": 24,
   "license": "MIT OR Apache-2.0",
   "python": "1.82.0",
-  "deps": 663884983,
+  "deps": 666881470,
   "topics": [
    "Procedural macro helpers"
   ],
@@ -6517,7 +6517,7 @@
   ],
   "repo": "https://github.com/bkchr/proc-macro-crate",
   "home": "",
-  "downloads": 175852387,
+  "downloads": 177268805,
   "rank": 242
  },
  {
@@ -6530,7 +6530,7 @@
   "n_releases": 48,
   "license": "Apache-2.0",
   "python": "1.85",
-  "deps": 714343129,
+  "deps": 717181365,
   "topics": [
    "Encoding"
   ],
@@ -6543,31 +6543,8 @@
   ],
   "repo": "https://github.com/tokio-rs/prost",
   "home": "",
-  "downloads": 175297515,
+  "downloads": 176247166,
   "rank": 243
- },
- {
-  "name": "glob",
-  "slug": "glob",
-  "summary": "Support for matching file paths against Unix shell style patterns.",
-  "version": "0.3.4",
-  "released": "2026-07-21",
-  "first_release": "2014-11-11",
-  "n_releases": 30,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.63.0",
-  "deps": 733010515,
-  "topics": [
-   "Filesystem"
-  ],
-  "tags": [
-   "Filesystem"
-  ],
-  "keywords": [],
-  "repo": "https://github.com/rust-lang/glob",
-  "home": "https://github.com/rust-lang/glob",
-  "downloads": 172879787,
-  "rank": 244
  },
  {
   "name": "libm",
@@ -6579,7 +6556,7 @@
   "n_releases": 22,
   "license": "MIT",
   "python": "1.63",
-  "deps": 596184073,
+  "deps": 599236319,
   "topics": [
    "No standard library"
   ],
@@ -6590,7 +6567,30 @@
   ],
   "repo": "https://github.com/rust-lang/compiler-builtins",
   "home": "",
-  "downloads": 172878144,
+  "downloads": 174456732,
+  "rank": 244
+ },
+ {
+  "name": "glob",
+  "slug": "glob",
+  "summary": "Support for matching file paths against Unix shell style patterns.",
+  "version": "0.3.4",
+  "released": "2026-07-21",
+  "first_release": "2014-11-11",
+  "n_releases": 30,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.63.0",
+  "deps": 735985822,
+  "topics": [
+   "Filesystem"
+  ],
+  "tags": [
+   "Filesystem"
+  ],
+  "keywords": [],
+  "repo": "https://github.com/rust-lang/glob",
+  "home": "https://github.com/rust-lang/glob",
+  "downloads": 174190123,
   "rank": 245
  },
  {
@@ -6603,7 +6603,7 @@
   "n_releases": 17,
   "license": "Apache-2.0 OR MIT",
   "python": "1.85.0",
-  "deps": 525670289,
+  "deps": 528810781,
   "topics": [
    "bitset",
    "data-structures"
@@ -6615,7 +6615,7 @@
   ],
   "repo": "https://github.com/contain-rs/bit-vec",
   "home": "https://github.com/contain-rs/bit-vec",
-  "downloads": 172065303,
+  "downloads": 173853631,
   "rank": 246
  },
  {
@@ -6628,13 +6628,13 @@
   "n_releases": 44,
   "license": "Apache-2.0",
   "python": "1.85",
-  "deps": 701064199,
+  "deps": 703845194,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/tokio-rs/prost",
   "home": "",
-  "downloads": 171826617,
+  "downloads": 172769787,
   "rank": 247
  },
  {
@@ -6647,7 +6647,7 @@
   "n_releases": 15,
   "license": "MIT",
   "python": "Not specified",
-  "deps": 652198975,
+  "deps": 655014560,
   "topics": [
    "Text processing"
   ],
@@ -6661,7 +6661,7 @@
   ],
   "repo": "https://github.com/rutrum/convert-case",
   "home": "",
-  "downloads": 170685618,
+  "downloads": 171870002,
   "rank": 248
  },
  {
@@ -6674,7 +6674,7 @@
   "n_releases": 40,
   "license": "MIT OR Apache-2.0",
   "python": "1.80",
-  "deps": 671236247,
+  "deps": 674076892,
   "topics": [
    "Concurrency"
   ],
@@ -6690,7 +6690,7 @@
   ],
   "repo": "https://github.com/rayon-rs/rayon",
   "home": "",
-  "downloads": 170290224,
+  "downloads": 171599930,
   "rank": 249
  },
  {
@@ -6703,7 +6703,7 @@
   "n_releases": 48,
   "license": "MIT",
   "python": "1.85",
-  "deps": 572086526,
+  "deps": 574882443,
   "topics": [
    "Data structures"
   ],
@@ -6713,7 +6713,7 @@
   "keywords": [],
   "repo": "https://github.com/rust-phf/rust-phf",
   "home": "",
-  "downloads": 169564337,
+  "downloads": 170833549,
   "rank": 250
  },
  {
@@ -6726,7 +6726,7 @@
   "n_releases": 9,
   "license": "MIT",
   "python": "1.56.0",
-  "deps": 672424951,
+  "deps": 675377229,
   "topics": [
    "Asynchronous",
    "Debugging"
@@ -6742,27 +6742,8 @@
   ],
   "repo": "https://github.com/tokio-rs/tracing",
   "home": "https://tokio.rs",
-  "downloads": 167717263,
+  "downloads": 169046451,
   "rank": 251
- },
- {
-  "name": "tinyvec_macros",
-  "slug": "tinyvec-macros",
-  "summary": "Some macros for tiny containers",
-  "version": "0.1.1",
-  "released": "2023-02-02",
-  "first_release": "2020-08-09",
-  "n_releases": 2,
-  "license": "MIT OR Apache-2.0 OR Zlib",
-  "python": "Not specified",
-  "deps": 767205726,
-  "topics": [],
-  "tags": [],
-  "keywords": [],
-  "repo": "https://github.com/Soveu/tinyvec_macros",
-  "home": "",
-  "downloads": 166835813,
-  "rank": 252
  },
  {
   "name": "js-sys",
@@ -6774,7 +6755,7 @@
   "n_releases": 115,
   "license": "MIT OR Apache-2.0",
   "python": "1.81",
-  "deps": 616707999,
+  "deps": 619576737,
   "topics": [
    "WebAssembly"
   ],
@@ -6784,8 +6765,8 @@
   "keywords": [],
   "repo": "https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/js-sys",
   "home": "https://wasm-bindgen.github.io/wasm-bindgen/",
-  "downloads": 166631392,
-  "rank": 253
+  "downloads": 167955584,
+  "rank": 252
  },
  {
   "name": "rayon-core",
@@ -6797,7 +6778,7 @@
   "n_releases": 28,
   "license": "MIT OR Apache-2.0",
   "python": "1.80",
-  "deps": 658775249,
+  "deps": 661553532,
   "topics": [
    "Concurrency"
   ],
@@ -6813,8 +6794,8 @@
   ],
   "repo": "https://github.com/rayon-rs/rayon",
   "home": "",
-  "downloads": 166373830,
-  "rank": 254
+  "downloads": 167666508,
+  "rank": 253
  },
  {
   "name": "windows-core",
@@ -6826,7 +6807,7 @@
   "n_releases": 21,
   "license": "MIT OR Apache-2.0",
   "python": "1.95",
-  "deps": 547934745,
+  "deps": 550713455,
   "topics": [
    "Windows APIs"
   ],
@@ -6836,8 +6817,8 @@
   "keywords": [],
   "repo": "https://github.com/microsoft/windows-rs",
   "home": "",
-  "downloads": 166134213,
-  "rank": 255
+  "downloads": 167450805,
+  "rank": 254
  },
  {
   "name": "der",
@@ -6849,7 +6830,7 @@
   "n_releases": 66,
   "license": "Apache-2.0 OR MIT",
   "python": "1.85",
-  "deps": 583434669,
+  "deps": 586380737,
   "topics": [
    "Cryptography",
    "Data structures",
@@ -6872,7 +6853,26 @@
   ],
   "repo": "https://github.com/RustCrypto/formats",
   "home": "https://github.com/RustCrypto/formats/tree/master/der",
-  "downloads": 165849605,
+  "downloads": 167346729,
+  "rank": 255
+ },
+ {
+  "name": "tinyvec_macros",
+  "slug": "tinyvec-macros",
+  "summary": "Some macros for tiny containers",
+  "version": "0.1.1",
+  "released": "2023-02-02",
+  "first_release": "2020-08-09",
+  "n_releases": 2,
+  "license": "MIT OR Apache-2.0 OR Zlib",
+  "python": "Not specified",
+  "deps": 769457343,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/Soveu/tinyvec_macros",
+  "home": "",
+  "downloads": 167132189,
   "rank": 256
  },
  {
@@ -6885,7 +6885,7 @@
   "n_releases": 28,
   "license": "MIT AND BSD-3-Clause",
   "python": "1.66",
-  "deps": 566746492,
+  "deps": 569645049,
   "topics": [
    "Algorithms",
    "Network programming"
@@ -6903,7 +6903,7 @@
   ],
   "repo": "https://github.com/ibraheemdev/matchit",
   "home": "",
-  "downloads": 165647369,
+  "downloads": 166984886,
   "rank": 257
  },
  {
@@ -6916,7 +6916,7 @@
   "n_releases": 94,
   "license": "MIT",
   "python": "1.80",
-  "deps": 595216523,
+  "deps": 598121901,
   "topics": [
    "Asynchronous",
    "HTTP server",
@@ -6934,7 +6934,7 @@
   ],
   "repo": "https://github.com/tokio-rs/axum",
   "home": "https://github.com/tokio-rs/axum",
-  "downloads": 165205906,
+  "downloads": 166539893,
   "rank": 258
  },
  {
@@ -6947,7 +6947,7 @@
   "n_releases": 27,
   "license": "MIT/Apache-2.0",
   "python": "Not specified",
-  "deps": 594323546,
+  "deps": 597218506,
   "topics": [
    "Build Utils"
   ],
@@ -6962,7 +6962,7 @@
   ],
   "repo": "https://github.com/mcgoo/vcpkg-rs",
   "home": "",
-  "downloads": 164381538,
+  "downloads": 165890361,
   "rank": 259
  },
  {
@@ -6975,7 +6975,7 @@
   "n_releases": 37,
   "license": "MIT",
   "python": "1.78",
-  "deps": 589620556,
+  "deps": 592504795,
   "topics": [
    "Asynchronous",
    "Network programming",
@@ -6993,7 +6993,7 @@
   ],
   "repo": "https://github.com/tokio-rs/axum",
   "home": "https://github.com/tokio-rs/axum",
-  "downloads": 163905554,
+  "downloads": 165234641,
   "rank": 260
  },
  {
@@ -7006,7 +7006,7 @@
   "n_releases": 13,
   "license": "MIT OR Apache-2.0",
   "python": "1.95",
-  "deps": 475351977,
+  "deps": 478081246,
   "topics": [
    "Windows APIs"
   ],
@@ -7016,7 +7016,7 @@
   "keywords": [],
   "repo": "https://github.com/microsoft/windows-rs",
   "home": "",
-  "downloads": 161394257,
+  "downloads": 162735151,
   "rank": 261
  },
  {
@@ -7029,7 +7029,7 @@
   "n_releases": 42,
   "license": "ISC",
   "python": "1.88.0",
-  "deps": 642145995,
+  "deps": 644969603,
   "topics": [
    "API bindings"
   ],
@@ -7042,7 +7042,7 @@
   ],
   "repo": "https://github.com/nagisa/rust_libloading/",
   "home": "",
-  "downloads": 161078720,
+  "downloads": 162369684,
   "rank": 262
  },
  {
@@ -7055,13 +7055,13 @@
   "n_releases": 2,
   "license": "MIT/Apache-2.0",
   "python": "Not specified",
-  "deps": 583536463,
+  "deps": 586217447,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/TedDriggs/ident_case",
   "home": "",
-  "downloads": 159878368,
+  "downloads": 161130603,
   "rank": 263
  },
  {
@@ -7074,7 +7074,7 @@
   "n_releases": 3,
   "license": "MIT",
   "python": "Not specified",
-  "deps": 603949849,
+  "deps": 606805175,
   "topics": [
    "Text processing"
   ],
@@ -7089,7 +7089,7 @@
   ],
   "repo": "https://github.com/hawkw/matchers",
   "home": "https://github.com/hawkw/matchers",
-  "downloads": 159750345,
+  "downloads": 161070184,
   "rank": 264
  },
  {
@@ -7102,7 +7102,7 @@
   "n_releases": 51,
   "license": "MIT",
   "python": "1.81.0",
-  "deps": 598800956,
+  "deps": 601375799,
   "topics": [
    "Development tools",
    "No standard library",
@@ -7121,7 +7121,7 @@
   ],
   "repo": "https://github.com/JelteF/derive_more",
   "home": "",
-  "downloads": 159480135,
+  "downloads": 160525835,
   "rank": 265
  },
  {
@@ -7134,7 +7134,7 @@
   "n_releases": 51,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 433349477,
+  "deps": 436029012,
   "topics": [
    "Asynchronous",
    "Network programming"
@@ -7148,7 +7148,7 @@
   ],
   "repo": "https://github.com/quinn-rs/quinn",
   "home": "",
-  "downloads": 159186559,
+  "downloads": 160436083,
   "rank": 266
  },
  {
@@ -7161,7 +7161,7 @@
   "n_releases": 44,
   "license": "MIT OR Apache-2.0",
   "python": "1.60",
-  "deps": 710401131,
+  "deps": 713137616,
   "topics": [
    "Algorithms",
    "Concurrency",
@@ -7181,35 +7181,8 @@
   ],
   "repo": "https://github.com/crossbeam-rs/crossbeam",
   "home": "https://github.com/crossbeam-rs/crossbeam/tree/master/crossbeam-channel",
-  "downloads": 159153035,
+  "downloads": 160417195,
   "rank": 267
- },
- {
-  "name": "core-foundation",
-  "slug": "core-foundation",
-  "summary": "Bindings to Core Foundation for macOS",
-  "version": "0.10.1",
-  "released": "2025-05-26",
-  "first_release": "2015-02-12",
-  "n_releases": 32,
-  "license": "MIT OR Apache-2.0",
-  "python": "1.65",
-  "deps": 559813972,
-  "topics": [
-   "macOS APIs"
-  ],
-  "tags": [
-   "macOS APIs"
-  ],
-  "keywords": [
-   "framework",
-   "macos",
-   "objc"
-  ],
-  "repo": "https://github.com/servo/core-foundation-rs",
-  "home": "",
-  "downloads": 157879735,
-  "rank": 268
  },
  {
   "name": "quinn-udp",
@@ -7221,7 +7194,7 @@
   "n_releases": 33,
   "license": "MIT OR Apache-2.0",
   "python": "1.88.0",
-  "deps": 427924164,
+  "deps": 430618817,
   "topics": [
    "Asynchronous",
    "Network programming"
@@ -7235,7 +7208,34 @@
   ],
   "repo": "https://github.com/quinn-rs/quinn",
   "home": "",
-  "downloads": 157851147,
+  "downloads": 159163650,
+  "rank": 268
+ },
+ {
+  "name": "core-foundation",
+  "slug": "core-foundation",
+  "summary": "Bindings to Core Foundation for macOS",
+  "version": "0.10.1",
+  "released": "2025-05-26",
+  "first_release": "2015-02-12",
+  "n_releases": 32,
+  "license": "MIT OR Apache-2.0",
+  "python": "1.65",
+  "deps": 562491538,
+  "topics": [
+   "macOS APIs"
+  ],
+  "tags": [
+   "macOS APIs"
+  ],
+  "keywords": [
+   "framework",
+   "macos",
+   "objc"
+  ],
+  "repo": "https://github.com/servo/core-foundation-rs",
+  "home": "",
+  "downloads": 159108007,
   "rank": 269
  },
  {
@@ -7248,7 +7248,7 @@
   "n_releases": 66,
   "license": "MIT OR Apache-2.0",
   "python": "1.71",
-  "deps": 611536196,
+  "deps": 614288785,
   "topics": [
    "Development tools"
   ],
@@ -7258,7 +7258,7 @@
   ],
   "repo": "https://github.com/dtolnay/prettyplease",
   "home": "",
-  "downloads": 157631822,
+  "downloads": 158811167,
   "rank": 270
  },
  {
@@ -7271,7 +7271,7 @@
   "n_releases": 55,
   "license": "Apache-2.0 OR MIT",
   "python": "1.85",
-  "deps": 552960563,
+  "deps": 555706054,
   "topics": [
    "Cryptography",
    "No standard library"
@@ -7288,7 +7288,7 @@
   ],
   "repo": "https://github.com/RustCrypto/traits",
   "home": "",
-  "downloads": 156112971,
+  "downloads": 157507631,
   "rank": 271
  },
  {
@@ -7301,7 +7301,7 @@
   "n_releases": 67,
   "license": "(Apache-2.0 OR MIT) AND BSD-3-Clause",
   "python": "1.88",
-  "deps": 644534132,
+  "deps": 647288810,
   "topics": [
    "Encoding",
    "Internationalization (i18n)",
@@ -7322,34 +7322,8 @@
   ],
   "repo": "https://github.com/hsivonen/encoding_rs",
   "home": "https://docs.rs/encoding_rs/",
-  "downloads": 156098477,
+  "downloads": 157470474,
   "rank": 272
- },
- {
-  "name": "memoffset",
-  "slug": "memoffset",
-  "summary": "offset_of functionality for Rust structs.",
-  "version": "0.9.1",
-  "released": "2024-03-26",
-  "first_release": "2017-10-17",
-  "n_releases": 23,
-  "license": "MIT",
-  "python": "Not specified",
-  "deps": 852868485,
-  "topics": [
-   "No standard library"
-  ],
-  "tags": [],
-  "keywords": [
-   "mem",
-   "offset",
-   "offset_of",
-   "offsetof"
-  ],
-  "repo": "https://github.com/Gilnaa/memoffset",
-  "home": "",
-  "downloads": 156033487,
-  "rank": 273
  },
  {
   "name": "quinn",
@@ -7361,7 +7335,7 @@
   "n_releases": 41,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 423327020,
+  "deps": 425969839,
   "topics": [
    "Asynchronous",
    "Network programming"
@@ -7375,8 +7349,8 @@
   ],
   "repo": "https://github.com/quinn-rs/quinn",
   "home": "",
-  "downloads": 155864606,
-  "rank": 274
+  "downloads": 157135142,
+  "rank": 273
  },
  {
   "name": "tokio-stream",
@@ -7388,7 +7362,7 @@
   "n_releases": 21,
   "license": "MIT",
   "python": "1.71",
-  "deps": 586408565,
+  "deps": 589040971,
   "topics": [
    "Asynchronous"
   ],
@@ -7398,8 +7372,8 @@
   "keywords": [],
   "repo": "https://github.com/tokio-rs/tokio",
   "home": "https://tokio.rs",
-  "downloads": 155736418,
-  "rank": 275
+  "downloads": 156945795,
+  "rank": 274
  },
  {
   "name": "event-listener",
@@ -7411,7 +7385,7 @@
   "n_releases": 35,
   "license": "Apache-2.0 OR MIT",
   "python": "1.60",
-  "deps": 647822586,
+  "deps": 650444144,
   "topics": [
    "Asynchronous",
    "Concurrency"
@@ -7429,7 +7403,33 @@
   ],
   "repo": "https://github.com/smol-rs/event-listener",
   "home": "",
-  "downloads": 155719052,
+  "downloads": 156918283,
+  "rank": 275
+ },
+ {
+  "name": "memoffset",
+  "slug": "memoffset",
+  "summary": "offset_of functionality for Rust structs.",
+  "version": "0.9.1",
+  "released": "2024-03-26",
+  "first_release": "2017-10-17",
+  "n_releases": 23,
+  "license": "MIT",
+  "python": "Not specified",
+  "deps": 855244580,
+  "topics": [
+   "No standard library"
+  ],
+  "tags": [],
+  "keywords": [
+   "mem",
+   "offset",
+   "offset_of",
+   "offsetof"
+  ],
+  "repo": "https://github.com/Gilnaa/memoffset",
+  "home": "",
+  "downloads": 156796389,
   "rank": 276
  },
  {
@@ -7442,7 +7442,7 @@
   "n_releases": 7,
   "license": "MIT/Apache-2.0",
   "python": "Not specified",
-  "deps": 642456540,
+  "deps": 645161800,
   "topics": [
    "No standard library",
    "Parsing tools"
@@ -7455,7 +7455,7 @@
   ],
   "repo": "https://github.com/Alexhuszagh/minimal-lexical",
   "home": "",
-  "downloads": 154567565,
+  "downloads": 155856281,
   "rank": 277
  },
  {
@@ -7468,7 +7468,7 @@
   "n_releases": 26,
   "license": "MIT",
   "python": "1.48",
-  "deps": 531547446,
+  "deps": 534289688,
   "topics": [
    "Encoding",
    "No standard library"
@@ -7483,7 +7483,7 @@
   ],
   "repo": "https://github.com/ia0/data-encoding",
   "home": "",
-  "downloads": 154251845,
+  "downloads": 155672974,
   "rank": 278
  },
  {
@@ -7496,7 +7496,7 @@
   "n_releases": 33,
   "license": "MIT OR Apache-2.0",
   "python": "1.81",
-  "deps": 573056520,
+  "deps": 575659241,
   "topics": [
    "Data structures",
    "Encoding",
@@ -7512,7 +7512,7 @@
   ],
   "repo": "https://github.com/VoidStarKat/half-rs",
   "home": "",
-  "downloads": 153847669,
+  "downloads": 155129580,
   "rank": 279
  },
  {
@@ -7525,7 +7525,7 @@
   "n_releases": 15,
   "license": "MIT OR Apache-2.0",
   "python": "Not specified",
-  "deps": 610609298,
+  "deps": 613139243,
   "topics": [
    "No standard library",
    "Rust patterns",
@@ -7541,7 +7541,7 @@
   ],
   "repo": "https://github.com/nvzqz/static-assertions-rs",
   "home": "https://github.com/nvzqz/static-assertions-rs",
-  "downloads": 152382294,
+  "downloads": 153524983,
   "rank": 280
  },
  {
@@ -7554,7 +7554,7 @@
   "n_releases": 44,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 232948171,
+  "deps": 235838197,
   "topics": [
    "Data structures",
    "No standard library"
@@ -7567,7 +7567,7 @@
   ],
   "repo": "https://github.com/RustCrypto/hybrid-array",
   "home": "",
-  "downloads": 150832323,
+  "downloads": 152635962,
   "rank": 281
  },
  {
@@ -7580,10 +7580,10 @@
   "n_releases": 30,
   "license": "(MIT OR Apache-2.0) AND Unicode-3.0",
   "python": "1.36",
-  "deps": 684513894,
+  "deps": 687156712,
   "topics": [
-   "text",
-   "unicode"
+   "decomposition",
+   "normalization"
   ],
   "tags": [],
   "keywords": [
@@ -7595,7 +7595,7 @@
   ],
   "repo": "https://github.com/unicode-rs/unicode-normalization",
   "home": "https://github.com/unicode-rs/unicode-normalization",
-  "downloads": 150636470,
+  "downloads": 151974050,
   "rank": 282
  },
  {
@@ -7608,7 +7608,7 @@
   "n_releases": 11,
   "license": "MIT OR Apache-2.0",
   "python": "1.95",
-  "deps": 431220625,
+  "deps": 433790324,
   "topics": [
    "Windows APIs"
   ],
@@ -7618,7 +7618,7 @@
   "keywords": [],
   "repo": "https://github.com/microsoft/windows-rs",
   "home": "",
-  "downloads": 150346740,
+  "downloads": 151615869,
   "rank": 283
  },
  {
@@ -7631,7 +7631,7 @@
   "n_releases": 32,
   "license": "MIT OR Apache-2.0",
   "python": "1.56",
-  "deps": 608663976,
+  "deps": 611249213,
   "topics": [
    "Data structures"
   ],
@@ -7646,7 +7646,7 @@
   ],
   "repo": "https://github.com/petgraph/fixedbitset",
   "home": "",
-  "downloads": 150262540,
+  "downloads": 151357100,
   "rank": 284
  },
  {
@@ -7659,7 +7659,7 @@
   "n_releases": 31,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 467177281,
+  "deps": 469881869,
   "topics": [
    "Cryptography",
    "No standard library"
@@ -7674,7 +7674,7 @@
   ],
   "repo": "https://github.com/RustCrypto/hashes",
   "home": "",
-  "downloads": 148997172,
+  "downloads": 150442661,
   "rank": 285
  },
  {
@@ -7687,7 +7687,7 @@
   "n_releases": 4,
   "license": "MIT OR Apache-2.0 OR Zlib",
   "python": "Not specified",
-  "deps": 333967770,
+  "deps": 336537838,
   "topics": [
    "Data structures",
    "No standard library"
@@ -7698,7 +7698,7 @@
   "keywords": [],
   "repo": "https://github.com/Ralith/lru-slab",
   "home": "",
-  "downloads": 147792713,
+  "downloads": 149105762,
   "rank": 286
  },
  {
@@ -7711,7 +7711,7 @@
   "n_releases": 22,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 445009809,
+  "deps": 447527930,
   "topics": [
    "data-structures",
    "no_std"
@@ -7722,7 +7722,7 @@
   ],
   "repo": "https://github.com/djc/hashlink",
   "home": "",
-  "downloads": 147549090,
+  "downloads": 148858184,
   "rank": 287
  },
  {
@@ -7735,7 +7735,7 @@
   "n_releases": 78,
   "license": "MIT OR Apache-2.0",
   "python": "1.64",
-  "deps": 617631532,
+  "deps": 620096983,
   "topics": [
    "Data structures"
   ],
@@ -7750,35 +7750,8 @@
   ],
   "repo": "https://github.com/petgraph/petgraph",
   "home": "",
-  "downloads": 146828549,
+  "downloads": 147790201,
   "rank": 288
- },
- {
-  "name": "pin-project-internal",
-  "slug": "pin-project-internal",
-  "summary": "Implementation detail of the `pin-project` crate.",
-  "version": "1.1.13",
-  "released": "2026-05-13",
-  "first_release": "2019-08-11",
-  "n_releases": 71,
-  "license": "Apache-2.0 OR MIT",
-  "python": "1.71",
-  "deps": 688855017,
-  "topics": [
-   "No dynamic allocation",
-   "No standard library",
-   "Rust patterns"
-  ],
-  "tags": [],
-  "keywords": [
-   "attribute",
-   "macros",
-   "pin"
-  ],
-  "repo": "https://github.com/taiki-e/pin-project",
-  "home": "",
-  "downloads": 146233221,
-  "rank": 289
  },
  {
   "name": "spki",
@@ -7790,7 +7763,7 @@
   "n_releases": 29,
   "license": "Apache-2.0 OR MIT",
   "python": "1.85",
-  "deps": 531735812,
+  "deps": 534364132,
   "topics": [
    "Cryptography",
    "Data structures",
@@ -7808,8 +7781,8 @@
   ],
   "repo": "https://github.com/RustCrypto/formats",
   "home": "https://github.com/RustCrypto/formats/tree/master/spki",
-  "downloads": 146216336,
-  "rank": 290
+  "downloads": 147587018,
+  "rank": 289
  },
  {
   "name": "object",
@@ -7821,10 +7794,10 @@
   "n_releases": 74,
   "license": "Apache-2.0 OR MIT",
   "python": "1.85",
-  "deps": 719323593,
+  "deps": 721888488,
   "topics": [
-   "elf",
-   "object"
+   "coff",
+   "elf"
   ],
   "tags": [],
   "keywords": [
@@ -7836,35 +7809,8 @@
   ],
   "repo": "https://github.com/gimli-rs/object",
   "home": "",
-  "downloads": 146092954,
-  "rank": 291
- },
- {
-  "name": "pin-project",
-  "slug": "pin-project",
-  "summary": "A crate for safe and ergonomic pin-projection.",
-  "version": "1.1.13",
-  "released": "2026-05-13",
-  "first_release": "2019-01-08",
-  "n_releases": 89,
-  "license": "Apache-2.0 OR MIT",
-  "python": "1.71",
-  "deps": 688630449,
-  "topics": [
-   "No dynamic allocation",
-   "No standard library",
-   "Rust patterns"
-  ],
-  "tags": [],
-  "keywords": [
-   "attribute",
-   "macros",
-   "pin"
-  ],
-  "repo": "https://github.com/taiki-e/pin-project",
-  "home": "",
-  "downloads": 146080543,
-  "rank": 292
+  "downloads": 147292468,
+  "rank": 290
  },
  {
   "name": "cipher",
@@ -7876,7 +7822,7 @@
   "n_releases": 39,
   "license": "MIT OR Apache-2.0",
   "python": "1.85",
-  "deps": 473465566,
+  "deps": 476133271,
   "topics": [
    "Cryptography",
    "No standard library"
@@ -7892,7 +7838,61 @@
   ],
   "repo": "https://github.com/RustCrypto/traits",
   "home": "",
-  "downloads": 145809299,
+  "downloads": 147248222,
+  "rank": 291
+ },
+ {
+  "name": "pin-project-internal",
+  "slug": "pin-project-internal",
+  "summary": "Implementation detail of the `pin-project` crate.",
+  "version": "1.1.13",
+  "released": "2026-05-13",
+  "first_release": "2019-08-11",
+  "n_releases": 71,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.71",
+  "deps": 691293862,
+  "topics": [
+   "No dynamic allocation",
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [],
+  "keywords": [
+   "attribute",
+   "macros",
+   "pin"
+  ],
+  "repo": "https://github.com/taiki-e/pin-project",
+  "home": "",
+  "downloads": 147231031,
+  "rank": 292
+ },
+ {
+  "name": "pin-project",
+  "slug": "pin-project",
+  "summary": "A crate for safe and ergonomic pin-projection.",
+  "version": "1.1.13",
+  "released": "2026-05-13",
+  "first_release": "2019-01-08",
+  "n_releases": 89,
+  "license": "Apache-2.0 OR MIT",
+  "python": "1.71",
+  "deps": 691065351,
+  "topics": [
+   "No dynamic allocation",
+   "No standard library",
+   "Rust patterns"
+  ],
+  "tags": [],
+  "keywords": [
+   "attribute",
+   "macros",
+   "pin"
+  ],
+  "repo": "https://github.com/taiki-e/pin-project",
+  "home": "",
+  "downloads": 147075347,
   "rank": 293
  },
  {
@@ -7905,13 +7905,13 @@
   "n_releases": 73,
   "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
   "python": "Not specified",
-  "deps": 351119852,
+  "deps": 353539420,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/bytecodealliance/wit-bindgen",
   "home": "",
-  "downloads": 144561866,
+  "downloads": 145636591,
   "rank": 294
  },
  {
@@ -7924,7 +7924,7 @@
   "n_releases": 58,
   "license": "Zlib OR Apache-2.0 OR MIT",
   "python": "Not specified",
-  "deps": 479115877,
+  "deps": 481590509,
   "topics": [
    "Encoding",
    "No standard library"
@@ -7939,7 +7939,7 @@
   ],
   "repo": "https://github.com/Lokathor/bytemuck",
   "home": "",
-  "downloads": 143693276,
+  "downloads": 144940604,
   "rank": 295
  },
  {
@@ -7952,7 +7952,7 @@
   "n_releases": 37,
   "license": "MIT OR Apache-2.0",
   "python": "1.71",
-  "deps": 356705739,
+  "deps": 359169699,
   "topics": [
    "No dynamic allocation",
    "No standard library",
@@ -7962,7 +7962,7 @@
   "keywords": [],
   "repo": "https://github.com/dtolnay/ref-cast",
   "home": "",
-  "downloads": 143033544,
+  "downloads": 144275392,
   "rank": 296
  },
  {
@@ -7975,13 +7975,13 @@
   "n_releases": 37,
   "license": "MIT OR Apache-2.0",
   "python": "1.71",
-  "deps": 356689528,
+  "deps": 359153371,
   "topics": [],
   "tags": [],
   "keywords": [],
   "repo": "https://github.com/dtolnay/ref-cast",
   "home": "",
-  "downloads": 143029437,
+  "downloads": 144271458,
   "rank": 297
  },
  {
@@ -7994,7 +7994,7 @@
   "n_releases": 31,
   "license": "Apache-2.0 OR MIT",
   "python": "1.85",
-  "deps": 507043101,
+  "deps": 509521038,
   "topics": [
    "Cryptography",
    "Encoding",
@@ -8014,7 +8014,7 @@
   ],
   "repo": "https://github.com/RustCrypto/formats",
   "home": "https://github.com/RustCrypto/formats/tree/master/base64ct",
-  "downloads": 142720429,
+  "downloads": 143941319,
   "rank": 298
  },
  {
@@ -8027,7 +8027,7 @@
   "n_releases": 21,
   "license": "MIT OR Apache-2.0",
   "python": "1.60",
-  "deps": 447758979,
+  "deps": 450205307,
   "topics": [
    "No standard library",
    "Rust patterns"
@@ -8041,7 +8041,7 @@
   ],
   "repo": "https://github.com/dtolnay/dyn-clone",
   "home": "",
-  "downloads": 141282791,
+  "downloads": 142460871,
   "rank": 299
  },
  {
@@ -8054,7 +8054,7 @@
   "n_releases": 8,
   "license": "CC0-1.0 OR MIT-0 OR Apache-2.0",
   "python": "Not specified",
-  "deps": 409883971,
+  "deps": 412407016,
   "topics": [
    "Filesystem"
   ],
@@ -8070,7 +8070,7 @@
   ],
   "repo": "https://gitlab.com/kornelski/dunce",
   "home": "https://lib.rs/crates/dunce",
-  "downloads": 141094460,
+  "downloads": 142384132,
   "rank": 300
  }
 ]
